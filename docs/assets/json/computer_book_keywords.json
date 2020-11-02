@@ -1,0 +1,142 @@
+[
+  {
+    "id": "go",
+    "display_name": "Go",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "cs",
+    "display_name": "C#",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "windows",
+    "display_name": "Windows",
+    "category": "OS",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "linux",
+    "display_name": "Linux",
+    "category": "OS",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "docker",
+    "display_name": "Docker",
+    "category": "コンテナ",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "vue",
+    "display_name": "Vue",
+    "category": "framework",
+    "description": "",
+    "parent_id": "javascript"
+  },
+  {
+    "id": "js",
+    "display_name": "JavaScript",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "nodejs",
+    "display_name": "node.js",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "python",
+    "display_name": "Python",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "deeplerning",
+    "display_name": "機械学習",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "jupyter",
+    "display_name": "Jupyter",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "sql",
+    "display_name": "SQL",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "java",
+    "display_name": "Java",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "ios",
+    "display_name": "ios",
+    "category": "OS",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "android",
+    "display_name": "android",
+    "category": "OS",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "kotlin",
+    "display_name": "kotlin",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "oop",
+    "display_name": "オブジェクト指向",
+    "category": "設計",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "security",
+    "display_name": "セキュリティ",
+    "category": "インフラ",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "activedirectory",
+    "display_name": "Active Directory",
+    "category": "インフラ",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "r",
+    "display_name": "R",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  }
+]

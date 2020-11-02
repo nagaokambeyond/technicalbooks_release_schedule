@@ -1,0 +1,44 @@
+.go {
+  background-color: #7fd5ea;
+}
+.cs {
+  background-color: #358230;
+}
+.windows {
+  background-color: #0067b8;
+}
+.linux {
+  background: linear-gradient(#0067b8);
+}
+.docker {
+  background-color: #00aada;
+}
+.vue {
+  background: linear-gradient(#41b883, #35495e);
+}
+.js {
+  background-color: #f5de19;
+}
+.python,
+.deeplerning,
+.jupyter {
+  background: linear-gradient(#387eb8, #ffc331);
+}
+.sql {
+  background-color: #ffda44;
+}
+.java {
+  background-color: #f5de19;
+}
+.ios {
+  background: linear-gradient(#5a5a5a, #b3b3b3);
+}
+.android {
+  background: linear-gradient(#809136, #aac148);
+}
+.kotlin {
+  background: linear-gradient(#0296d8, #8371d9, #cb55c0);
+}
+.r {
+  background: linear-gradient(#cbced0, #84838b, #276dc3);
+}
