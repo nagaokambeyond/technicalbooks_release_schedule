@@ -34,7 +34,7 @@ export default {
   },
   mounted: function() {
     axios
-      .get("/assets/json/menu.json")
+      .get("./assets/json/menu.json")
       .then(response => (this.menu = response.data))
       .catch(response => console.log(response));
   },

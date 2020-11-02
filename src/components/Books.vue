@@ -39,11 +39,11 @@ export default {
   },
   mounted: function() {
     axios
-      .get("/assets/json/computer_book_keywords.json")
+      .get("./assets/json/computer_book_keywords.json")
       .then(response => (this.book_keywords = response.data))
       .catch(response => console.log(response));
     axios
-      .get("/assets/json/computer_books.json")
+      .get("./assets/json/computer_books.json")
       .then(response => {
         let processed = response.data;
         processed.forEach(book => {
@@ -64,5 +64,5 @@ export default {
 </script>
 
 <style>
-@import url("/assets/css/computer_books.css");
+@import url("./assets/css/computer_books.css");
 </style>
