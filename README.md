@@ -1,4 +1,6 @@
-# technicalbooks_release_schedule
+# 専門書近刊ページ
+
+https://nagaokambeyond.github.io/technicalbooks_release_schedule/
 
 ## Project setup
 ```
@@ -22,3 +24,19 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## TODO
+### 技術的なもの
+- typescript化
+- vue.js3化
+- 検索機能
+
+### デザイン的なもの
+- licensesページの追加
+
+### データ的なもの
+- コンピュータ以外のジャンルをそろえる
+  - 将棋
+
+ ### 調査
+- json読み込みを相対パス化調査
