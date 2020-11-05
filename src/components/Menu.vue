@@ -15,7 +15,8 @@
             v-model="local_active_page"
             v-bind:value="word.id"
           />
-          {{ word.title }}
+          {{ word.menu_title }}
+          {{ word.menu_data_url }}
         </label>
       </li>
     </ul>

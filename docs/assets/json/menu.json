@@ -1,6 +1,8 @@
 [
   {
     "id": 2,
-    "title": "コンピュータ"
+    "menu_title": "コンピュータ",
+    "menu_data_url": "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_books.json",
+    "menu_keyword_url": "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_book_keywords.json"
   }
 ]

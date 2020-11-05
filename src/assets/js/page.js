@@ -7,11 +7,11 @@ export const PAGE = {
     val: 2,
     title: "コンピューター"
   },
-  COMPUTER_BOOKS: {
+  SYOUGI_BOOKS: {
     val: 3,
     title: "将棋"
   },
-  COMPUTER_BOOKS: {
+  MAHJONGh_BOOKS: {
     val: 4,
     title: "麻雀"
   },
