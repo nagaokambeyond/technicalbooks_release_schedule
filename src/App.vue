@@ -2,7 +2,7 @@
   <div id="app">
     <Head></Head><br />
     <Menu :child_page="active_page" @input="active_page = $event"></Menu>
-    <Books></Books>
+    <Books :child_page="active_page"></Books>
   </div>
 </template>
 

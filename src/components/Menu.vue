@@ -16,7 +16,6 @@
             v-bind:value="word.id"
           />
           {{ word.menu_title }}
-          {{ word.menu_data_url }}
         </label>
       </li>
     </ul>
@@ -35,7 +34,9 @@ export default {
   },
   mounted: function() {
     axios
-      .get("https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/menu.json")
+      .get(
+        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/menu.json"
+      )
       .then(response => (this.menu = response.data))
       .catch(response => console.log(response));
   },

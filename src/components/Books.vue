@@ -31,19 +31,25 @@
 import axios from "axios";
 export default {
   name: "App",
+  props: ["child_page"],
   data() {
     return {
       books: [],
-      book_keywords: []
+      book_keywords: [],
+      menu: []
     };
   },
   mounted: function() {
     axios
-      .get("https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_book_keywords.json")
+      .get(
+        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_book_keywords.json"
+      )
       .then(response => (this.book_keywords = response.data))
       .catch(response => console.log(response));
     axios
-      .get("https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_books.json")
+      .get(
+        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_books.json"
+      )
       .then(response => {
         let processed = response.data;
         processed.forEach(book => {
