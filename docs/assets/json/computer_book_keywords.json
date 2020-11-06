@@ -133,6 +133,13 @@
     "parent_id": ""
   },
   {
+    "id": "test",
+    "display_name": "テスト",
+    "category": "インフラ",
+    "description": "",
+    "parent_id": ""
+  },
+  {
     "id": "r",
     "display_name": "R",
     "category": "プログラム言語",

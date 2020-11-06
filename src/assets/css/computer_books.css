@@ -10,13 +10,15 @@
 .linux {
   background: linear-gradient(#0067b8);
 }
-.docker {
+.docker,
+.test {
   background-color: #00aada;
 }
 .vue {
   background: linear-gradient(#41b883, #35495e);
 }
-.js {
+.js,
+.nodejs {
   background-color: #f5de19;
 }
 .python,
