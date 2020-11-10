@@ -208,6 +208,15 @@
   },
   {
     "id": 24,
+    "release_date": "2020/11/20",
+    "book_title": "できる 仕事がはかどるGoogle Apps Script自動処理 全部入り。",
+    "book_url": "https://book.impress.co.jp/books/1120101041",
+    "book_publisher": "impress",
+    "isbn": "9784295010234",
+    "keywords": ["googleappsscript"]
+  },
+  {
+    "id": 25,
     "release_date": "2020/11/27",
     "book_title": "ソフトウェアテスト自動化の教科書",
     "book_url": "https://gihyo.jp/book/2020/978-4-297-11736-8",
@@ -216,12 +225,30 @@
     "keywords": ["test"]
   },
   {
-    "id": 25,
+    "id": 26,
     "release_date": "2020/12/14",
     "book_title": "ひと目でわかるAzure Active Directory 第3版",
     "book_url": "https://project.nikkeibp.co.jp/bnt/atcl/20/P86590/",
     "book_publisher": "日経BP",
     "isbn": "9784822286590",
     "keywords": ["activedirectory"]
+  },
+  {
+    "id": 27,
+    "release_date": "2020/12/28",
+    "book_title": "エンタープライズアジャイル開発実践ガイド",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7405-3",
+    "keywords": ["agile"]
+  },
+  {
+    "id": 28,
+    "release_date": "2020/12/28",
+    "book_title": "シゴトがはかどる Python自動処理の教科書",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
+    "book_publisher": "マイナビ",
+    "isbn": "",
+    "keywords": ["python"]
   }
 ]

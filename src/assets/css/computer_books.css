@@ -1,13 +1,15 @@
 .go {
   background-color: #7fd5ea;
 }
-.cs {
+.cs,
+.googleappsscript {
   background-color: #358230;
 }
 .windows {
   background-color: #0067b8;
 }
-.linux {
+.linux,
+.agile {
   background: linear-gradient(#0067b8);
 }
 .docker,
