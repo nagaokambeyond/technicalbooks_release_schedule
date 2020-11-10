@@ -140,6 +140,20 @@
     "parent_id": ""
   },
   {
+    "id": "agile",
+    "display_name": "アジャイル",
+    "category": "インフラ",
+    "description": "",
+    "parent_id": ""
+  },
+  {
+    "id": "googleappsscript",
+    "display_name": "Google Apps Script",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": ""
+  },
+  {
     "id": "r",
     "display_name": "R",
     "category": "プログラム言語",
