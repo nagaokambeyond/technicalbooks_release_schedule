@@ -50,32 +50,49 @@ export default {
       search_string: ""
     };
   },
-  mounted: function() {
-    axios
-      .get(
-        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_book_keywords.json"
-      )
-      .then(response => (this.book_keywords = response.data))
-      .catch(response => console.log(response));
-    axios
-      .get(
-        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_books.json"
-      )
-      .then(response => {
-        let processed = response.data;
-        processed.forEach(book => {
-          let master = [];
-          book.keywords.forEach(word => {
-            const found = this.book_keywords.filter(x => x.id === word);
-            if (found.length > 0) {
-              master.push(found[0]);
-            }
+  methods: {
+    setKeyWords: function() {
+      axios
+        .get(
+          "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_book_keywords.json"
+        )
+        .then(response => (this.book_keywords = response.data))
+        .catch(response => console.log(response));
+    },
+    setBooks: function(val) {
+      axios
+        .get(
+          "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_books.json"
+        )
+        .then(response => {
+          let processed = response.data;
+          processed.forEach(book => {
+            let master = [];
+            book.keywords.forEach(word => {
+              const found = this.book_keywords.filter(x => x.id === word);
+              if (found.length > 0) {
+                master.push(found[0]);
+              }
+            });
+            book.keyword_master = master;
           });
-          book.keyword_master = master;
-        });
-        this.books = processed;
-      })
-      .catch(response => console.log(response));
+          if (val.length === 0) {
+            this.books = processed;
+          } else {
+            this.books = processed.filter(
+              book =>
+                (book.book_title + book.book_publisher + book.release_date)
+                  .toLowerCase()
+                  .indexOf(val.toLowerCase()) > 0
+            );
+          }
+        })
+        .catch(response => console.log(response));
+    }
+  },
+  mounted: function() {
+    this.setKeyWords();
+    this.setBooks("");
   },
   computed: {
     searchString: {
@@ -89,42 +106,8 @@ export default {
   },
   watch: {
     search_string(val) {
-      axios
-        .get(
-          "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_book_keywords.json"
-        )
-        .then(response => (this.book_keywords = response.data))
-        .catch(response => console.log(response));
-      axios
-        .get(
-          "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_books.json"
-        )
-        .then(response => {
-          var processed = response.data;
-          if (val.length !== 0) {
-            processed = response.data.filter(
-              book =>
-                (
-                  book.book_title.toLowerCase() +
-                  book.book_publisher.toLowerCase() +
-                  book.release_date
-                ).indexOf(val.toLowerCase()) > 0
-            );
-          }
-
-          processed.forEach(book => {
-            let master = [];
-            book.keywords.forEach(word => {
-              const found = this.book_keywords.filter(x => x.id === word);
-              if (found.length > 0) {
-                master.push(found[0]);
-              }
-            });
-            book.keyword_master = master;
-          });
-          this.books = processed;
-        })
-        .catch(response => console.log(response));
+      this.setKeyWords();
+      this.setBooks(val);
     }
   }
 };
