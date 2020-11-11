@@ -28,7 +28,9 @@
               :key="word.id"
               :class="word.id"
             >
-              ・{{ word.display_name }} &nbsp;
+              <i class="devicon-go-original">
+                ・{{ word.display_name }} &nbsp;
+              </i>
             </span>
           </td>
         </tr>

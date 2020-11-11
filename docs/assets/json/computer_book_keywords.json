@@ -4,160 +4,183 @@
     "display_name": "Go",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": "go-original"
   },
   {
     "id": "cs",
     "display_name": "C#",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "windows",
     "display_name": "Windows",
     "category": "OS",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "linux",
     "display_name": "Linux",
     "category": "OS",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "docker",
     "display_name": "Docker",
     "category": "コンテナ",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "vue",
     "display_name": "Vue",
     "category": "framework",
     "description": "",
-    "parent_id": "javascript"
+    "parent_id": "javascript",
+    "icon": ""
   },
   {
     "id": "js",
     "display_name": "JavaScript",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "nodejs",
     "display_name": "node.js",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "python",
     "display_name": "Python",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "deeplerning",
     "display_name": "機械学習",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "jupyter",
     "display_name": "Jupyter",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "sql",
     "display_name": "SQL",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "java",
     "display_name": "Java",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "ios",
     "display_name": "ios",
     "category": "OS",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "android",
     "display_name": "android",
     "category": "OS",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "kotlin",
     "display_name": "kotlin",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "oop",
     "display_name": "オブジェクト指向",
     "category": "設計",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "security",
     "display_name": "セキュリティ",
     "category": "インフラ",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "activedirectory",
     "display_name": "Active Directory",
     "category": "インフラ",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "test",
     "display_name": "テスト",
     "category": "インフラ",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "agile",
     "display_name": "アジャイル",
     "category": "インフラ",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "googleappsscript",
     "display_name": "Google Apps Script",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "r",
     "display_name": "R",
     "category": "プログラム言語",
     "description": "",
-    "parent_id": ""
+    "parent_id": "",
+    "icon": ""
   }
 ]

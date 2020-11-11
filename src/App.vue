@@ -10,6 +10,7 @@
 import Head from "./components/Head.vue";
 import Menu from "./components/Menu.vue";
 import Books from "./components/Books.vue";
+import "devicon";
 
 export default {
   components: {
