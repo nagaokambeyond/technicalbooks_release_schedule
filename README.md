@@ -29,10 +29,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 技術的なもの
 - typescript化
 - vue.js3化
-- 検索機能
 
 ### デザイン的なもの
+- devicon化
 - licensesページの追加
+- favicon
 
 ### データ的なもの
 - コンピュータ以外のジャンルをそろえる
