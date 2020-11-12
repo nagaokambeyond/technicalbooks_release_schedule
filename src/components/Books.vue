@@ -25,9 +25,7 @@
             <br />
             <template v-for="word in book.keyword_master">
               <template v-if="word.icon.length !== 0">
-                <i :key="word.id" :class="word.icon">
-                  ・{{ word.display_name }} &nbsp;
-                </i>
+                <i :key="word.id" :class="word.icon"> </i>
               </template>
               <template v-else>
                 <span :key="word.id" :class="word.id">

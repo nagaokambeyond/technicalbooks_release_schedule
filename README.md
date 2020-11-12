@@ -27,11 +27,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## TODO
 ### 技術的なもの
+- json参照先を外だし
 - typescript化
 - vue.js3化
 
 ### デザイン的なもの
-- devicon化
 - licensesページの追加
 - favicon
 
