@@ -109,7 +109,6 @@ export default {
   },
   watch: {
     search_string(val) {
-      this.setKeyWords();
       this.setBooks(val);
     }
   }
