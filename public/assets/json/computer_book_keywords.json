@@ -173,7 +173,7 @@
     "category": "プログラム言語",
     "description": "",
     "parent_id": "",
-    "icon": ""
+    "icon": "evicon-google-plain colored"
   },
   {
     "id": "c",
@@ -182,6 +182,14 @@
     "description": "",
     "parent_id": "",
     "icon": "devicon-c-plain colored"
+  },
+  {
+    "id": "unity",
+    "display_name": "unity",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": ""
   },
   {
     "id": "r",

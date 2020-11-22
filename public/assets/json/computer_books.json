@@ -262,6 +262,15 @@
   },
   {
     "id": 30,
+    "release_date": "2020/12/18",
+    "book_title": "たった1日で基本が身に付く！Unity 超入門",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11746-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11746-7",
+    "keywords": ["unity"]
+  },
+  {
+    "id": 31,
     "release_date": "2020/12/21",
     "book_title": "JavaScriptモダンプログラミング完全ガイド 堅牢なコードを効率的に開発できる！",
     "book_url": "https://book.impress.co.jp/books/1120101055",
@@ -270,7 +279,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 31,
+    "id": 32,
     "release_date": "2020/12/28",
     "book_title": "エンタープライズアジャイル開発実践ガイド",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
@@ -279,7 +288,7 @@
     "keywords": ["agile"]
   },
   {
-    "id": 32,
+    "id": 33,
     "release_date": "2020/12/28",
     "book_title": "シゴトがはかどる Python自動処理の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
