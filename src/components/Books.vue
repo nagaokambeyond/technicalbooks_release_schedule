@@ -44,29 +44,27 @@
 import axios from "axios";
 export default {
   name: "App",
-  props: ["child_page"],
+  props: ["child_page", "child_active_menu"],
   data() {
     return {
       books: [],
       book_keywords: [],
-      menu: [],
       search_string: ""
     };
   },
   methods: {
     setKeyWords: function() {
+      let self = this;
       axios
-        .get(
-          "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_book_keywords.json"
-        )
-        .then(response => (this.book_keywords = response.data))
+        .get(self.child_active_menu[0].menu_keyword_url)
+        .then(function(response) {
+          self.book_keywords = response.data;
+        })
         .catch(response => console.log(response));
     },
     setBooks: function(val) {
       axios
-        .get(
-          "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/computer_books.json"
-        )
+        .get(this.child_active_menu[0].menu_data_url)
         .then(response => {
           let processed = response.data;
           processed.forEach(book => {
@@ -94,8 +92,13 @@ export default {
     }
   },
   mounted: function() {
-    this.setKeyWords();
-    this.setBooks("");
+    let self = this;
+    setTimeout(function() {
+      // app.createdより後に実行したいためsetTimeoutしている
+      // いい方法がみつかり次第きりかえる
+      self.setKeyWords();
+      self.setBooks("");
+    }, 500);
   },
   computed: {
     searchString: {
@@ -110,6 +113,10 @@ export default {
   watch: {
     search_string(val) {
       this.setBooks(val);
+    },
+    child_page() {
+      this.setKeyWords();
+      this.setBooks("");
     }
   }
 };

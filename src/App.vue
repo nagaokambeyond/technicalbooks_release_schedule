@@ -1,12 +1,17 @@
 <template>
   <div id="app">
     <Head></Head><br />
-    <Menu :child_page="active_page" @input="active_page = $event"></Menu>
-    <Books :child_page="active_page"></Books>
+    <Menu
+      :child_page="active_page"
+      :child_menu="menu"
+      @input="active_page = $event"
+    ></Menu>
+    <Books :child_active_menu="active_menu" :child_page="active_page"> </Books>
   </div>
 </template>
 
 <script>
+import axios from "axios";
 import Head from "./components/Head.vue";
 import Menu from "./components/Menu.vue";
 import Books from "./components/Books.vue";
@@ -20,8 +25,35 @@ export default {
   },
   data() {
     return {
-      active_page: 2
+      active_page: 2,
+      menu: null,
+      active_menu: null
     };
+  },
+  methods: {
+    setActiveMenu: function() {
+      if (this.menu === null) {
+        return;
+      }
+      this.active_menu = this.menu.filter(r => r.id === this.active_page);
+    }
+  },
+  created: function() {
+    let self = this;
+    axios
+      .get(
+        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/menu.json"
+      )
+      .then(function(response) {
+        self.menu = response.data;
+        self.setActiveMenu();
+      })
+      .catch(response => console.log(response));
+  },
+  watch: {
+    active_page() {
+      this.setActiveMenu();
+    }
   }
 };
 </script>

@@ -1,7 +1,7 @@
 <template>
   <div>
     <ul class="nav nav-tabs">
-      <li class="nav-item" v-for="word in menu" :key="word.id">
+      <li class="nav-item" v-for="word in child_menu" :key="word.id">
         <label
           v-bind:class="[
             local_active_page === word.id
@@ -23,23 +23,9 @@
 </template>
 
 <script>
-import axios from "axios";
 export default {
   name: "Menu",
-  props: ["child_page"],
-  data() {
-    return {
-      menu: []
-    };
-  },
-  mounted: function() {
-    axios
-      .get(
-        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/menu.json"
-      )
-      .then(response => (this.menu = response.data))
-      .catch(response => console.log(response));
-  },
+  props: ["child_page", "child_menu"],
   computed: {
     local_active_page: {
       get: function() {
