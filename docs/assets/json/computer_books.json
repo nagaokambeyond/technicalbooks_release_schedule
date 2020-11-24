@@ -235,6 +235,42 @@
   },
   {
     "id": 27,
+    "release_date": "2020/11/21",
+    "book_title": "動かしながら学ぶ PyTorchプログラミング入門",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226403/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22640-3",
+    "keywords": ["python"]
+  },
+  {
+    "id": 28,
+    "release_date": "2020/11/21",
+    "book_title": "ソフトウェア品質知識体系ガイド （第3版） －SQuBOK Guide V3－",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226311/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22631-1",
+    "keywords": []
+  },
+  {
+    "id": 29,
+    "release_date": "2020/11/21",
+    "book_title": "達人プログラマー 熟達に向けたあなたの旅（第2版）",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226298/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22629-8",
+    "keywords": []
+  },
+  {
+    "id": 30,
+    "release_date": "2020/11/24",
+    "book_title": "JavaScript基礎ドリル　穴埋め式",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226199/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22619-9",
+    "keywords": ["javascript"]
+  },
+  {
+    "id": 31,
     "release_date": "2020/11/26",
     "book_title": "Google Apps Scriptのツボとコツがゼッタイにわかる本",
     "book_url": "https://www.shuwasystem.co.jp/book/9784798062501.html",
@@ -243,7 +279,7 @@
     "keywords": ["googleappsscript"]
   },
   {
-    "id": 28,
+    "id": 32,
     "release_date": "2020/11/27",
     "book_title": "ソフトウェアテスト自動化の教科書",
     "book_url": "https://gihyo.jp/book/2020/978-4-297-11736-8",
@@ -252,7 +288,7 @@
     "keywords": ["test"]
   },
   {
-    "id": 29,
+    "id": 33,
     "release_date": "2020/12/14",
     "book_title": "ひと目でわかるAzure Active Directory 第3版",
     "book_url": "https://project.nikkeibp.co.jp/bnt/atcl/20/P86590/",
@@ -261,7 +297,7 @@
     "keywords": ["activedirectory"]
   },
   {
-    "id": 30,
+    "id": 34,
     "release_date": "2020/12/18",
     "book_title": "たった1日で基本が身に付く！Unity 超入門",
     "book_url": "https://gihyo.jp/book/2020/978-4-297-11746-7",
@@ -270,7 +306,7 @@
     "keywords": ["unity"]
   },
   {
-    "id": 31,
+    "id": 35,
     "release_date": "2020/12/21",
     "book_title": "JavaScriptモダンプログラミング完全ガイド 堅牢なコードを効率的に開発できる！",
     "book_url": "https://book.impress.co.jp/books/1120101055",
@@ -279,7 +315,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 32,
+    "id": 36,
     "release_date": "2020/12/28",
     "book_title": "エンタープライズアジャイル開発実践ガイド",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
@@ -288,7 +324,7 @@
     "keywords": ["agile"]
   },
   {
-    "id": 33,
+    "id": 37,
     "release_date": "2020/12/28",
     "book_title": "シゴトがはかどる Python自動処理の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
