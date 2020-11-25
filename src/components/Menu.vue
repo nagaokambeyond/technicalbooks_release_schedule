@@ -25,11 +25,11 @@
 <script>
 export default {
   name: "Menu",
-  props: ["child_page", "child_menu"],
+  props: ["child_menu_id", "child_menu"],
   computed: {
     local_active_page: {
       get: function() {
-        return this.child_page;
+        return this.child_menu_id;
       },
       set: function(value) {
         this.$emit("input", value);

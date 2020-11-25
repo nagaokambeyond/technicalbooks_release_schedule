@@ -44,7 +44,7 @@
 import axios from "axios";
 export default {
   name: "App",
-  props: ["child_page", "child_active_menu"],
+  props: ["child_menu_id", "child_active_menu"],
   data() {
     return {
       books: [],
@@ -114,7 +114,7 @@ export default {
     search_string(val) {
       this.setBooks(val);
     },
-    child_page() {
+    child_menu_id() {
       this.setKeyWords();
       this.setBooks("");
     }

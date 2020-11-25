@@ -2,11 +2,11 @@
   <div id="app">
     <Head></Head><br />
     <Menu
-      :child_page="active_page"
+      :child_menu_id="active_menu_id"
       :child_menu="menu"
-      @input="active_page = $event"
+      @input="active_menu_id = $event"
     ></Menu>
-    <Books :child_active_menu="active_menu" :child_page="active_page"> </Books>
+    <Books :child_active_menu="active_menu" :child_menu_id="active_menu_id"> </Books>
   </div>
 </template>
 
@@ -25,7 +25,7 @@ export default {
   },
   data() {
     return {
-      active_page: 2,
+      active_menu_id: 2,
       menu: null,
       active_menu: null
     };
@@ -35,7 +35,7 @@ export default {
       if (this.menu === null) {
         return;
       }
-      this.active_menu = this.menu.filter(r => r.id === this.active_page);
+      this.active_menu = this.menu.filter(r => r.id === this.active_menu_id);
     }
   },
   created: function() {
@@ -51,7 +51,7 @@ export default {
       .catch(response => console.log(response));
   },
   watch: {
-    active_page() {
+    active_menu_id() {
       this.setActiveMenu();
     }
   }
