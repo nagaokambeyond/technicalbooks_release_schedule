@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Head></Head><br />
+    <Head :child_active_menu="active_menu"></Head><br />
     <Menu
       :child_menu_id="active_menu_id"
       :child_menu="menu"

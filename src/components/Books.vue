@@ -43,7 +43,7 @@
 <script>
 import axios from "axios";
 export default {
-  name: "App",
+  name: "Books",
   props: ["child_menu_id", "child_active_menu"],
   data() {
     return {
