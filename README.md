@@ -29,6 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 技術的なもの
 - typescript化
 - vue.js3化
+- ショートカット→/→検索欄にフォーカス
 
 ### デザイン的なもの
 - licensesページの追加
