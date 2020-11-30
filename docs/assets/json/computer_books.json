@@ -267,7 +267,7 @@
     "book_url": "https://www.ohmsha.co.jp/book/9784274226199/",
     "book_publisher": "オーム社",
     "isbn": "978-4-274-22619-9",
-    "keywords": ["javascript"]
+    "keywords": ["js"]
   },
   {
     "id": 31,
@@ -325,6 +325,15 @@
   },
   {
     "id": 37,
+    "release_date": "2020/12/15",
+    "book_title": "初めてのマルウェア解析",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119298/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-929-8",
+    "keywords": ["security"]
+  },
+  {
+    "id": 38,
     "release_date": "2020/12/18",
     "book_title": "たった1日で基本が身に付く！Unity 超入門",
     "book_url": "https://gihyo.jp/book/2020/978-4-297-11746-7",
@@ -333,7 +342,7 @@
     "keywords": ["unity"]
   },
   {
-    "id": 38,
+    "id": 39,
     "release_date": "2020/12/21",
     "book_title": "JavaScriptモダンプログラミング完全ガイド 堅牢なコードを効率的に開発できる！",
     "book_url": "https://book.impress.co.jp/books/1120101055",
@@ -342,7 +351,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 39,
+    "id": 40,
     "release_date": "2020/12/21",
     "book_title": "ディープラーニング実装入門 PyTorchによる画像・自然言語処理",
     "book_url": "https://book.impress.co.jp/books/1119101036",
@@ -351,7 +360,7 @@
     "keywords": ["python", "pytorch"]
   },
   {
-    "id": 40,
+    "id": 41,
     "release_date": "2020/12/28",
     "book_title": "エンタープライズアジャイル開発実践ガイド",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
@@ -360,7 +369,7 @@
     "keywords": ["agile"]
   },
   {
-    "id": 41,
+    "id": 42,
     "release_date": "2020/12/28",
     "book_title": "シゴトがはかどる Python自動処理の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
