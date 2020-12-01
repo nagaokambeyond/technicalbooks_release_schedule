@@ -192,6 +192,14 @@
     "icon": ""
   },
   {
+    "id": "elixir",
+    "display_name": "Elixir",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": ""
+  },
+  {
     "id": "r",
     "display_name": "R",
     "category": "プログラム言語",
