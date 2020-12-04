@@ -385,5 +385,32 @@
     "book_publisher": "マイナビ",
     "isbn": "",
     "keywords": ["python"]
+  },
+  {
+    "id": 44,
+    "release_date": "2022/01/27",
+    "book_title": "図解まるわかり データベースのしくみ",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166056",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798166056",
+    "keywords": ["database"]
+  },
+  {
+    "id": 45,
+    "release_date": "2022/01/28",
+    "book_title": "Java 第3版 入門編 ゼロからはじめるプログラミング",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167060",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798167060",
+    "keywords": ["java"]
+  },
+  {
+    "id": 46,
+    "release_date": "2022/01/28",
+    "book_title": "Java 第3版 実践編 アプリケーション作りの基本",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167077",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798167077",
+    "keywords": ["java"]
   }
 ]
