@@ -325,6 +325,15 @@
   },
   {
     "id": 37,
+    "release_date": "2020/12/09",
+    "book_title": "新・明解Javaで学ぶアルゴリズムとデータ構造　第2版",
+    "book_url": "https://www.sbcr.jp/product/4815606008/",
+    "book_publisher": "SBクリエイティブ",
+    "isbn": "978-4-8156-0600-8",
+    "keywords": ["java"]
+  },
+  {
+    "id": 38,
     "release_date": "2020/12/14",
     "book_title": "ひと目でわかるAzure Active Directory 第3版",
     "book_url": "https://project.nikkeibp.co.jp/bnt/atcl/20/P86590/",
@@ -333,7 +342,7 @@
     "keywords": ["activedirectory"]
   },
   {
-    "id": 38,
+    "id": 39,
     "release_date": "2020/12/15",
     "book_title": "初めてのマルウェア解析",
     "book_url": "https://www.oreilly.co.jp/books/9784873119298/",
@@ -342,7 +351,16 @@
     "keywords": ["security"]
   },
   {
-    "id": 39,
+    "id": 40,
+    "release_date": "2020/12/15",
+    "book_title": "図解！ HTML&CSSのツボとコツがゼッタイにわかる本",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798062846.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798062846",
+    "keywords": ["html", "css"]
+  },
+  {
+    "id": 41,
     "release_date": "2020/12/18",
     "book_title": "たった1日で基本が身に付く！Unity 超入門",
     "book_url": "https://gihyo.jp/book/2020/978-4-297-11746-7",
@@ -351,7 +369,16 @@
     "keywords": ["unity"]
   },
   {
-    "id": 40,
+    "id": 42,
+    "release_date": "2020/12/18",
+    "book_title": "Software Design 2021年1月号",
+    "book_url": "https://gihyo.jp/magazine/SD/archive/2021/202101",
+    "book_publisher": "技術評論社",
+    "isbn": "",
+    "keywords": []
+  },
+  {
+    "id": 43,
     "release_date": "2020/12/21",
     "book_title": "JavaScriptモダンプログラミング完全ガイド 堅牢なコードを効率的に開発できる！",
     "book_url": "https://book.impress.co.jp/books/1120101055",
@@ -360,7 +387,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 41,
+    "id": 44,
     "release_date": "2020/12/21",
     "book_title": "ディープラーニング実装入門 PyTorchによる画像・自然言語処理",
     "book_url": "https://book.impress.co.jp/books/1119101036",
@@ -369,7 +396,7 @@
     "keywords": ["python", "pytorch"]
   },
   {
-    "id": 42,
+    "id": 45,
     "release_date": "2020/12/28",
     "book_title": "エンタープライズアジャイル開発実践ガイド",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
@@ -378,7 +405,7 @@
     "keywords": ["agile"]
   },
   {
-    "id": 43,
+    "id": 46,
     "release_date": "2020/12/28",
     "book_title": "シゴトがはかどる Python自動処理の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
@@ -387,7 +414,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 44,
+    "id": 47,
     "release_date": "2022/01/27",
     "book_title": "図解まるわかり データベースのしくみ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166056",
@@ -396,7 +423,7 @@
     "keywords": ["database"]
   },
   {
-    "id": 45,
+    "id": 48,
     "release_date": "2022/01/28",
     "book_title": "Java 第3版 入門編 ゼロからはじめるプログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167060",
@@ -405,7 +432,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 46,
+    "id": 49,
     "release_date": "2022/01/28",
     "book_title": "Java 第3版 実践編 アプリケーション作りの基本",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167077",

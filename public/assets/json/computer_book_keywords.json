@@ -200,6 +200,22 @@
     "icon": ""
   },
   {
+    "id": "html",
+    "display_name": "HTML",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-html5-plain-wordmark"
+  },
+  {
+    "id": "css",
+    "display_name": "CSS",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-css3-plain-wordmark"
+  },
+  {
     "id": "r",
     "display_name": "R",
     "category": "プログラム言語",
