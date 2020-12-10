@@ -397,6 +397,15 @@
   },
   {
     "id": 45,
+    "release_date": "2020/12/24",
+    "book_title": "WEB+DB PRESS Vol.120",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2021/vol120",
+    "book_publisher": "技術評論社",
+    "isbn": "",
+    "keywords": []
+  },
+  {
+    "id": 46,
     "release_date": "2020/12/28",
     "book_title": "エンタープライズアジャイル開発実践ガイド",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
@@ -405,7 +414,7 @@
     "keywords": ["agile"]
   },
   {
-    "id": 46,
+    "id": 47,
     "release_date": "2020/12/28",
     "book_title": "シゴトがはかどる Python自動処理の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
@@ -414,7 +423,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 47,
+    "id": 48,
     "release_date": "2022/01/27",
     "book_title": "図解まるわかり データベースのしくみ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166056",
@@ -423,7 +432,7 @@
     "keywords": ["database"]
   },
   {
-    "id": 48,
+    "id": 49,
     "release_date": "2022/01/28",
     "book_title": "Java 第3版 入門編 ゼロからはじめるプログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167060",
@@ -432,7 +441,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 49,
+    "id": 50,
     "release_date": "2022/01/28",
     "book_title": "Java 第3版 実践編 アプリケーション作りの基本",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167077",
