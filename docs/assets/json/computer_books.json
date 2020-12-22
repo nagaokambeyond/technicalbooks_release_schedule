@@ -402,10 +402,19 @@
     "book_url": "https://www.shuwasystem.co.jp/book/9784798063737.html",
     "book_publisher": "秀和システム",
     "isbn": "9784798063737",
-    "keywords": ["js","vue"]
+    "keywords": ["js", "vue"]
   },
   {
     "id": 46,
+    "release_date": "2020/12/19",
+    "book_title": "はじめてのAndroidプログラミング　第5版",
+    "book_url": "https://www.sbcr.jp/product/4815607968/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-0796-8",
+    "keywords": ["android", "kotlin"]
+  },
+  {
+    "id": 47,
     "release_date": "2020/12/21",
     "book_title": "JavaScriptモダンプログラミング完全ガイド 堅牢なコードを効率的に開発できる！",
     "book_url": "https://book.impress.co.jp/books/1120101055",
@@ -414,7 +423,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 47,
+    "id": 48,
     "release_date": "2020/12/21",
     "book_title": "ディープラーニング実装入門 PyTorchによる画像・自然言語処理",
     "book_url": "https://book.impress.co.jp/books/1119101036",
@@ -423,7 +432,16 @@
     "keywords": ["python", "pytorch"]
   },
   {
-    "id": 48,
+    "id": 49,
+    "release_date": "2020/12/22",
+    "book_title": "図解入門TCP/IP",
+    "book_url": "https://www.sbcr.jp/product/4815604974/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-0497-4",
+    "keywords": []
+  },
+  {
+    "id": 50,
     "release_date": "2020/12/24",
     "book_title": "WEB+DB PRESS Vol.120",
     "book_url": "https://gihyo.jp/magazine/wdpress/archive/2021/vol120",
@@ -432,7 +450,7 @@
     "keywords": []
   },
   {
-    "id": 49,
+    "id": 51,
     "release_date": "2020/12/26",
     "book_title": "モノリスからマイクロサービスへ",
     "book_url": "https://www.oreilly.co.jp/books/9784873119311/",
@@ -441,7 +459,7 @@
     "keywords": []
   },
   {
-    "id": 50,
+    "id": 52,
     "release_date": "2020/12/28",
     "book_title": "エンタープライズアジャイル開発実践ガイド",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
@@ -450,7 +468,7 @@
     "keywords": ["agile"]
   },
   {
-    "id": 51,
+    "id": 53,
     "release_date": "2020/12/28",
     "book_title": "シゴトがはかどる Python自動処理の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
@@ -459,7 +477,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 52,
+    "id": 54,
     "release_date": "2021/01/04",
     "book_title": "AIセキュリティから学ぶ ディープラーニング［技術］入門",
     "book_url": "https://gihyo.jp/book/2021/978-4-297-11805-1",
@@ -468,7 +486,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 53,
+    "id": 55,
     "release_date": "2021/01/05",
     "book_title": "Oracle Cloud Infrastructure エンタープライズ構築実践ガイド",
     "book_url": "https://gihyo.jp/book/2021/978-4-297-11809-9",
@@ -477,7 +495,7 @@
     "keywords": []
   },
   {
-    "id": 54,
+    "id": 56,
     "release_date": "2021/01/22",
     "book_title": "基礎Python 改訂2版",
     "book_url": "https://book.impress.co.jp/books/1120101040",
@@ -486,7 +504,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 55,
+    "id": 57,
     "release_date": "2021/01/27",
     "book_title": "図解まるわかり データベースのしくみ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166056",
@@ -495,7 +513,7 @@
     "keywords": ["database"]
   },
   {
-    "id": 56,
+    "id": 58,
     "release_date": "2021/01/28",
     "book_title": "Java 第3版 入門編 ゼロからはじめるプログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167060",
@@ -504,7 +522,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 57,
+    "id": 59,
     "release_date": "2021/01/28",
     "book_title": "Java 第3版 実践編 アプリケーション作りの基本",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167077",
@@ -513,7 +531,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 58,
+    "id": 60,
     "release_date": "2021/02/08",
     "book_title": "クラウド時代のネットワーク入門 要素技術、設計運用の基本、ネットワークパターン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166032",
@@ -522,7 +540,7 @@
     "keywords": []
   },
   {
-    "id": 59,
+    "id": 61,
     "release_date": "2021/02/10",
     "book_title": "AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798163437",
@@ -531,7 +549,7 @@
     "keywords": ["aws"]
   },
   {
-    "id": 60,
+    "id": 62,
     "release_date": "2021/02/10",
     "book_title": "Rによる機械学習［第3版］",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167343",
@@ -540,7 +558,7 @@
     "keywords": ["r"]
   },
   {
-    "id": 61,
+    "id": 63,
     "release_date": "2021/02/17",
     "book_title": "たのしい2Dゲームの作り方 Unityではじめるゲーム開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798164113",
