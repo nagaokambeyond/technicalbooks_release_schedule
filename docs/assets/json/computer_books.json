@@ -532,6 +532,24 @@
   },
   {
     "id": 60,
+    "release_date": "2021/01/30",
+    "book_title": "PyTorch実践入門 ディープラーニングの基礎から実装へ",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=120263",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7469-5",
+    "keywords": ["python"]
+  },
+  {
+    "id": 61,
+    "release_date": "2021/02/01",
+    "book_title": "仕組みと使い方がわかる Docker＆Kubernetesのきほんのきほ",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=120304",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7274-5",
+    "keywords": ["docker"]
+  },
+  {
+    "id": 62,
     "release_date": "2021/02/08",
     "book_title": "クラウド時代のネットワーク入門 要素技術、設計運用の基本、ネットワークパターン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166032",
@@ -540,7 +558,7 @@
     "keywords": []
   },
   {
-    "id": 61,
+    "id": 63,
     "release_date": "2021/02/10",
     "book_title": "AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798163437",
@@ -549,7 +567,7 @@
     "keywords": ["aws"]
   },
   {
-    "id": 62,
+    "id": 64,
     "release_date": "2021/02/10",
     "book_title": "Rによる機械学習［第3版］",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167343",
@@ -558,7 +576,7 @@
     "keywords": ["r"]
   },
   {
-    "id": 63,
+    "id": 65,
     "release_date": "2021/02/17",
     "book_title": "たのしい2Dゲームの作り方 Unityではじめるゲーム開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798164113",
