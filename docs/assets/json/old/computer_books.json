@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "release_date": "2020/10/1",
+    "book_title": "なんでもPythonプログラミング 平林万能IT技術研究所の奇妙な実験",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11637-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11637-8",
+    "keywords": ["python"]
+  },
+  {
+    "id": 2,
+    "release_date": "2020/10/5",
+    "book_title": "生成 Deep Learning",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119205/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-920-5",
+    "keywords": ["deeplerning", "jupyter"]
+  },
+  {
+    "id": 3,
+    "release_date": "2020/10/9",
+    "book_title": "フロントエンド開発入門 プロフェッショナルな開発ツールと設計・実装",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798061771.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798061771",
+    "keywords": ["html", "js", "nodejs"]
+  },
+  {
+    "id": 4,
+    "release_date": "2020/10/8",
+    "book_title": "基本がわかるSQL入門",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11659-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11659-0",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 5,
+    "release_date": "2020/10/16",
+    "book_title": "スッキリわかるPythonによる機械学習入門",
+    "book_url": "https://book.impress.co.jp/books/1120101028",
+    "book_publisher": "impress",
+    "isbn": "9784295009948",
+    "keywords": ["python", "deeplerning"]
+  },
+  {
+    "id": 6,
+    "release_date": "2020/10/22",
+    "book_title": "［第3版］Python機械学習プログラミング 達人データサイエンティストによる理論と実践",
+    "book_url": "https://book.impress.co.jp/books/1120101017",
+    "book_publisher": "impress",
+    "isbn": "9784295010074",
+    "keywords": ["python", "deeplerning"]
+  },
+  {
+    "id": 7,
+    "release_date": "2020/10/23",
+    "book_title": "オブジェクト指向の考え方 5th Edition",
+    "book_url": "https://book.impress.co.jp/books/1120101017",
+    "book_publisher": "impress",
+    "isbn": "9784295010081",
+    "keywords": ["oop"]
+  },
+  {
+    "id": 8,
+    "release_date": "2020/10/23",
+    "book_title": "ホワイトハッカー入門",
+    "book_url": "https://book.impress.co.jp/books/1119101182",
+    "book_publisher": "impress",
+    "isbn": "9784295010029",
+    "keywords": ["security"]
+  },
+  {
+    "id": 9,
+    "release_date": "2020/10/24",
+    "book_title": "WEB+DB PRESS Vol.119",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2020/vol119",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11669-9",
+    "keywords": ["その他"]
+  },
+  {
+    "id": 10,
+    "release_date": "2020/10/30",
+    "book_title": "TensorFlow2 TensorFlow&Keras対応 プログラミング実装ハンドブック",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798063003.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798063003",
+    "keywords": ["python", "deeplerning"]
+  },
+  {
+    "id": 11,
+    "release_date": "2020/10/29",
+    "book_title": "たった1日で基本が身に付く！Go言語 超入門",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11617-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11617-0",
+    "keywords": ["go"]
+  },
+  {
+    "id": 12,
+    "release_date": "2020/10/30",
+    "book_title": "Unity C# ゲームプログラミング入門 2020対応",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798062686.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798062686",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 13,
+    "release_date": "2020/11/02",
+    "book_title": "プログラミング・ビットコイン",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119021/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-902-1",
+    "keywords": ["python"]
+  },
+  {
+    "id": 14,
+    "release_date": "2020/11/02",
+    "book_title": "scikit-learn、Keras、TensorFlowによる実践機械学習 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119281/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-928-1",
+    "keywords": ["python"]
+  },
+  {
+    "id": 15,
+    "release_date": "2020/11/09",
+    "book_title": "ITエンジニアのやさしい法律Q＆A著作権・開発契約・労働関係・契約書で揉めないための勘どころ",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11682-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11682-8",
+    "keywords": ["その他"]
+  },
+  {
+    "id": 16,
+    "release_date": "2020/11/09",
+    "book_title": "データサイエンスのための統計学入門 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119267/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-926-7",
+    "keywords": ["deeplerning"]
+  },
+  {
+    "id": 17,
+    "release_date": "2020/11/12",
+    "book_title": "Rによるセイバーメトリクス入門",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11684-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11684-2",
+    "keywords": ["r"]
+  },
+  {
+    "id": 18,
+    "release_date": "2020/11/13",
+    "book_title": "Pythonによる問題解決のためのアルゴリズム設計技法",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11686-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11686-6",
+    "keywords": ["python"]
+  },
+  {
+    "id": 19,
+    "release_date": "2020/11/16",
+    "book_title": "Pythonではじめる数学の冒険",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119304/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-930-4",
+    "keywords": ["python"]
+  },
+  {
+    "id": 20,
+    "release_date": "2020/11/17",
+    "book_title": "ハンズオンJavaScript",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119229/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-922-9",
+    "keywords": ["js"]
+  },
+  {
+    "id": 21,
+    "release_date": "2020/11/17",
+    "book_title": "ハンズオンNode.js",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119236/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-923-6",
+    "keywords": ["js", "nodejs"]
+  },
+  {
+    "id": 22,
+    "release_date": "2020/11/18",
+    "book_title": "Software Design 2020年12月号",
+    "book_url": "https://gihyo.jp/magazine/SD/archive/2020/202012",
+    "book_publisher": "技術評論社",
+    "isbn": "",
+    "keywords": ["web"]
+  },
+  {
+    "id": 23,
+    "release_date": "2020/11/19",
+    "book_title": "C言語によるプログラミング　－基礎編－（第3版）",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226069/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22606-9",
+    "keywords": ["c"]
+  },
+  {
+    "id": 24,
+    "release_date": "2020/11/20",
+    "book_title": "いちばんやさしいJavaの教本 人気講師が教えるプログラミングの基礎",
+    "book_url": "https://book.impress.co.jp/books/1118101073",
+    "book_publisher": "impress",
+    "isbn": "9784295010333",
+    "keywords": ["java"]
+  },
+  {
+    "id": 25,
+    "release_date": "2020/11/20",
+    "book_title": "できる 仕事がはかどるGoogle Apps Script自動処理 全部入り。",
+    "book_url": "https://book.impress.co.jp/books/1120101041",
+    "book_publisher": "impress",
+    "isbn": "9784295010234",
+    "keywords": ["googleappsscript"]
+  },
+  {
+    "id": 26,
+    "release_date": "2020/11/21",
+    "book_title": "わかりやすいJakarta EE ウェブシステム入門",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798062082.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798062082",
+    "keywords": ["java"]
+  },
+  {
+    "id": 27,
+    "release_date": "2020/11/21",
+    "book_title": "動かしながら学ぶ PyTorchプログラミング入門",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226403/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22640-3",
+    "keywords": ["python"]
+  },
+  {
+    "id": 28,
+    "release_date": "2020/11/21",
+    "book_title": "ソフトウェア品質知識体系ガイド （第3版） －SQuBOK Guide V3－",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226311/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22631-1",
+    "keywords": []
+  },
+  {
+    "id": 29,
+    "release_date": "2020/11/21",
+    "book_title": "達人プログラマー 熟達に向けたあなたの旅（第2版）",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226298/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22629-8",
+    "keywords": []
+  },
+  {
+    "id": 30,
+    "release_date": "2020/11/24",
+    "book_title": "JavaScript基礎ドリル　穴埋め式",
+    "book_url": "https://www.ohmsha.co.jp/book/9784274226199/",
+    "book_publisher": "オーム社",
+    "isbn": "978-4-274-22619-9",
+    "keywords": ["js"]
+  },
+  {
+    "id": 31,
+    "release_date": "2020/11/26",
+    "book_title": "Google Apps Scriptのツボとコツがゼッタイにわかる本",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798062501.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798062501",
+    "keywords": ["googleappsscript"]
+  },
+  {
+    "id": 32,
+    "release_date": "2020/11/27",
+    "book_title": "ソフトウェアテスト自動化の教科書",
+    "book_url": "https://gihyo.jp/book/2020/978-4-297-11736-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11736-8",
+    "keywords": ["test"]
+  }
+]
