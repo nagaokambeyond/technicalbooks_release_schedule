@@ -1,11 +1,6 @@
 <template>
   <div id="app">
     <Head :child_active_menu="active_menu"></Head><br />
-    <Menu
-      :child_menu_id="active_menu_id"
-      :child_menu="menu"
-      @input="active_menu_id = $event"
-    ></Menu>
     <Books :child_active_menu="active_menu" :child_menu_id="active_menu_id"> </Books>
   </div>
 </template>
@@ -13,19 +8,17 @@
 <script>
 import axios from "axios";
 import Head from "./components/Head.vue";
-import Menu from "./components/Menu.vue";
 import Books from "./components/Books.vue";
 import "devicon";
 
 export default {
   components: {
     Head,
-    Menu,
     Books
   },
   data() {
     return {
-      active_menu_id: 2,
+      active_menu_id: 1,
       menu: null,
       active_menu: null
     };
@@ -49,11 +42,6 @@ export default {
         self.setActiveMenu();
       })
       .catch(response => console.log(response));
-  },
-  watch: {
-    active_menu_id() {
-      this.setActiveMenu();
-    }
   }
 };
 </script>
