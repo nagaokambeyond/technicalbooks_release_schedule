@@ -1,5 +1,5 @@
 <template>
-  <table class="table table-sm">
+  <table class="table table-sm table-striped">
     <thead>
       <tr>
         <td colspan="2">
