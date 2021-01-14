@@ -35,9 +35,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - licensesページの追加
 - favicon
 
-### データ的なもの
-- コンピュータ以外のジャンルをそろえる
-  - 将棋
-
  ### 調査
 - json読み込みを相対パス化調査
