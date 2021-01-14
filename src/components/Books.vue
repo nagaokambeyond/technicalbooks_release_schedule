@@ -21,7 +21,7 @@
         <tr :key="book.id">
           <td>{{ book.release_date }}<br />{{ book.book_publisher }}</td>
           <td>
-            <a :href="book.book_url">{{ book.book_title }}</a>
+            <a :href="book.book_url" target="_blank" rel="noopener noreferrer">{{ book.book_title }}</a>
             <br />
             <template v-for="word in book.keyword_master">
               <template v-if="word.icon.length !== 0">
