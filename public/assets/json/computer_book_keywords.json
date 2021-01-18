@@ -216,6 +216,22 @@
     "icon": "devicon-css3-plain-wordmark"
   },
   {
+    "id": "elm",
+    "display_name": "elm",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-elm-plain"
+  },
+  {
+    "id": "bigquery",
+    "display_name": "google bigquery",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-google-plain"
+  },
+  {
     "id": "r",
     "display_name": "R",
     "category": "プログラム言語",
