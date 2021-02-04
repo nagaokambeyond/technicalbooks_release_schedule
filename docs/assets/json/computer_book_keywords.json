@@ -224,6 +224,22 @@
     "icon": "devicon-elm-plain"
   },
   {
+    "id": "php",
+    "display_name": "PHP",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-php-plain colored"
+  },
+  {
+    "id": "laravel",
+    "display_name": "Laravel",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "php",
+    "icon": "devicon-laravel-plain-wordmark colored"
+  },
+  {
     "id": "bigquery",
     "display_name": "google bigquery",
     "category": "プログラム言語",

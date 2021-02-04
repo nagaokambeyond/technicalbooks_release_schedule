@@ -334,6 +334,15 @@
   },
   {
     "id": 70,
+    "release_date": "2021/02/13",
+    "book_title": "Web配信の技術",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-11925-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11925-6",
+    "keywords": []
+  },
+  {
+    "id": 71,
     "release_date": "2021/02/17",
     "book_title": "たのしい2Dゲームの作り方 Unityではじめるゲーム開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798164113",
@@ -342,7 +351,16 @@
     "keywords": ["unity"]
   },
   {
-    "id": 71,
+    "id": 72,
+    "release_date": "2021/02/18",
+    "book_title": "みんなのVue.js",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-11902-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11902-7",
+    "keywords": ["vue", "js"]
+  },
+  {
+    "id": 73,
     "release_date": "2021/02/19",
     "book_title": "集中演習 SQL入門 Google BigQueryではじめるビジネスデータ分析（できるDigital Camp）",
     "book_url": "https://book.impress.co.jp/books/1119101189",
@@ -351,7 +369,16 @@
     "keywords": ["sql", "bigquery"]
   },
   {
-    "id": 72,
+    "id": 74,
+    "release_date": "2021/02/19",
+    "book_title": "ステップアップUnity",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-11927-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-11927-0",
+    "keywords": ["unity"]
+  },
+  {
+    "id": 75,
     "release_date": "2021/03/01",
     "book_title": "プログラミングElm 安全でメンテナンスしやすいフロントエンド・ウェブアプリ開発入門",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=120921",
@@ -360,7 +387,16 @@
     "keywords": ["elm", "javascript"]
   },
   {
-    "id": 73,
+    "id": 76,
+    "release_date": "2021/03/15",
+    "book_title": "動かして学ぶ！Laravel開発入門",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168654",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798168654",
+    "keywords": ["php", "laravel"]
+  },
+  {
+    "id": 76,
     "release_date": "2021/03/17",
     "book_title": "ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798165035",
