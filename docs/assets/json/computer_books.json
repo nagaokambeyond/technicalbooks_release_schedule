@@ -421,5 +421,14 @@
     "book_publisher": "翔泳社",
     "isbn": "9784798165035",
     "keywords": []
+  },
+  {
+    "id": 80,
+    "release_date": "2021/03/22",
+    "book_title": "ゼロからのOS自作入門",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=121220",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7586-9",
+    "keywords": []
   }
 ]
