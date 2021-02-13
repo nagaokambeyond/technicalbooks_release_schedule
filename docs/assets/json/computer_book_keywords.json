@@ -248,6 +248,14 @@
     "icon": "devicon-google-plain"
   },
   {
+    "id": "cpp",
+    "display_name": "cpp",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-cplusplus-plain colored"
+  },
+  {
     "id": "r",
     "display_name": "R",
     "category": "プログラム言語",
