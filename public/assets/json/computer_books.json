@@ -448,5 +448,59 @@
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7586-9",
     "keywords": []
+  },
+  {
+    "id": 83,
+    "release_date": "2021/04/07",
+    "book_title": "アジャイル開発とスクラム 第2版 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167466",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798167466",
+    "keywords": []
+  },
+  {
+    "id": 84,
+    "release_date": "2021/04/07",
+    "book_title": "図解まるわかり Web技術のしくみ",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169491",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798169491",
+    "keywords": []
+  },
+  {
+    "id": 84,
+    "release_date": "2021/04/12",
+    "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Java対応 なんちゃって開発者にならないための実践ハンズオン",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798169804",
+    "keywords": ["android", "java"]
+  },
+  {
+    "id": 85,
+    "release_date": "2021/04/19",
+    "book_title": "エンジニアが学ぶ生産管理システムの「知識」と「技術」",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798162676",
+    "keywords": []
+  },
+  {
+    "id": 86,
+    "release_date": "2021/04/22",
+    "book_title": "ライティングソフトウェア",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166834",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798166834",
+    "keywords": []
+  },
+  {
+    "id": 87,
+    "release_date": "2021/04/22",
+    "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Kotlin対応 なんちゃって開発者にならないための実践ハンズオン",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169811",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798169811",
+    "keywords": ["android", "kotlin"]
   }
 ]
