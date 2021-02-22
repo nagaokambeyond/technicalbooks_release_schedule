@@ -56,6 +56,14 @@
     "icon": "devicon-javascript-plain colored"
   },
   {
+    "id": "react",
+    "display_name": "React",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-react-original-wordmark colored"
+  },
+  {
     "id": "nodejs",
     "display_name": "node.js",
     "category": "プログラム言語",
