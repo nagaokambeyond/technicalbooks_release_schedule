@@ -1,11 +1,19 @@
 <template>
   <b-navbar type="light" variant="light">
-    <h3 v-if="this.child_active_menu !== null">
+    <b-navbar-brand href="#">
       {{ this.child_active_menu[0].menu_title_head }}
-      <button v-on:click="share('facebook')">
-        <i class="devicon-facebook-plain colored"></i>
-      </button>
-    </h3>
+    </b-navbar-brand>
+    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+    <b-collapse id="nav-collapse" is-nav >
+      <b-navbar-nav class="ml-auto">
+        <b-nav-item-dropdown text="SNS" right>
+          <b-dropdown-item v-on:click="share('facebook')">
+            <i class="devicon-facebook-plain colored">Facebook</i>
+          </b-dropdown-item>
+        </b-nav-item-dropdown>
+      </b-navbar-nav>
+     </b-collapse>
+
   </b-navbar>
 </template>
 
