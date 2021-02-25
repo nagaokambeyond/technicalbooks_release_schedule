@@ -1,6 +1,6 @@
 <template>
   <b-navbar type="light" variant="light">
-    <b-navbar-brand href="#">
+    <b-navbar-brand href="#" v-if="this.child_active_menu !== null">
       {{ this.child_active_menu[0].menu_title_head }}
     </b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
