@@ -1,194 +1,5 @@
 [
   {
-    "id": 33,
-    "release_date": "2020/12/01",
-    "book_title": "Python実践機械学習システム100本ノック",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798063416.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798063416",
-    "keywords": ["python"]
-  },
-  {
-    "id": 34,
-    "release_date": "2020/12/01",
-    "book_title": "詳解！ Google Apps Script完全入門［第2版］ ～GoogleアプリケーションとGoogle Workspaceの最新プログラミングガイド～",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798063331.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798063331",
-    "keywords": ["googleappsscript"]
-  },
-  {
-    "id": 35,
-    "release_date": "2020/12/01",
-    "book_title": "最新MATLABハンドブック第七版 機械学習・ディープラーニング対応",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798062471.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798062471",
-    "keywords": ["matlab"]
-  },
-  {
-    "id": 36,
-    "release_date": "2020/12/01",
-    "book_title": "プログラミングElixir（第2版）",
-    "book_url": "https://www.ohmsha.co.jp/book/9784274226373/",
-    "book_publisher": "オーム社",
-    "isbn": "978-4-274-22637-3",
-    "keywords": ["matlab"]
-  },
-  {
-    "id": 37,
-    "release_date": "2020/12/09",
-    "book_title": "新・明解Javaで学ぶアルゴリズムとデータ構造　第2版",
-    "book_url": "https://www.sbcr.jp/product/4815606008/",
-    "book_publisher": "SB Creative",
-    "isbn": "978-4-8156-0600-8",
-    "keywords": ["java"]
-  },
-  {
-    "id": 38,
-    "release_date": "2020/12/14",
-    "book_title": "ひと目でわかるAzure Active Directory 第3版",
-    "book_url": "https://project.nikkeibp.co.jp/bnt/atcl/20/P86590/",
-    "book_publisher": "日経BP",
-    "isbn": "9784822286590",
-    "keywords": ["activedirectory"]
-  },
-  {
-    "id": 39,
-    "release_date": "2020/12/15",
-    "book_title": "初めてのマルウェア解析",
-    "book_url": "https://www.oreilly.co.jp/books/9784873119298/",
-    "book_publisher": "オライリー",
-    "isbn": "978-4-87311-929-8",
-    "keywords": ["security"]
-  },
-  {
-    "id": 40,
-    "release_date": "2020/12/15",
-    "book_title": "図解！ HTML&CSSのツボとコツがゼッタイにわかる本",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798062846.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798062846",
-    "keywords": ["html", "css"]
-  },
-  {
-    "id": 41,
-    "release_date": "2020/12/18",
-    "book_title": "たった1日で基本が身に付く！Unity 超入門",
-    "book_url": "https://gihyo.jp/book/2020/978-4-297-11746-7",
-    "book_publisher": "技術評論社",
-    "isbn": "978-4-297-11746-7",
-    "keywords": ["unity"]
-  },
-  {
-    "id": 42,
-    "release_date": "2020/12/18",
-    "book_title": "Software Design 2021年1月号",
-    "book_url": "https://gihyo.jp/magazine/SD/archive/2021/202101",
-    "book_publisher": "技術評論社",
-    "isbn": "",
-    "keywords": []
-  },
-  {
-    "id": 43,
-    "release_date": "2020/12/18",
-    "book_title": "Pythonでつくる ゲームプログラミング入門",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798061764.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798061764",
-    "keywords": ["python"]
-  },
-  {
-    "id": 44,
-    "release_date": "2020/12/19",
-    "book_title": "Pythonプログラミングパーフェクトマスター［Python3/Anaconda/PyQt5対応第3版］",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798063676.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798063676",
-    "keywords": ["python"]
-  },
-  {
-    "id": 45,
-    "release_date": "2020/12/19",
-    "book_title": "Vue.js3超入門",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798063737.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798063737",
-    "keywords": ["js", "vue"]
-  },
-  {
-    "id": 46,
-    "release_date": "2020/12/19",
-    "book_title": "はじめてのAndroidプログラミング　第5版",
-    "book_url": "https://www.sbcr.jp/product/4815607968/",
-    "book_publisher": "SB Creative",
-    "isbn": "978-4-8156-0796-8",
-    "keywords": ["android", "kotlin"]
-  },
-  {
-    "id": 47,
-    "release_date": "2020/12/21",
-    "book_title": "JavaScriptモダンプログラミング完全ガイド 堅牢なコードを効率的に開発できる！",
-    "book_url": "https://book.impress.co.jp/books/1120101055",
-    "book_publisher": "impress",
-    "isbn": "9784295010562",
-    "keywords": ["js"]
-  },
-  {
-    "id": 48,
-    "release_date": "2020/12/21",
-    "book_title": "ディープラーニング実装入門 PyTorchによる画像・自然言語処理",
-    "book_url": "https://book.impress.co.jp/books/1119101036",
-    "book_publisher": "impress",
-    "isbn": "9784295010623",
-    "keywords": ["python", "pytorch"]
-  },
-  {
-    "id": 49,
-    "release_date": "2020/12/22",
-    "book_title": "図解入門TCP/IP",
-    "book_url": "https://www.sbcr.jp/product/4815604974/",
-    "book_publisher": "SB Creative",
-    "isbn": "978-4-8156-0497-4",
-    "keywords": []
-  },
-  {
-    "id": 50,
-    "release_date": "2020/12/24",
-    "book_title": "WEB+DB PRESS Vol.120",
-    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2021/vol120",
-    "book_publisher": "技術評論社",
-    "isbn": "",
-    "keywords": []
-  },
-  {
-    "id": 51,
-    "release_date": "2020/12/26",
-    "book_title": "モノリスからマイクロサービスへ",
-    "book_url": "https://www.oreilly.co.jp/books/9784873119311/",
-    "book_publisher": "オライリー",
-    "isbn": "978-4-87311-931-1",
-    "keywords": []
-  },
-  {
-    "id": 52,
-    "release_date": "2020/12/28",
-    "book_title": "エンタープライズアジャイル開発実践ガイド",
-    "book_url": "https://book.mynavi.jp/ec/products/detail/id=119729",
-    "book_publisher": "マイナビ",
-    "isbn": "978-4-8399-7405-3",
-    "keywords": ["agile"]
-  },
-  {
-    "id": 53,
-    "release_date": "2020/12/28",
-    "book_title": "シゴトがはかどる Python自動処理の教科書",
-    "book_url": "https://book.mynavi.jp/ec/products/detail/id=119730",
-    "book_publisher": "マイナビ",
-    "isbn": "",
-    "keywords": ["python"]
-  },
-  {
     "id": 54,
     "release_date": "2021/01/04",
     "book_title": "AIセキュリティから学ぶ ディープラーニング［技術］入門",
@@ -433,6 +244,15 @@
   },
   {
     "id": 81,
+    "release_date": "2021/03/06",
+    "book_title": "Go言語ハンズオン",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798063997.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798063997",
+    "keywords": ["go"]
+  },
+  {
+    "id": 82,
     "release_date": "2021/03/11",
     "book_title": "Raspberry Piクックブック 第3版",
     "book_url": "https://www.oreilly.co.jp/books/9784873119410/",
@@ -441,7 +261,7 @@
     "keywords": []
   },
   {
-    "id": 82,
+    "id": 83,
     "release_date": "2021/03/12",
     "book_title": "1週間でC++の基礎が学べる本",
     "book_url": "https://book.impress.co.jp/books/1120101016",
@@ -450,7 +270,7 @@
     "keywords": ["cpp"]
   },
   {
-    "id": 83,
+    "id": 84,
     "release_date": "2021/03/15",
     "book_title": "動かして学ぶ！Laravel開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168654",
@@ -459,7 +279,7 @@
     "keywords": ["php", "laravel"]
   },
   {
-    "id": 84,
+    "id": 85,
     "release_date": "2021/03/17",
     "book_title": "ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798165035",
@@ -468,7 +288,7 @@
     "keywords": []
   },
   {
-    "id": 85,
+    "id": 86,
     "release_date": "2021/03/19",
     "book_title": "プログラミングプログラミング入門書Pythonで学ぶアルゴリズムの教科書 一生モノの知識と技術を身につける Pythonで学ぶアルゴリズムの教科書 一生モノの知識と技術を身につける",
     "book_url": "https://book.impress.co.jp/books/1120101024",
@@ -477,7 +297,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 86,
+    "id": 87,
     "release_date": "2021/03/22",
     "book_title": "ゼロからのOS自作入門",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=121220",
@@ -486,7 +306,7 @@
     "keywords": []
   },
   {
-    "id": 87,
+    "id": 88,
     "release_date": "2021/04/07",
     "book_title": "アジャイル開発とスクラム 第2版 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167466",
@@ -495,7 +315,7 @@
     "keywords": []
   },
   {
-    "id": 88,
+    "id": 89,
     "release_date": "2021/04/07",
     "book_title": "図解まるわかり Web技術のしくみ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169491",
@@ -504,7 +324,7 @@
     "keywords": []
   },
   {
-    "id": 89,
+    "id": 90,
     "release_date": "2021/04/12",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Java対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
@@ -513,7 +333,7 @@
     "keywords": ["android", "java"]
   },
   {
-    "id": 90,
+    "id": 91,
     "release_date": "2021/04/19",
     "book_title": "エンジニアが学ぶ生産管理システムの「知識」と「技術」",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
@@ -522,7 +342,7 @@
     "keywords": []
   },
   {
-    "id": 91,
+    "id": 92,
     "release_date": "2021/04/22",
     "book_title": "ライティングソフトウェア",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166834",
@@ -531,7 +351,7 @@
     "keywords": []
   },
   {
-    "id": 92,
+    "id": 93,
     "release_date": "2021/04/22",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Kotlin対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169811",
