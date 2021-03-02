@@ -4,16 +4,15 @@
       {{ this.child_active_menu[0].menu_title_head }}
     </b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-    <b-collapse id="nav-collapse" is-nav >
+    <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav class="ml-auto">
         <b-nav-item-dropdown text="SNS" right>
           <b-dropdown-item v-on:click="share('facebook')">
-            <i class="devicon-facebook-plain colored">Facebook</i>
+            <i class="devicon-facebook-plain colored">Facebookでシェアする</i>
           </b-dropdown-item>
         </b-nav-item-dropdown>
       </b-navbar-nav>
-     </b-collapse>
-
+    </b-collapse>
   </b-navbar>
 </template>
 
@@ -24,7 +23,8 @@ export default {
   methods: {
     share: function(sns) {
       let href = "";
-      const shareUrl = "https://nagaokambeyond.github.io/technicalbooks_release_schedule/";
+      const shareUrl =
+        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/";
       switch (sns) {
         case "facebook":
           href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
