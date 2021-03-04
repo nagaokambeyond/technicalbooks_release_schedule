@@ -307,6 +307,15 @@
   },
   {
     "id": 88,
+    "release_date": "2021/03/22",
+    "book_title": "入門 Python 3 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119328/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-932-8",
+    "keywords": ["python"]
+  },
+  {
+    "id": 89,
     "release_date": "2021/04/07",
     "book_title": "アジャイル開発とスクラム 第2版 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167466",
@@ -315,7 +324,7 @@
     "keywords": []
   },
   {
-    "id": 89,
+    "id": 90,
     "release_date": "2021/04/07",
     "book_title": "図解まるわかり Web技術のしくみ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169491",
@@ -324,7 +333,7 @@
     "keywords": []
   },
   {
-    "id": 90,
+    "id": 91,
     "release_date": "2021/04/12",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Java対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
@@ -333,7 +342,7 @@
     "keywords": ["android", "java"]
   },
   {
-    "id": 91,
+    "id": 92,
     "release_date": "2021/04/19",
     "book_title": "エンジニアが学ぶ生産管理システムの「知識」と「技術」",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
@@ -342,7 +351,7 @@
     "keywords": []
   },
   {
-    "id": 92,
+    "id": 93,
     "release_date": "2021/04/22",
     "book_title": "ライティングソフトウェア",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166834",
@@ -351,7 +360,7 @@
     "keywords": []
   },
   {
-    "id": 93,
+    "id": 94,
     "release_date": "2021/04/22",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Kotlin対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169811",
