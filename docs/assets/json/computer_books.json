@@ -362,6 +362,15 @@
   {
     "id": 94,
     "release_date": "2021/04/22",
+    "book_title": "動画で効率的に学べる！速習C言語",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=121715",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7545-6",
+    "keywords": ["c"]
+  },
+  {
+    "id": 95,
+    "release_date": "2021/04/22",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Kotlin対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169811",
     "book_publisher": "翔泳社",
