@@ -316,6 +316,15 @@
   },
   {
     "id": 89,
+    "release_date": "2021/03/24",
+    "book_title": "図解！ JavaScriptのツボとコツがゼッタイにわかる本 “超”入門編 （単行本）",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798063867.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798063867",
+    "keywords": ["javascript"]
+  },
+  {
+    "id": 90,
     "release_date": "2021/04/07",
     "book_title": "アジャイル開発とスクラム 第2版 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167466",
@@ -324,7 +333,7 @@
     "keywords": []
   },
   {
-    "id": 90,
+    "id": 91,
     "release_date": "2021/04/07",
     "book_title": "図解まるわかり Web技術のしくみ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169491",
@@ -333,7 +342,7 @@
     "keywords": []
   },
   {
-    "id": 91,
+    "id": 92,
     "release_date": "2021/04/12",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Java対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
@@ -342,7 +351,7 @@
     "keywords": ["android", "java"]
   },
   {
-    "id": 92,
+    "id": 93,
     "release_date": "2021/04/19",
     "book_title": "エンジニアが学ぶ生産管理システムの「知識」と「技術」",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169804",
@@ -351,7 +360,16 @@
     "keywords": []
   },
   {
-    "id": 93,
+    "id": 94,
+    "release_date": "2021/04/20",
+    "book_title": "スッキリわかるJava入門 実践編 第3版",
+    "book_url": "https://book.impress.co.jp/books/1119101169",
+    "book_publisher": "impress",
+    "isbn": "9784295011248",
+    "keywords": ["java"]
+  },
+  {
+    "id": 95,
     "release_date": "2021/04/22",
     "book_title": "ライティングソフトウェア",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166834",
@@ -360,7 +378,7 @@
     "keywords": []
   },
   {
-    "id": 94,
+    "id": 96,
     "release_date": "2021/04/22",
     "book_title": "動画で効率的に学べる！速習C言語",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=121715",
@@ -369,12 +387,21 @@
     "keywords": ["c"]
   },
   {
-    "id": 95,
+    "id": 97,
     "release_date": "2021/04/22",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Kotlin対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169811",
     "book_publisher": "翔泳社",
     "isbn": "9784798169811",
     "keywords": ["android", "kotlin"]
+  },
+  {
+    "id": 98,
+    "release_date": "2021/04/23",
+    "book_title": "CentOS 8 実践ガイド［サーバ構築編］",
+    "book_url": "https://book.impress.co.jp/books/1119101034",
+    "book_publisher": "impress",
+    "isbn": "9784295011293",
+    "keywords": ["linux"]
   }
 ]
