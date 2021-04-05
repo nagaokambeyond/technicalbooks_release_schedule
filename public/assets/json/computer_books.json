@@ -1,95 +1,5 @@
 [
   {
-    "id": 54,
-    "release_date": "2021/01/04",
-    "book_title": "AIセキュリティから学ぶ ディープラーニング［技術］入門",
-    "book_url": "https://gihyo.jp/book/2021/978-4-297-11805-1",
-    "book_publisher": "技術評論社",
-    "isbn": "978-4-297-11805-1",
-    "keywords": ["python"]
-  },
-  {
-    "id": 55,
-    "release_date": "2021/01/05",
-    "book_title": "Oracle Cloud Infrastructure エンタープライズ構築実践ガイド",
-    "book_url": "https://gihyo.jp/book/2021/978-4-297-11809-9",
-    "book_publisher": "技術評論社",
-    "isbn": "978-4-297-11809-9",
-    "keywords": []
-  },
-  {
-    "id": 56,
-    "release_date": "2021/01/16",
-    "book_title": "現場ですぐに使える！ Pythonプログラミング逆引き大全400の極意",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798063669.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798063669",
-    "keywords": ["python"]
-  },
-  {
-    "id": 57,
-    "release_date": "2021/01/22",
-    "book_title": "基礎Python 改訂2版",
-    "book_url": "https://book.impress.co.jp/books/1120101040",
-    "book_publisher": "impress",
-    "isbn": "9784295010630",
-    "keywords": ["python"]
-  },
-  {
-    "id": 58,
-    "release_date": "2021/01/22",
-    "book_title": "Python［完全］入門",
-    "book_url": "https://www.sbcr.jp/product/4815607647/",
-    "book_publisher": "SB Creative",
-    "isbn": "978-4-8156-0764-7",
-    "keywords": ["python"]
-  },
-  {
-    "id": 59,
-    "release_date": "2021/01/27",
-    "book_title": "図解まるわかり データベースのしくみ",
-    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166056",
-    "book_publisher": "翔泳社",
-    "isbn": "9784798166056",
-    "keywords": ["database"]
-  },
-  {
-    "id": 60,
-    "release_date": "2021/01/28",
-    "book_title": "Java 第3版 入門編 ゼロからはじめるプログラミング",
-    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167060",
-    "book_publisher": "翔泳社",
-    "isbn": "9784798167060",
-    "keywords": ["java"]
-  },
-  {
-    "id": 61,
-    "release_date": "2021/01/28",
-    "book_title": "Java 第3版 実践編 アプリケーション作りの基本",
-    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167077",
-    "book_publisher": "翔泳社",
-    "isbn": "9784798167077",
-    "keywords": ["java"]
-  },
-  {
-    "id": 62,
-    "release_date": "2021/01/30",
-    "book_title": "PyTorch実践入門 ディープラーニングの基礎から実装へ",
-    "book_url": "https://book.mynavi.jp/ec/products/detail/id=120263",
-    "book_publisher": "マイナビ",
-    "isbn": "978-4-8399-7469-5",
-    "keywords": ["python"]
-  },
-  {
-    "id": 63,
-    "release_date": "2021/01/30",
-    "book_title": "TECHNICAL MASTER はじめてのSQL エンジニア入門編",
-    "book_url": "https://www.shuwasystem.co.jp/book/9784798061719.html",
-    "book_publisher": "秀和システム",
-    "isbn": "9784798061719",
-    "keywords": ["sql"]
-  },
-  {
     "id": 64,
     "release_date": "2021/02/01",
     "book_title": "Pythonチュートリアル 第4版",
@@ -370,6 +280,15 @@
   },
   {
     "id": 95,
+    "release_date": "2021/04/19",
+    "book_title": "Linux＋コマンド入門",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-12024-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12024-5",
+    "keywords": ["linux"]
+  },
+  {
+    "id": 96,
     "release_date": "2021/04/20",
     "book_title": "スッキリわかるJava入門 実践編 第3版",
     "book_url": "https://book.impress.co.jp/books/1119101169",
@@ -378,7 +297,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 96,
+    "id": 97,
     "release_date": "2021/04/22",
     "book_title": "ライティングソフトウェア",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166834",
@@ -387,7 +306,7 @@
     "keywords": []
   },
   {
-    "id": 97,
+    "id": 98,
     "release_date": "2021/04/22",
     "book_title": "動画で効率的に学べる！速習C言語",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=121715",
@@ -396,7 +315,7 @@
     "keywords": ["c"]
   },
   {
-    "id": 98,
+    "id": 99,
     "release_date": "2021/04/22",
     "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第2版 Kotlin対応 なんちゃって開発者にならないための実践ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169811",
@@ -405,12 +324,30 @@
     "keywords": ["android", "kotlin"]
   },
   {
-    "id": 99,
+    "id": 100,
     "release_date": "2021/04/23",
     "book_title": "CentOS 8 実践ガイド［サーバ構築編］",
     "book_url": "https://book.impress.co.jp/books/1119101034",
     "book_publisher": "impress",
     "isbn": "9784295011293",
     "keywords": ["linux"]
+  },
+  {
+    "id": 101,
+    "release_date": "2021/05/19",
+    "book_title": "Windowsカーネルドライバプログラミング",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798170824",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798170824",
+    "keywords": ["windows"]
+  },
+  {
+    "id": 102,
+    "release_date": "2021/05/24",
+    "book_title": "Python ゼロからはじめるプログラミング",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169460",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798169460",
+    "keywords": ["python"]
   }
 ]
