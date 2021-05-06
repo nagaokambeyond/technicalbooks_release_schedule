@@ -1,19 +1,23 @@
 <template>
-  <b-navbar type="light" variant="light">
-    <b-navbar-brand href="#" v-if="this.child_active_menu !== null">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div href="#" class="container-fluid" v-if="this.child_active_menu !== null">
       {{ this.child_active_menu[0].menu_title_head }}
-    </b-navbar-brand>
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-    <b-collapse id="nav-collapse" is-nav>
-      <b-navbar-nav class="ml-auto">
-        <b-nav-item-dropdown text="SNS" right>
-          <b-dropdown-item v-on:click="share('facebook')">
-            <i class="devicon-facebook-plain colored">Facebookでシェアする</i>
-          </b-dropdown-item>
-        </b-nav-item-dropdown>
-      </b-navbar-nav>
-    </b-collapse>
-  </b-navbar>
+    </div>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            SNS
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li class="dropdown-item devicon-facebook-plain colored" v-on:click="share('facebook')">
+              Facebookでシェアする
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </nav>
 </template>
 
 <script>
