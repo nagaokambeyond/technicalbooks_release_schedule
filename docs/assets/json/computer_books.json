@@ -421,5 +421,23 @@
     "book_publisher": "翔泳社",
     "isbn": "9784798168500",
     "keywords": ["php"]
+  },
+  {
+    "id": 111,
+    "release_date": "2021/06/23",
+    "book_title": "詳解セキュリティコンテスト",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=122750",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7349-0",
+    "keywords": []
+  },
+  {
+    "id": 112,
+    "release_date": "2021/06/25",
+    "book_title": "ゲーム作りで楽しく学ぶ　Pythonのきほん",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=122784",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7356-8",
+    "keywords": ["python"]
   }
 ]
