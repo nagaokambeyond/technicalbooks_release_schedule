@@ -28,7 +28,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## TODO
 ### 技術的なもの
 - typescript化
-- vue.js3化
+- ~~vue.js3化~~
+- ~~bootstrap5~~
 - ショートカット→/→検索欄にフォーカス
 
 ### デザイン的なもの
