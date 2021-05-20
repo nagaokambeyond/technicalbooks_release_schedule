@@ -112,6 +112,14 @@
     "icon": "devicon-java-plain colored"
   },
   {
+    "id": "scala",
+    "display_name": "scala",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-scala-plain-wordmark colored"
+  },
+  {
     "id": "ios",
     "display_name": "ios",
     "category": "OS",

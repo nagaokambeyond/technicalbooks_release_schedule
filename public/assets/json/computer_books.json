@@ -370,6 +370,15 @@
   },
   {
     "id": 105,
+    "release_date": "2021/05/19",
+    "book_title": "新・明解C言語で学ぶアルゴリズムとデータ構造第2版",
+    "book_url": "https://www.sbcr.jp/product/4815609788/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-0978-8",
+    "keywords": ["c"]
+  },
+  {
+    "id": 106,
     "release_date": "2021/05/20",
     "book_title": "Pythonで学ぶ音声認識 機械学習実践シリーズ",
     "book_url": "https://book.impress.co.jp/books/1120101083",
@@ -378,7 +387,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 106,
+    "id": 107,
     "release_date": "2021/05/24",
     "book_title": "Python ゼロからはじめるプログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169460",
@@ -387,7 +396,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 107,
+    "id": 108,
     "release_date": "2021/05/28",
     "book_title": "プログラミングのための数学",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122270",
@@ -396,7 +405,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 108,
+    "id": 109,
     "release_date": "2021/06/14",
     "book_title": "独習PHP 第4版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168494",
@@ -405,7 +414,7 @@
     "keywords": ["php"]
   },
   {
-    "id": 109,
+    "id": 110,
     "release_date": "2021/06/14",
     "book_title": "動かして学ぶ！Pythonサーバレスアプリ開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169729",
@@ -414,7 +423,16 @@
     "keywords": ["python"]
   },
   {
-    "id": 110,
+    "id": 111,
+    "release_date": "2021/06/16",
+    "book_title": "Scalaスケーラブルプログラミング 第4版",
+    "book_url": "https://book.impress.co.jp/books/1119101190",
+    "book_publisher": "impress",
+    "isbn": "9784295011552",
+    "keywords": ["scala"]
+  },
+  {
+    "id": 112,
     "release_date": "2021/06/21",
     "book_title": "スラスラわかるPHP 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168500",
@@ -423,7 +441,7 @@
     "keywords": ["php"]
   },
   {
-    "id": 111,
+    "id": 112,
     "release_date": "2021/06/23",
     "book_title": "詳解セキュリティコンテスト",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122750",
@@ -432,7 +450,7 @@
     "keywords": []
   },
   {
-    "id": 112,
+    "id": 113,
     "release_date": "2021/06/25",
     "book_title": "ゲーム作りで楽しく学ぶ　Pythonのきほん",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122784",
