@@ -71,7 +71,7 @@ export default {
       axios
         .get(this.child_active_menu[0].menu_data_url)
         .then(response => {
-          let processed = response.data;
+          let processed = response.data.slice().reverse();  // keyの降順
           processed.forEach(book => {
             let master = [];
             book.keywords.forEach(word => {
