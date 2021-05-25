@@ -1,4 +1,4 @@
-# 専門書近刊ページ
+# コンピュータ技術書近刊ページ
 
 https://nagaokambeyond.github.io/technicalbooks_release_schedule/
 
