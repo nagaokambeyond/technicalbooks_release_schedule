@@ -80,6 +80,14 @@
     "icon": "devicon-python-plain colored"
   },
   {
+    "id": "django",
+    "display_name": "django",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-django-plain-wordmark colored"
+  },
+  {
     "id": "deeplerning",
     "display_name": "機械学習",
     "category": "プログラム言語",

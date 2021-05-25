@@ -406,6 +406,24 @@
   },
   {
     "id": 109,
+    "release_date": "2021/05/29",
+    "book_title": "Kotlinハンズオン （単行本）",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798064673.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798064673",
+    "keywords": ["kotlin"]
+  },
+  {
+    "id": 110,
+    "release_date": "2021/05/29",
+    "book_title": "PlayFabゲーム開発テクニック （単行本）",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798064079.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798064079",
+    "keywords": ["unity"]
+  },
+  {
+    "id": 111,
     "release_date": "2021/06/14",
     "book_title": "独習PHP 第4版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168494",
@@ -414,7 +432,7 @@
     "keywords": ["php"]
   },
   {
-    "id": 110,
+    "id": 112,
     "release_date": "2021/06/14",
     "book_title": "動かして学ぶ！Pythonサーバレスアプリ開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169729",
@@ -423,7 +441,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 111,
+    "id": 113,
     "release_date": "2021/06/16",
     "book_title": "Scalaスケーラブルプログラミング 第4版",
     "book_url": "https://book.impress.co.jp/books/1119101190",
@@ -432,7 +450,7 @@
     "keywords": ["scala"]
   },
   {
-    "id": 112,
+    "id": 114,
     "release_date": "2021/06/21",
     "book_title": "スラスラわかるPHP 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168500",
@@ -441,21 +459,39 @@
     "keywords": ["php"]
   },
   {
-    "id": 112,
-    "release_date": "2021/06/23",
-    "book_title": "詳解セキュリティコンテスト",
-    "book_url": "https://book.mynavi.jp/ec/products/detail/id=122750",
-    "book_publisher": "マイナビ",
-    "isbn": "978-4-8399-7349-0",
-    "keywords": []
-  },
-  {
-    "id": 113,
+    "id": 115,
     "release_date": "2021/06/25",
     "book_title": "ゲーム作りで楽しく学ぶ　Pythonのきほん",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122784",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7356-8",
     "keywords": ["python"]
+  },
+  {
+    "id": 116,
+    "release_date": "2021/07/12",
+    "book_title": "絵で見てわかるマイクロサービスの仕組み",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798165431",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798165431",
+    "keywords": []
+  },
+  {
+    "id": 117,
+    "release_date": "2021/07/19",
+    "book_title": "実践Django Pythonによる本格Webアプリケーション開発",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798153957",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798153957",
+    "keywords": ["python","django"]
+  },
+  {
+    "id": 118,
+    "release_date": "2021/07/24",
+    "book_title": "詳解セキュリティコンテスト",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=122750",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7349-0",
+    "keywords": []
   }
 ]
