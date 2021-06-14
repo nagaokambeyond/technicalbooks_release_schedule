@@ -487,6 +487,15 @@
   },
   {
     "id": 118,
+    "release_date": "2021/06/24",
+    "book_title": "WEB+DB PRESS Vol.123",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2021/vol123",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12207-2",
+    "keywords": []
+  },
+  {
+    "id": 119,
     "release_date": "2021/06/25",
     "book_title": "ゲーム作りで楽しく学ぶ　Pythonのきほん",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122784",
@@ -495,7 +504,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 119,
+    "id": 120,
     "release_date": "2021/07/12",
     "book_title": "絵で見てわかるマイクロサービスの仕組み",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798165431",
@@ -504,7 +513,7 @@
     "keywords": []
   },
   {
-    "id": 120,
+    "id": 121,
     "release_date": "2021/07/15",
     "book_title": "解きながら学ぶ Pythonつみあげトレーニングブック",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=123041",
@@ -513,7 +522,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 121,
+    "id": 122,
     "release_date": "2021/07/19",
     "book_title": "実践Django Pythonによる本格Webアプリケーション開発",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798153957",
@@ -522,7 +531,7 @@
     "keywords": ["python","django"]
   },
   {
-    "id": 122,
+    "id": 123,
     "release_date": "2021/07/24",
     "book_title": "詳解セキュリティコンテスト",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122750",
