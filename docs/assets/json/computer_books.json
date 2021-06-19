@@ -532,6 +532,33 @@
   },
   {
     "id": 124,
+    "release_date": "2021/07/03",
+    "book_title": "たった1日で基本が身に付く！Androidアプリ開発超入門［改訂2版］",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-12138-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12138-9",
+    "keywords": ["android","java"]
+  },
+  {
+    "id": 125,
+    "release_date": "2021/07/06",
+    "book_title": "初めてのSQL 第3版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119588/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-958-8",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 126,
+    "release_date": "2021/07/06",
+    "book_title": "詳説 データベース",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119540/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-954-0",
+    "keywords": []
+  },
+  {
+    "id": 127,
     "release_date": "2021/07/12",
     "book_title": "絵で見てわかるマイクロサービスの仕組み",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798165431",
@@ -540,7 +567,7 @@
     "keywords": []
   },
   {
-    "id": 125,
+    "id": 128,
     "release_date": "2021/07/15",
     "book_title": "解きながら学ぶ Pythonつみあげトレーニングブック",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=123041",
@@ -549,7 +576,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 126,
+    "id": 129,
     "release_date": "2021/07/19",
     "book_title": "実践Django Pythonによる本格Webアプリケーション開発",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798153957",
@@ -558,12 +585,30 @@
     "keywords": ["python","django"]
   },
   {
-    "id": 127,
+    "id": 130,
     "release_date": "2021/07/24",
     "book_title": "詳解セキュリティコンテスト",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122750",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7349-0",
     "keywords": []
+  },
+  {
+    "id": 131,
+    "release_date": "2021/07/27",
+    "book_title": "Dockerコンテナ開発・環境構築の基本",
+    "book_url": "https://book.impress.co.jp/books/1120101031",
+    "book_publisher": "impress",
+    "isbn": "9784295011736",
+    "keywords": ["docker"]
+  },
+  {
+    "id": 132,
+    "release_date": "2021/08/05",
+    "book_title": "Pythonで動かして学ぶ！あたらしいベイズ統計の教科書",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168647",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798168647",
+    "keywords": ["python"]
   }
 ]
