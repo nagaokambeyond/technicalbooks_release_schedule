@@ -595,6 +595,15 @@
   },
   {
     "id": 131,
+    "release_date": "2021/07/26",
+    "book_title": "スラスラ読める Pythonふりがなプログラミング 増補改訂版",
+    "book_url": "https://book.impress.co.jp/books/1120101181",
+    "book_publisher": "impress",
+    "isbn": "9784295011743",
+    "keywords": ["python"]
+  },
+  {
+    "id": 132,
     "release_date": "2021/07/27",
     "book_title": "Dockerコンテナ開発・環境構築の基本",
     "book_url": "https://book.impress.co.jp/books/1120101031",
@@ -603,7 +612,7 @@
     "keywords": ["docker"]
   },
   {
-    "id": 132,
+    "id": 133,
     "release_date": "2021/08/05",
     "book_title": "Pythonで動かして学ぶ！あたらしいベイズ統計の教科書",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168647",
