@@ -272,6 +272,14 @@
     "icon": "devicon-google-plain"
   },
   {
+    "id": "gas",
+    "display_name": "Google Apps Script",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-google-plain"
+  },
+  {
     "id": "cpp",
     "display_name": "cpp",
     "category": "プログラム言語",
