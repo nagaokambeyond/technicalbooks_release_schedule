@@ -586,6 +586,15 @@
   },
   {
     "id": 130,
+    "release_date": "2021/07/16",
+    "book_title": "パーフェクトC#［改訂4版］",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-12199-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12199-0",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 131,
     "release_date": "2021/07/17",
     "book_title": "教科書では教えてくれないHTML&CSS",
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12193-8",
@@ -594,7 +603,7 @@
     "keywords": ["css","html"]
   },
   {
-    "id": 131,
+    "id": 132,
     "release_date": "2021/07/19",
     "book_title": "実践Django Pythonによる本格Webアプリケーション開発",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798153957",
@@ -603,7 +612,7 @@
     "keywords": ["python","django"]
   },
   {
-    "id": 132,
+    "id": 133,
     "release_date": "2021/07/21",
     "book_title": "初めてのWebGL 2 第2版",
     "book_url": "https://www.oreilly.co.jp/books/9784873119373/",
@@ -612,7 +621,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 133,
+    "id": 134,
     "release_date": "2021/07/24",
     "book_title": "詳解セキュリティコンテスト",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=122750",
@@ -621,7 +630,7 @@
     "keywords": []
   },
   {
-    "id": 134,
+    "id": 135,
     "release_date": "2021/07/26",
     "book_title": "スラスラ読める Pythonふりがなプログラミング 増補改訂版",
     "book_url": "https://book.impress.co.jp/books/1120101181",
@@ -630,7 +639,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 135,
+    "id": 136,
     "release_date": "2021/07/27",
     "book_title": "Dockerコンテナ開発・環境構築の基本",
     "book_url": "https://book.impress.co.jp/books/1120101031",
@@ -639,7 +648,7 @@
     "keywords": ["docker"]
   },
   {
-    "id": 136,
+    "id": 137,
     "release_date": "2021/08/05",
     "book_title": "Pythonで動かして学ぶ！あたらしいベイズ統計の教科書",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168647",
@@ -648,12 +657,30 @@
     "keywords": ["python"]
   },
   {
-    "id": 137,
+    "id": 138,
     "release_date": "2021/08/12",
     "book_title": "Pythonで学ぶ音声合成 機械学習実践シリーズ",
     "book_url": "https://book.impress.co.jp/books/1120101073",
     "book_publisher": "impress",
     "isbn": "9784295012276",
     "keywords": ["python"]
+  },
+  {
+    "id": 139,
+    "release_date": "2021/08/24",
+    "book_title": "現場で使える　Flutter開発入門",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=123703",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7375-9",
+    "keywords": ["python"]
+  },
+  {
+    "id": 140,
+    "release_date": "2021/09/13",
+    "book_title": "独習Ruby",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168845",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798168845",
+    "keywords": ["ruby"]
   }
 ]

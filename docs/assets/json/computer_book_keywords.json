@@ -293,6 +293,14 @@
     "category": "プログラム言語",
     "description": "",
     "parent_id": "",
-    "icon": ""
+    "icon": "devicon-r-original colored"
+  },
+  {
+    "id": "flutter",
+    "display_name": "Flutter",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-flutter-plain colored"
   }
 ]
