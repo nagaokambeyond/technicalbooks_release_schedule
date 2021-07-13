@@ -149,7 +149,15 @@
     "category": "プログラム言語",
     "description": "",
     "parent_id": "",
-    "icon": ""
+    "icon": "devicon-kotlin-plain colored"
+  },
+  {
+    "id": "ruby",
+    "display_name": "ruby",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-ruby-plain colored"
   },
   {
     "id": "oop",
