@@ -712,6 +712,15 @@
   },
   {
     "id": 144,
+    "release_date": "2021/09/08",
+    "book_title": "独習アセンブラ 新版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798170299",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798170299",
+    "keywords": []
+  },
+  {
+    "id": 145,
     "release_date": "2021/09/13",
     "book_title": "独習Ruby",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168845",
