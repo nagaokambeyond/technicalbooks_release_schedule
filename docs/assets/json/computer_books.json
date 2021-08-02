@@ -730,6 +730,15 @@
   },
   {
     "id": 146,
+    "release_date": "2021/08/24",
+    "book_title": "並行プログラミング入門",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119595/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-959-5",
+    "keywords": []
+  },
+  {
+    "id": 147,
     "release_date": "2021/08/27",
     "book_title": "現場のプロから学ぶ CSSコーディングバイブル",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=123749",
@@ -738,7 +747,7 @@
     "keywords": ["css"]
   },
   {
-    "id": 147,
+    "id": 148,
     "release_date": "2021/09/08",
     "book_title": "独習アセンブラ 新版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798170299",
@@ -747,7 +756,7 @@
     "keywords": []
   },
   {
-    "id": 148,
+    "id": 149,
     "release_date": "2021/09/13",
     "book_title": "独習Ruby",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168845",
