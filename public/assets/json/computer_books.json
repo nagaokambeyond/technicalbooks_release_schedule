@@ -676,6 +676,15 @@
   },
   {
     "id": 140,
+    "release_date": "2021/08/03",
+    "book_title": "【この1冊でよくわかる】 ソフトウェアテストの教科書　［増補改訂 第２版］",
+    "book_url": "https://www.sbcr.jp/product/4815608750/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-0875-0",
+    "keywords": []
+  },
+  {
+    "id": 141,
     "release_date": "2021/08/05",
     "book_title": "Pythonで動かして学ぶ！あたらしいベイズ統計の教科書",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168647",
@@ -684,7 +693,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 141,
+    "id": 142,
     "release_date": "2021/08/06",
     "book_title": "Reactハンズオンラーニング 第2版",
     "book_url": "https://www.oreilly.co.jp/books/9784873119380/",
@@ -693,7 +702,7 @@
     "keywords": ["js","react"]
   },
   {
-    "id": 142,
+    "id": 143,
     "release_date": "2021/08/12",
     "book_title": "Pythonで学ぶ音声合成 機械学習実践シリーズ",
     "book_url": "https://book.impress.co.jp/books/1120101073",
@@ -702,7 +711,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 143,
+    "id": 144,
     "release_date": "2021/08/14",
     "book_title": "C#コードレシピ集",
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12265-2",
@@ -711,7 +720,16 @@
     "keywords": ["cs"]
   },
   {
-    "id": 144,
+    "id": 145,
+    "release_date": "2021/08/23",
+    "book_title": "WEB+DB PRESS Vol.124",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2021/vol124",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12287-4",
+    "keywords": []
+  },
+  {
+    "id": 146,
     "release_date": "2021/08/24",
     "book_title": "現場で使える　Flutter開発入門",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=123703",
@@ -720,7 +738,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 145,
+    "id": 147,
     "release_date": "2021/08/24",
     "book_title": "個人サイトをつくろう！ テンプレートですぐできる すぐに身につく！ HTML＆CSS",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=123747",
@@ -729,7 +747,7 @@
     "keywords": ["html","css"]
   },
   {
-    "id": 146,
+    "id": 148,
     "release_date": "2021/08/24",
     "book_title": "並行プログラミング入門",
     "book_url": "https://www.oreilly.co.jp/books/9784873119595/",
@@ -738,7 +756,7 @@
     "keywords": []
   },
   {
-    "id": 147,
+    "id": 149,
     "release_date": "2021/08/27",
     "book_title": "現場のプロから学ぶ CSSコーディングバイブル",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=123749",
@@ -747,7 +765,7 @@
     "keywords": ["css"]
   },
   {
-    "id": 148,
+    "id": 150,
     "release_date": "2021/09/08",
     "book_title": "独習アセンブラ 新版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798170299",
@@ -756,12 +774,30 @@
     "keywords": []
   },
   {
-    "id": 149,
+    "id": 151,
     "release_date": "2021/09/13",
     "book_title": "独習Ruby",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168845",
     "book_publisher": "翔泳社",
     "isbn": "9784798168845",
     "keywords": ["ruby"]
+  },
+  {
+    "id": 152,
+    "release_date": "2021/09/16",
+    "book_title": "作って学ぶ　HTML＆CSSモダンコーディング",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=124054",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7711-5",
+    "keywords": ["html","js"]
+  },
+  {
+    "id": 153,
+    "release_date": "2021/09/24",
+    "book_title": "セキュア・バイ・デザイン 安全なソフトウェア設計",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=124056",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7599-9",
+    "keywords": []
   }
 ]
