@@ -799,5 +799,14 @@
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7599-9",
     "keywords": []
+  },
+  {
+    "id": 154,
+    "release_date": "2021/09/27",
+    "book_title": "AWSではじめる クラウド開発入門",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=124113",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-77603",
+    "keywords": ["aws"]
   }
 ]
