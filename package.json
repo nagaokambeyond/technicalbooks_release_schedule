@@ -11,17 +11,17 @@
     "@popperjs/core": "^2.9.3",
     "axios": "^0.21.1",
     "bootstrap": "^5.1.0",
-    "core-js": "^3.16.2",
+    "core-js": "^3.16.3",
     "devicon": "^2.13.0",
     "joi": "^17.4.2",
-    "vue": "^3.2.4"
+    "vue": "^3.2.6"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@vue/cli-plugin-babel": "~4.5.13",
     "@vue/cli-plugin-eslint": "~4.5.13",
     "@vue/cli-service": "~4.5.13",
-    "@vue/compiler-sfc": "^3.2.4",
+    "@vue/compiler-sfc": "^3.2.6",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^7.16.0"
