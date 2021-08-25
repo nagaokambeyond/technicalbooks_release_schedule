@@ -56,6 +56,14 @@
     "icon": "devicon-javascript-plain colored"
   },
   {
+    "id": "ts",
+    "display_name": "TypeScript",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-typescript-plain colored"
+  },
+  {
     "id": "react",
     "display_name": "React",
     "category": "プログラム言語",

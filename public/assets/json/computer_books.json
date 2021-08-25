@@ -1342,6 +1342,15 @@
   },
   {
     "id": 151,
+    "release_date": "2021/08/27",
+    "book_title": "TypeScriptハンズオン ",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798065335.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798065335",
+    "keywords": ["ts"]
+  },
+  {
+    "id": 152,
     "release_date": "2021/09/08",
     "book_title": "独習アセンブラ 新版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798170299",
@@ -1350,7 +1359,7 @@
     "keywords": []
   },
   {
-    "id": 152,
+    "id": 153,
     "release_date": "2021/09/13",
     "book_title": "独習Ruby",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798168845",
@@ -1359,7 +1368,7 @@
     "keywords": ["ruby"]
   },
   {
-    "id": 153,
+    "id": 154,
     "release_date": "2021/09/16",
     "book_title": "作って学ぶ　HTML＆CSSモダンコーディング",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=124054",
@@ -1368,7 +1377,7 @@
     "keywords": ["html","js"]
   },
   {
-    "id": 154,
+    "id": 155,
     "release_date": "2021/09/24",
     "book_title": "セキュア・バイ・デザイン 安全なソフトウェア設計",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=124056",
@@ -1377,7 +1386,7 @@
     "keywords": []
   },
   {
-    "id": 155,
+    "id": 156,
     "release_date": "2021/09/27",
     "book_title": "AWSではじめる クラウド開発入門",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=124113",
