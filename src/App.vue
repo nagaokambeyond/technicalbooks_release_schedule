@@ -5,13 +5,14 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import axios from "axios";
 import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
 import "devicon";
+import { Options, Vue } from 'vue-class-component';
 
-export default {
+@Options({
   components: {
     Head,
     Books
@@ -28,7 +29,7 @@ export default {
       if (this.menu === null) {
         return;
       }
-      this.active_menu = this.menu.filter(r => r.id === this.active_menu_id);
+      this.active_menu = this.menu.filter((r:any) => r.id === this.active_menu_id);
     }
   },
   created: function() {
@@ -43,5 +44,6 @@ export default {
       })
       .catch(response => console.log(response));
   }
-};
+})
+export default class App extends Vue {}
 </script>
