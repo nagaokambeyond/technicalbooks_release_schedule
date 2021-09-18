@@ -1387,6 +1387,15 @@
   },
   {
     "id": 156,
+    "release_date": "2021/09/17",
+    "book_title": "モダンJavaScriptの基本から始める　React実践の教科書",
+    "book_url": "https://www.sbcr.jp/product/4815610722/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1072-2",
+    "keywords": ["js","react"]
+  },
+  {
+    "id": 157,
     "release_date": "2021/09/21",
     "book_title": "インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書",
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12289-8",
@@ -1395,7 +1404,7 @@
     "keywords": []
   },
   {
-    "id": 157,
+    "id": 158,
     "release_date": "2021/09/24",
     "book_title": "Web技術がこれ1冊でしっかりわかる教科書",
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12309-3",
@@ -1404,7 +1413,7 @@
     "keywords": []
   },
   {
-    "id": 158,
+    "id": 159,
     "release_date": "2021/09/24",
     "book_title": "セキュア・バイ・デザイン 安全なソフトウェア設計",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=124056",
@@ -1413,7 +1422,7 @@
     "keywords": []
   },
   {
-    "id": 159,
+    "id": 160,
     "release_date": "2021/09/27",
     "book_title": "AWSではじめる クラウド開発入門",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=124113",
