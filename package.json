@@ -15,7 +15,7 @@
     "core-js": "^3.17.3",
     "devicon": "^2.14.0",
     "joi": "^17.4.2",
-    "vue": "^3.2.10",
+    "vue": "^3.2.12",
     "vue-class-component": "^8.0.0-0"
   },
   "devDependencies": {
