@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - ~~typescript化~~
 - ~~vue.js3化~~
 - ~~bootstrap5~~
-- ショートカット→/→検索欄にフォーカス
+- ~~ショートカット→/→検索欄にフォーカス~~
 
 ### デザイン的なもの
 - licensesページの追加

@@ -7,6 +7,7 @@
             type="text"
             class="form-control"
             placeholder="例:Python"
+            data-hotkey="/"
             v-model="searchString"
           />
         </td>
@@ -47,6 +48,8 @@
 
 <script>
 import axios from "axios";
+import { install, uninstall } from "@github/hotkey";
+
 export default {
   name: "Books",
   props: ["child_menu_id", "child_active_menu"],
@@ -104,6 +107,14 @@ export default {
       self.setKeyWords();
       self.setBooks("");
     }, 500);
+    for (const el of document.querySelectorAll("[data-hotkey]")) {
+      install(el);
+    }
+  },
+  onBeforeUnmount: function() {
+    for (const el of document.querySelectorAll("[data-hotkey]")) {
+      uninstall(el);
+    }
   },
   computed: {
     searchString: {
