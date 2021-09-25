@@ -1,12 +1,4 @@
 {
-  "@babel/helper-validator-identifier@7.14.9": {
-    "licenses": "MIT",
-    "repository": "https://github.com/babel/babel",
-    "publisher": "The Babel Team",
-    "url": "https://babel.dev/team",
-    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/helper-validator-identifier",
-    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/helper-validator-identifier/LICENSE"
-  },
   "@babel/parser@7.15.5": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
@@ -15,15 +7,7 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/parser",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/parser/LICENSE"
   },
-  "@babel/types@7.15.4": {
-    "licenses": "MIT",
-    "repository": "https://github.com/babel/babel",
-    "publisher": "The Babel Team",
-    "url": "https://babel.dev/team",
-    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/types",
-    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/types/LICENSE"
-  },
-  "@github/hotkey@1.4.4": {
+  "@github/hotkey@1.5.3": {
     "licenses": "MIT",
     "repository": "https://github.com/github/hotkey",
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@github/hotkey",
@@ -67,42 +51,70 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@sideway/pinpoint",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@sideway/pinpoint/LICENSE.md"
   },
-  "@vue/compiler-core@3.2.12": {
+  "@vue/compiler-core@3.2.18": {
     "licenses": "MIT",
     "repository": "https://github.com/vuejs/vue-next",
     "publisher": "Evan You",
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-core",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-core/LICENSE"
   },
-  "@vue/compiler-dom@3.2.12": {
+  "@vue/compiler-dom@3.2.18": {
     "licenses": "MIT",
     "repository": "https://github.com/vuejs/vue-next",
     "publisher": "Evan You",
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-dom",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-dom/LICENSE"
   },
-  "@vue/reactivity@3.2.12": {
+  "@vue/compiler-sfc@3.2.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/vue-next",
+    "publisher": "Evan You",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-sfc",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-sfc/LICENSE"
+  },
+  "@vue/compiler-ssr@3.2.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/vue-next",
+    "publisher": "Evan You",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-ssr",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-ssr/LICENSE"
+  },
+  "@vue/reactivity@3.2.18": {
     "licenses": "MIT",
     "repository": "https://github.com/vuejs/vue-next",
     "publisher": "Evan You",
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/reactivity",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/reactivity/LICENSE"
   },
-  "@vue/runtime-core@3.2.12": {
+  "@vue/ref-transform@3.2.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/vue-next",
+    "publisher": "Evan You",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/ref-transform",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/ref-transform/README.md"
+  },
+  "@vue/runtime-core@3.2.18": {
     "licenses": "MIT",
     "repository": "https://github.com/vuejs/vue-next",
     "publisher": "Evan You",
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/runtime-core",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/runtime-core/LICENSE"
   },
-  "@vue/runtime-dom@3.2.12": {
+  "@vue/runtime-dom@3.2.18": {
     "licenses": "MIT",
     "repository": "https://github.com/vuejs/vue-next",
     "publisher": "Evan You",
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/runtime-dom",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/runtime-dom/LICENSE"
   },
-  "@vue/shared@3.2.12": {
+  "@vue/server-renderer@3.2.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/vue-next",
+    "publisher": "Evan You",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/server-renderer",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/server-renderer/LICENSE"
+  },
+  "@vue/shared@3.2.18": {
     "licenses": "MIT",
     "repository": "https://github.com/vuejs/vue-next",
     "publisher": "Evan You",
@@ -167,6 +179,45 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/joi",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/joi/LICENSE.md"
   },
+  "magic-string@0.25.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rich-harris/magic-string",
+    "publisher": "Rich Harris",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/magic-string",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/magic-string/LICENSE"
+  },
+  "nanocolors@0.1.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanocolors",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/nanocolors",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/nanocolors/LICENSE"
+  },
+  "nanoid@3.1.25": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanoid",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/nanoid",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/nanoid/LICENSE"
+  },
+  "postcss@8.3.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/postcss/postcss",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-sfc/node_modules/postcss",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-sfc/node_modules/postcss/LICENSE"
+  },
+  "source-map-js@0.6.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/7rulnik/source-map",
+    "publisher": "Valentin 7rulnik Semirulnik",
+    "email": "v7rulnik@gmail.com",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/source-map-js",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/source-map-js/LICENSE"
+  },
   "source-map@0.6.1": {
     "licenses": "BSD-3-Clause",
     "repository": "https://github.com/mozilla/source-map",
@@ -175,20 +226,18 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-core/node_modules/source-map",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/compiler-core/node_modules/source-map/LICENSE"
   },
+  "sourcemap-codec@1.4.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rich-Harris/sourcemap-codec",
+    "publisher": "Rich Harris",
+    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/sourcemap-codec",
+    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/sourcemap-codec/LICENSE"
+  },
   "technicalbooks_release_schedule@0.1.0": {
     "licenses": "UNLICENSED",
     "private": true,
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/LICENSE"
-  },
-  "to-fast-properties@2.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/to-fast-properties",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com",
-    "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/to-fast-properties",
-    "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/to-fast-properties/license"
   },
   "vue-class-component@8.0.0-rc.1": {
     "licenses": "MIT",
@@ -197,7 +246,7 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/vue-class-component",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/vue-class-component/LICENSE"
   },
-  "vue@3.2.12": {
+  "vue@3.2.18": {
     "licenses": "MIT",
     "repository": "https://github.com/vuejs/vue-next",
     "publisher": "Evan You",
