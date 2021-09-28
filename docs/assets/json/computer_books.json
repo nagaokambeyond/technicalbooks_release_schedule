@@ -1423,6 +1423,15 @@
   },
   {
     "id": 160,
+    "release_date": "2021/09/25",
+    "book_title": "作業が一瞬で片付く　Python自動化仕事術",
+    "book_url": "https://www.sbcr.jp/product/4815609986/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-0998-6",
+    "keywords": ["python"]
+  },
+  {
+    "id": 161,
     "release_date": "2021/09/27",
     "book_title": "AWSではじめる クラウド開発入門",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=124113",
