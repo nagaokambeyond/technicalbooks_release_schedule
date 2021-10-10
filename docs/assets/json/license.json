@@ -7,7 +7,7 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/parser",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@babel/parser/LICENSE"
   },
-  "@github/hotkey@1.5.3": {
+  "@github/hotkey@1.5.5": {
     "licenses": "MIT",
     "repository": "https://github.com/github/hotkey",
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@github/hotkey",
@@ -25,7 +25,7 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/joi/node_modules/@hapi/topo",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/joi/node_modules/@hapi/topo/LICENSE.md"
   },
-  "@popperjs/core@2.10.1": {
+  "@popperjs/core@2.10.2": {
     "licenses": "MIT",
     "repository": "https://github.com/popperjs/popper-core",
     "publisher": "Federico Zivolo",
@@ -121,7 +121,7 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/shared",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/@vue/shared/LICENSE"
   },
-  "axios@0.21.4": {
+  "axios@0.22.0": {
     "licenses": "MIT",
     "repository": "https://github.com/axios/axios",
     "publisher": "Matt Zabriskie",
@@ -164,7 +164,7 @@
     "path": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/estree-walker",
     "licenseFile": "/Users/nagaokam/Documents/GitHub/technicalbooks_release_schedule/node_modules/estree-walker/LICENSE"
   },
-  "follow-redirects@1.14.1": {
+  "follow-redirects@1.14.4": {
     "licenses": "MIT",
     "repository": "https://github.com/follow-redirects/follow-redirects",
     "publisher": "Ruben Verborgh",
