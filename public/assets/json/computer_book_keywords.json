@@ -32,12 +32,28 @@
     "icon": "devicon-linux-plain colored"
   },
   {
+    "id": "git",
+    "display_name": "git",
+    "category": "バージョン管理",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-git-plain colored"
+  },
+  {
     "id": "docker",
     "display_name": "Docker",
     "category": "コンテナ",
     "description": "",
     "parent_id": "",
     "icon": "devicon-docker-plain colored"
+  },
+  {
+    "id": "k8s",
+    "display_name": "kubernetes",
+    "category": "コンテナ",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-kubernetes-plain-wordmark colored"
   },
   {
     "id": "vue",
