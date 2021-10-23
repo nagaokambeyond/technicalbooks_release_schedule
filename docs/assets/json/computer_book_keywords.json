@@ -16,6 +16,14 @@
     "icon": "devicon-csharp-plain colored"
   },
   {
+    "id": "rust",
+    "display_name": "Rust",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-rust-plain colored"
+  },
+  {
     "id": "windows",
     "display_name": "Windows",
     "category": "OS",
