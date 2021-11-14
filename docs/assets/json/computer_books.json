@@ -1495,6 +1495,15 @@
   },
   {
     "id": 168,
+    "release_date": "2021/11/13",
+    "book_title": "Java言語で学ぶデザインパターン入門第3版",
+    "book_url": "https://www.sbcr.jp/product/4815609801/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-0980-1",
+    "keywords": ["java"]
+  },
+  {
+    "id": 169,
     "release_date": "2021/11/15",
     "book_title": "独習JavaScript 新版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798160276",
@@ -1503,7 +1512,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 169,
+    "id": 170,
     "release_date": "2021/11/16",
     "book_title": "プロフェッショナルPython ソフトウェアデザインの原則と実践",
     "book_url": "https://book.impress.co.jp/books/1120101043",
@@ -1512,7 +1521,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 170,
+    "id": 171,
     "release_date": "2021/11/17",
     "book_title": "詳解Rustプログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798160221",
@@ -1521,7 +1530,7 @@
     "keywords": ["rust"]
   },
   {
-    "id": 171,
+    "id": 172,
     "release_date": "2021/11/17",
     "book_title": "インディーゲーム・サバイバルガイド",
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12441-0",
@@ -1530,7 +1539,7 @@
     "keywords": []
   },
   {
-    "id": 172,
+    "id": 173,
     "release_date": "2021/11/17",
     "book_title": "スラスラわかるPython 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169361",
@@ -1539,7 +1548,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 173,
+    "id": 174,
     "release_date": "2021/11/22",
     "book_title": "いちばんやさしいPHPの教本 第3版 PHP 8対応 人気講師が教える実践Webプログラミング",
     "book_url": "https://book.impress.co.jp/books/1120101183",
@@ -1548,7 +1557,34 @@
     "keywords": ["php"]
   },
   {
-    "id": 174,
+    "id": 175,
+    "release_date": "2021/11/22",
+    "book_title": "新・標準プログラマーズライブラリ試してわかる Python［基礎］入門",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-12500-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12500-4",
+    "keywords": ["python"]
+  },
+  {
+    "id": 176,
+    "release_date": "2021/11/22",
+    "book_title": "作って学べる Unity本格入門",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-12433-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12433-5",
+    "keywords": ["unity"]
+  },
+  {
+    "id": 177,
+    "release_date": "2021/11/26",
+    "book_title": "Spring Framework超入門",
+    "book_url": "https://gihyo.jp/book/2021/978-4-297-12429-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12429-8",
+    "keywords": ["java","spring"]
+  },
+  {
+    "id": 178,
     "release_date": "2021/11/29",
     "book_title": "サイバー術　プロに学ぶサイバーセキュリティ",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=126751",
@@ -1557,7 +1593,7 @@
     "keywords": []
   },
   {
-    "id": 175,
+    "id": 179,
     "release_date": "2021/12/01",
     "book_title": "スラスラ読める Pythonふりがなプログラミング スクレイピング入門",
     "book_url": "https://book.impress.co.jp/books/1120101182",
@@ -1566,7 +1602,16 @@
     "keywords": ["python"]
   },
   {
-    "id": 176,
+    "id": 180,
+    "release_date": "2021/12/02",
+    "book_title": "JavaScript 第7版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119700/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-970-0",
+    "keywords": ["js"]
+  },
+  {
+    "id": 181,
     "release_date": "2021/12/06",
     "book_title": "Python3年生 機械学習のしくみ 体験してわかる！会話でまなべる！",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166575",
@@ -1575,7 +1620,16 @@
     "keywords": ["python"]
   },
   {
-    "id": 177,
+    "id": 182,
+    "release_date": "2021/12/14",
+    "book_title": "スッキリわかるC言語入門 第2版",
+    "book_url": "https://book.impress.co.jp/books/1121101027",
+    "book_publisher": "impress",
+    "isbn": "9784295012788",
+    "keywords": ["c"]
+  },
+  {
+    "id": 183,
     "release_date": "2021/12/15",
     "book_title": "入門WebAssembly",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798173597",
@@ -1584,7 +1638,7 @@
     "keywords": ["nodejs"]
   },
   {
-    "id": 178,
+    "id": 184,
     "release_date": "2021/12/20",
     "book_title": "強い将棋ソフトの創りかた Pythonで実装するディープラーニング将棋AI",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=126887",
@@ -1593,7 +1647,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 179,
+    "id": 185,
     "release_date": "2021/12/21",
     "book_title": "独習JSP＆サーブレット 第3版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167053",
@@ -1602,7 +1656,16 @@
     "keywords": ["java"]
   },
   {
-    "id": 180,
+    "id": 186,
+    "release_date": "2021/12/22",
+    "book_title": "エンジニアなら知っておきたい システム設計とドキュメント",
+    "book_url": "https://book.impress.co.jp/books/1121101044",
+    "book_publisher": "impress",
+    "isbn": "9784295013143",
+    "keywords": []
+  },
+  {
+    "id": 187,
     "release_date": "2021/12/23",
     "book_title": "ざっくりつかむ、CSS設計 どのようにCSSを書き、どのように管理していくか、の基本",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=126973",
@@ -1611,7 +1674,7 @@
     "keywords": ["css"]
   },
   {
-    "id": 181,
+    "id": 188,
     "release_date": "2021/12/23",
     "book_title": "解きながら学ぶ JavaScriptつみあげトレーニングブック",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=126984",

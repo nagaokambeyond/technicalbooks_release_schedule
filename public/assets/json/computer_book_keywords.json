@@ -152,6 +152,14 @@
     "icon": "devicon-java-plain colored"
   },
   {
+    "id": "spring",
+    "display_name": "Spring Framework",
+    "category": "プログラム言語",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-spring-plain-wordmark coloredd"
+  },
+  {
     "id": "scala",
     "display_name": "scala",
     "category": "プログラム言語",
