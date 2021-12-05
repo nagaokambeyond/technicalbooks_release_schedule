@@ -1648,6 +1648,15 @@
   },
   {
     "id": 185,
+    "release_date": "2021/12/08",
+    "book_title": "スマートな良いコードのために Pythonで学ぶアルゴリズム入門",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798064598.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798064598",
+    "keywords": ["python"]
+  },
+  {
+    "id": 186,
     "release_date": "2021/12/14",
     "book_title": "スッキリわかるC言語入門 第2版",
     "book_url": "https://book.impress.co.jp/books/1121101027",
@@ -1656,7 +1665,7 @@
     "keywords": ["c"]
   },
   {
-    "id": 186,
+    "id": 187,
     "release_date": "2021/12/15",
     "book_title": "入門WebAssembly",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798173597",
@@ -1665,7 +1674,7 @@
     "keywords": ["nodejs"]
   },
   {
-    "id": 187,
+    "id": 188,
     "release_date": "2021/12/20",
     "book_title": "強い将棋ソフトの創りかた Pythonで実装するディープラーニング将棋AI",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=126887",
@@ -1674,7 +1683,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 188,
+    "id": 189,
     "release_date": "2021/12/21",
     "book_title": "独習JSP＆サーブレット 第3版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798167053",
@@ -1683,7 +1692,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 189,
+    "id": 190,
     "release_date": "2021/12/22",
     "book_title": "エンジニアなら知っておきたい システム設計とドキュメント",
     "book_url": "https://book.impress.co.jp/books/1121101044",
@@ -1692,7 +1701,7 @@
     "keywords": []
   },
   {
-    "id": 190,
+    "id": 191,
     "release_date": "2021/12/23",
     "book_title": "ざっくりつかむ、CSS設計 どのようにCSSを書き、どのように管理していくか、の基本",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=126973",
@@ -1701,12 +1710,21 @@
     "keywords": ["css"]
   },
   {
-    "id": 191,
+    "id": 192,
     "release_date": "2021/12/23",
     "book_title": "解きながら学ぶ JavaScriptつみあげトレーニングブック",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=126984",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7596-8",
+    "keywords": ["js"]
+  },
+  {
+    "id": 193,
+    "release_date": "2022/01/14",
+    "book_title": "ステップアップJavaScript フロントエンド開発の基礎から中級を目指したES6活用まで",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169835",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798169835",
     "keywords": ["js"]
   }
 ]
