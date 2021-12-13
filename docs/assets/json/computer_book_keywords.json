@@ -350,5 +350,29 @@
     "description": "",
     "parent_id": "",
     "icon": "devicon-flutter-plain colored"
+  },
+  {
+    "id": "aws",
+    "display_name": "aws",
+    "category": "インフラ",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-amazonwebservices-plain-wordmark"
+  },
+  {
+    "id": "azure",
+    "display_name": "azure",
+    "category": "インフラ",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-azure-plain-wordmark colored"
+  },
+  {
+    "id": "gcp",
+    "display_name": "google clude",
+    "category": "インフラ",
+    "description": "",
+    "parent_id": "",
+    "icon": "devicon-googlecloud-plain-wordmark colored"
   }
 ]
