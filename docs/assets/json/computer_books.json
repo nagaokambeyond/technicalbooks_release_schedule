@@ -1783,6 +1783,15 @@
   },
   {
     "id": 200,
+    "release_date": "2022/01/19",
+    "book_title": "プログラミングRust 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119786/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-978-6",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 201,
     "release_date": "2022/01/25",
     "book_title": "ネットワーク 入門・構築の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127284",
@@ -1791,7 +1800,7 @@
     "keywords": []
   },
   {
-    "id": 201,
+    "id": 202,
     "release_date": "2022/01/26",
     "book_title": "かんたん理解 正しく選んで使うためのクラウドのきほん",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127341",
@@ -1800,12 +1809,21 @@
     "keywords": ["aws","azore","gcp"]
   },
   {
-    "id": 202,
+    "id": 203,
     "release_date": "2022/01/28",
     "book_title": "現場で使える　Webデザインアイデアレシピ",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127396",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7735-1",
     "keywords": ["html","css"]
+  },
+  {
+    "id": 204,
+    "release_date": "2022/02/15",
+    "book_title": "きれいなPythonプログラミング クリーンなコードを書くための最適な方法",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=127578",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7740-5",
+    "keywords": ["python"]
   }
 ]
