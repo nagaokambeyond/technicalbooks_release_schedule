@@ -1783,6 +1783,15 @@
   },
   {
     "id": 200,
+    "release_date": "2022/01/18",
+    "book_title": "Software Design 2022年2月号",
+    "book_url": "https://gihyo.jp/magazine/SD/archive/2022/202202",
+    "book_publisher": "技術評論社",
+    "isbn": "",
+    "keywords": []
+  },
+  {
+    "id": 201,
     "release_date": "2022/01/19",
     "book_title": "プログラミングRust 第2版",
     "book_url": "https://www.oreilly.co.jp/books/9784873119786/",
@@ -1791,7 +1800,43 @@
     "keywords": ["rust"]
   },
   {
-    "id": 201,
+    "id": 202,
+    "release_date": "2022/01/19",
+    "book_title": "Pythonエンジニア育成推進協会監修 Python実践レシピ",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12576-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12576-9",
+    "keywords": ["python"]
+  },
+  {
+    "id": 203,
+    "release_date": "2022/01/19",
+    "book_title": "AWSエンジニア入門講座",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12537-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12537-0",
+    "keywords": ["aws"]
+  },
+  {
+    "id": 204,
+    "release_date": "2022/01/22",
+    "book_title": "動画×解説でかんたん理解！　Unityゲームプログラミング超入門",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12543-1",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12543-1",
+    "keywords": ["unity"]
+  },
+  {
+    "id": 205,
+    "release_date": "2022/01/22",
+    "book_title": "世界一わかりやすいHTML＆CSSコーディングとサイト制作の教科書",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12547-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12547-9",
+    "keywords": ["html","css"]
+  },
+  {
+    "id": 206,
     "release_date": "2022/01/25",
     "book_title": "ネットワーク 入門・構築の教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127284",
@@ -1800,7 +1845,7 @@
     "keywords": []
   },
   {
-    "id": 202,
+    "id": 207,
     "release_date": "2022/01/26",
     "book_title": "かんたん理解 正しく選んで使うためのクラウドのきほん",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127341",
@@ -1809,7 +1854,7 @@
     "keywords": ["aws","azore","gcp"]
   },
   {
-    "id": 203,
+    "id": 208,
     "release_date": "2022/01/28",
     "book_title": "現場で使える　Webデザインアイデアレシピ",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127396",
@@ -1818,12 +1863,30 @@
     "keywords": ["html","css"]
   },
   {
-    "id": 204,
+    "id": 209,
+    "release_date": "2022/02/02",
+    "book_title": "図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる",
+    "book_url": "https://www.sbcr.jp/product/4815612818/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1281-8",
+    "keywords": ["aws"]
+  },
+  {
+    "id": 210,
     "release_date": "2022/02/15",
     "book_title": "きれいなPythonプログラミング クリーンなコードを書くための最適な方法",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127578",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7740-5",
     "keywords": ["python"]
+  },
+  {
+    "id": 211,
+    "release_date": "2022/02/19",
+    "book_title": "新・解きながら学ぶC言語　第2版",
+    "book_url": "https://www.sbcr.jp/product/4815615178/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1517-8",
+    "keywords": ["c"]
   }
 ]
