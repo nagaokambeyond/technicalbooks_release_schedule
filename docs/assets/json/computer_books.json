@@ -1855,6 +1855,15 @@
   },
   {
     "id": 208,
+    "release_date": "2022/01/27",
+    "book_title": "詳解 インシデントレスポンス",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119748/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-974-8",
+    "keywords": []
+  },
+  {
+    "id": 209,
     "release_date": "2022/01/28",
     "book_title": "現場で使える　Webデザインアイデアレシピ",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127396",
@@ -1863,7 +1872,16 @@
     "keywords": ["html","css"]
   },
   {
-    "id": 209,
+    "id": 210,
+    "release_date": "2022/01/28",
+    "book_title": "新わかりやすいJava オブジェクト指向徹底解説 第2版",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798065007.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798065007",
+    "keywords": ["java"]
+  },
+  {
+    "id": 211,
     "release_date": "2022/02/02",
     "book_title": "図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる",
     "book_url": "https://www.sbcr.jp/product/4815612818/",
@@ -1872,7 +1890,7 @@
     "keywords": ["aws"]
   },
   {
-    "id": 210,
+    "id": 212,
     "release_date": "2022/02/15",
     "book_title": "きれいなPythonプログラミング クリーンなコードを書くための最適な方法",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127578",
@@ -1881,12 +1899,21 @@
     "keywords": ["python"]
   },
   {
-    "id": 211,
+    "id": 213,
     "release_date": "2022/02/19",
     "book_title": "新・解きながら学ぶC言語　第2版",
     "book_url": "https://www.sbcr.jp/product/4815615178/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1517-8",
     "keywords": ["c"]
+  },
+  {
+    "id": 214,
+    "release_date": "2022/02/28",
+    "book_title": "Colaboratoryでやさしく学ぶJavaScript入門",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=128345",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7832-7",
+    "keywords": ["js"]
   }
 ]
