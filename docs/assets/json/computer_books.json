@@ -1882,6 +1882,15 @@
   },
   {
     "id": 211,
+    "release_date": "2022/02/01",
+    "book_title": "TECHNICAL MASTER はじめてのAndroidアプリ開発 Java編",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798065113.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798065113",
+    "keywords": ["java","android"]
+  },
+  {
+    "id": 212,
     "release_date": "2022/02/02",
     "book_title": "図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる",
     "book_url": "https://www.sbcr.jp/product/4815612818/",
@@ -1890,7 +1899,16 @@
     "keywords": ["aws"]
   },
   {
-    "id": 212,
+    "id": 213,
+    "release_date": "2022/02/12",
+    "book_title": "コンセプトから理解するRust",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12562-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12562-2",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 214,
     "release_date": "2022/02/15",
     "book_title": "きれいなPythonプログラミング クリーンなコードを書くための最適な方法",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127578",
@@ -1899,7 +1917,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 213,
+    "id": 215,
     "release_date": "2022/02/19",
     "book_title": "新・解きながら学ぶC言語　第2版",
     "book_url": "https://www.sbcr.jp/product/4815615178/",
@@ -1908,7 +1926,7 @@
     "keywords": ["c"]
   },
   {
-    "id": 214,
+    "id": 216,
     "release_date": "2022/02/28",
     "book_title": "Colaboratoryでやさしく学ぶJavaScript入門",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=128345",
