@@ -22,7 +22,7 @@
 
 <script>
 export default {
-  name: "Head",
+  name: "HeadItem",
   props: ["child_active_menu"],
   methods: {
     share: function(sns) {

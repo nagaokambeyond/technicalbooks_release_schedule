@@ -51,7 +51,7 @@ import axios from "axios";
 import { install, uninstall } from "@github/hotkey";
 
 export default {
-  name: "Books",
+  name: "BooksItem",
   props: ["child_menu_id", "child_active_menu"],
   data() {
     return {
