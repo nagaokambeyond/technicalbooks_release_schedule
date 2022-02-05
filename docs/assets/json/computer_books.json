@@ -1933,5 +1933,104 @@
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7832-7",
     "keywords": ["js"]
+  },
+  {
+    "id": 217,
+    "release_date": "2022/03/03",
+    "book_title": "AWS Lambda実践ガイド 第2版",
+    "book_url": "https://book.impress.co.jp/books/1121101032",
+    "book_publisher": "impress",
+    "isbn": "9784295013303",
+    "keywords": ["aws"]
+  },
+  {
+    "id": 218,
+    "release_date": "2022/03/08",
+    "book_title": "スーパーユーザーなら知っておくべきLinuxシステムの仕組み",
+    "book_url": "https://book.impress.co.jp/books/1121101019",
+    "book_publisher": "impress",
+    "isbn": "9784295013495",
+    "keywords": ["linux"]
+  },
+  {
+    "id": 219,
+    "release_date": "2022/03/08",
+    "book_title": "確かな力が身につくPython「超」入門 第２版",
+    "book_url": "https://www.sbcr.jp/product/4815613723/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1372-3",
+    "keywords": ["python"]
+  },
+  {
+    "id": 220,
+    "release_date": "2022/03/08",
+    "book_title": "これからはじめるVue.js 3実践入門",
+    "book_url": "https://www.sbcr.jp/product/4815613365/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1336-5",
+    "keywords": ["vue"]
+  },
+  {
+    "id": 221,
+    "release_date": "2022/03/14",
+    "book_title": "動かして学ぶ！Python Django開発入門 第2版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174198",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798174198",
+    "keywords": ["python","django"]
+  },
+  {
+    "id": 222,
+    "release_date": "2022/03/15",
+    "book_title": "1週間でPHPの基礎が学べる本",
+    "book_url": "https://book.impress.co.jp/books/1121101073",
+    "book_publisher": "impress",
+    "isbn": "9784295013570",
+    "keywords": ["php"]
+  },
+  {
+    "id": 223,
+    "release_date": "2022/03/15",
+    "book_title": "エンジニアなら知っておきたいコンテナのキホン",
+    "book_url": "https://book.impress.co.jp/books/1121101045",
+    "book_publisher": "impress",
+    "isbn": "9784295013556",
+    "keywords": ["docker"]
+  },
+  {
+    "id": 224,
+    "release_date": "2022/03/15",
+    "book_title": "Ansibleクックブック",
+    "book_url": "https://book.impress.co.jp/books/1120101163",
+    "book_publisher": "impress",
+    "isbn": "9784295013549",
+    "keywords": []
+  },
+  {
+    "id": 225,
+    "release_date": "2022/03/17",
+    "book_title": "いちばんやさしいGit&GitHubの教本 第2版 人気講師が教えるバージョン管理＆共有入門",
+    "book_url": "https://book.impress.co.jp/books/1121101087",
+    "book_publisher": "impress",
+    "isbn": "9784295013617",
+    "keywords": ["git"]
+  },
+  {
+    "id": 226,
+    "release_date": "2022/03/23",
+    "book_title": "スッキリわかるSQL入門 第3版 ドリル256問付き！",
+    "book_url": "https://book.impress.co.jp/books/1121101090",
+    "book_publisher": "impress",
+    "isbn": "9784295013396",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 227,
+    "release_date": "2022/03/23",
+    "book_title": "Pythonによるディープラーニング",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=128583",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7773-3",
+    "keywords": ["python"]
   }
 ]
