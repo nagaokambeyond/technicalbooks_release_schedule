@@ -20,7 +20,7 @@
     <tbody>
       <template v-for="book in books" :key="book.id">
         <tr>
-          <td>{{ book.release_date }}<br />{{ book.book_publisher }}</td>
+          <td>{{ book.release_date }}</td>
           <td>
             <a
               :href="book.book_url"
@@ -28,17 +28,6 @@
               rel="noopener noreferrer"
               >{{ book.book_title }}</a
             >
-            <br />
-            <template v-for="word in book.keyword_master">
-              <template v-if="word.icon.length !== 0">
-                <i :key="word.id" :class="word.icon"> </i>
-              </template>
-              <template v-else>
-                <span :key="word.id" :class="word.id">
-                  ・{{ word.display_name }} &nbsp;
-                </span>
-              </template>
-            </template>
           </td>
         </tr>
       </template>
