@@ -2008,6 +2008,15 @@
   },
   {
     "id": 225,
+    "release_date": "2022/03/08",
+    "book_title": "ソフトウェアアーキテクチャの基礎",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119823/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-982-3",
+    "keywords": []
+  },
+  {
+    "id": 226,
     "release_date": "2022/03/12",
     "book_title": "Visual C++ 2022 パーフェクトマスター",
     "book_url": "https://www.shuwasystem.co.jp/book/9784798066219.html",
@@ -2016,7 +2025,7 @@
     "keywords": ["cpp"]
   },
   {
-    "id": 226,
+    "id": 227,
     "release_date": "2022/03/14",
     "book_title": "動かして学ぶ！Python Django開発入門 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174198",
@@ -2025,7 +2034,7 @@
     "keywords": ["python","django"]
   },
   {
-    "id": 227,
+    "id": 228,
     "release_date": "2022/03/15",
     "book_title": "1週間でPHPの基礎が学べる本",
     "book_url": "https://book.impress.co.jp/books/1121101073",
@@ -2034,7 +2043,7 @@
     "keywords": ["php"]
   },
   {
-    "id": 228,
+    "id": 229,
     "release_date": "2022/03/15",
     "book_title": "エンジニアなら知っておきたいコンテナのキホン",
     "book_url": "https://book.impress.co.jp/books/1121101045",
@@ -2043,7 +2052,7 @@
     "keywords": ["docker"]
   },
   {
-    "id": 229,
+    "id": 230,
     "release_date": "2022/03/15",
     "book_title": "Ansibleクックブック",
     "book_url": "https://book.impress.co.jp/books/1120101163",
@@ -2052,7 +2061,7 @@
     "keywords": []
   },
   {
-    "id": 230,
+    "id": 231,
     "release_date": "2022/03/16",
     "book_title": "Djangoのツボとコツがゼッタイにわかる本［第2版］",
     "book_url": "https://www.shuwasystem.co.jp/book/9784798066059.html",
@@ -2061,7 +2070,7 @@
     "keywords": ["python","django"]
   },
   {
-    "id": 231,
+    "id": 232,
     "release_date": "2022/03/17",
     "book_title": "いちばんやさしいGit&GitHubの教本 第2版 人気講師が教えるバージョン管理＆共有入門",
     "book_url": "https://book.impress.co.jp/books/1121101087",
@@ -2070,7 +2079,7 @@
     "keywords": ["git"]
   },
   {
-    "id": 232,
+    "id": 233,
     "release_date": "2022/03/18",
     "book_title": "一夜漬け AWS認定クラウドプラクティショナー直前対策テキスト［第2版",
     "book_url": "https://www.shuwasystem.co.jp/book/9784798067155.html",
@@ -2079,7 +2088,7 @@
     "keywords": ["aws"]
   },
   {
-    "id": 233,
+    "id": 234,
     "release_date": "2022/03/19",
     "book_title": "プロになるJava",
     "book_url": "https://gihyo.jp/book/2022/978-4-297-12685-8",
@@ -2088,7 +2097,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 234,
+    "id": 235,
     "release_date": "2022/03/23",
     "book_title": "Pythonによるディープラーニング",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=128583",
@@ -2097,7 +2106,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 235,
+    "id": 236,
     "release_date": "2022/03/29",
     "book_title": "Vue.jsのツボとコツがゼッタイにわかる本［第2版］",
     "book_url": "https://www.shuwasystem.co.jp/book/9784798066608.html",
@@ -2106,12 +2115,39 @@
     "keywords": ["vue"]
   },
   {
-    "id": 236,
+    "id": 237,
     "release_date": "2022/03/30",
     "book_title": "スッキリわかるSQL入門 第3版 ドリル256問付き！",
     "book_url": "https://book.impress.co.jp/books/1121101090",
     "book_publisher": "impress",
     "isbn": "9784295013396",
     "keywords": ["sql"]
+  },
+  {
+    "id": 238,
+    "release_date": "2022/04/12",
+    "book_title": "システム運用アンチパターン",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119847/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-984-7",
+    "keywords": []
+  },
+  {
+    "id": 239,
+    "release_date": "2022/04/13",
+    "book_title": "サイバーセキュリティプログラミング 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119731/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-973-1",
+    "keywords": ["python"]
+  },
+  {
+    "id": 240,
+    "release_date": "2022/04/16",
+    "book_title": "AWSの知識地図",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12751-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12751-0",
+    "keywords": ["aws"]
   }
 ]
