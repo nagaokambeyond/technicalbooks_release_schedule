@@ -2149,5 +2149,41 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12751-0",
     "keywords": ["aws"]
+  },
+  {
+    "id": 241,
+    "release_date": "2022/04/22",
+    "book_title": "プロを目指す人のためのTypeScript入門",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12747-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12747-3",
+    "keywords": ["ts"]
+  },
+  {
+    "id": 242,
+    "release_date": "2022/04/23",
+    "book_title": "WEB+DB PRESS Vol.128",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2022/vol128",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12789-3",
+    "keywords": []
+  },
+  {
+    "id": 243,
+    "release_date": "2022/04/23",
+    "book_title": "実用 Go言語",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119694/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-969-4",
+    "keywords": ["go"]
+  },
+  {
+    "id": 244,
+    "release_date": "2022/04/28",
+    "book_title": "Pythonで理解する微分積分の基礎",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12779-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12779-4",
+    "keywords": ["python"]
   }
 ]
