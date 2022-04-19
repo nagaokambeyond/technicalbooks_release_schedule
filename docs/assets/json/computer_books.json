@@ -2179,11 +2179,38 @@
   },
   {
     "id": 244,
+    "release_date": "2022/04/26",
+    "book_title": "Django4 Webアプリ開発実装ハンドブック",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798067179.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798067179",
+    "keywords": ["python","django"]
+  },
+  {
+    "id": 245,
     "release_date": "2022/04/28",
     "book_title": "Pythonで理解する微分積分の基礎",
     "book_url": "https://gihyo.jp/book/2022/978-4-297-12779-4",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12779-4",
     "keywords": ["python"]
+  },
+  {
+    "id": 246,
+    "release_date": "2022/04/30",
+    "book_title": "ゼロからわかるTypeScript入門",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12635-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12635-3",
+    "keywords": ["ts"]
+  },
+  {
+    "id": 247,
+    "release_date": "2022/04/30",
+    "book_title": "良いコード／悪いコードで学ぶ設計入門",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12783-1",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12783-1",
+    "keywords": []
   }
 ]
