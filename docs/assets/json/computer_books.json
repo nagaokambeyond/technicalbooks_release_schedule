@@ -2212,5 +2212,23 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12783-1",
     "keywords": []
+  },
+  {
+    "id": 248,
+    "release_date": "2022/05/23",
+    "book_title": "Python自動化簡単レシピ Excel・Word・PDFなどの面倒なデータ処理をサクッと解決",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798166124",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798166124",
+    "keywords": ["python"]
+  },
+  {
+    "id": 249,
+    "release_date": "2022/05/23",
+    "book_title": "図解まるわかり AWSのしくみ",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174709",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798174709",
+    "keywords": ["aws"]
   }
 ]
