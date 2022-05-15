@@ -2230,5 +2230,14 @@
     "book_publisher": "翔泳社",
     "isbn": "9784798174709",
     "keywords": ["aws"]
+  },
+  {
+    "id": 250,
+    "release_date": "2022/05/27",
+    "book_title": "マスタリングGhidra",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119922/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-992-2",
+    "keywords": []
   }
 ]
