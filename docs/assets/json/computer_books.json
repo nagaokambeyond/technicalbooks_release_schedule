@@ -2257,5 +2257,50 @@
     "book_publisher": "オライリー",
     "isbn": "978-4-87311-992-2",
     "keywords": []
+  },
+  {
+    "id": 253,
+    "release_date": "2022/05/28",
+    "book_title": "Node.jsフレームワーク超入門",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798066912.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798066912",
+    "keywords": ["nodejs"]
+  },
+  {
+    "id": 254,
+    "release_date": "2022/06/04",
+    "book_title": "達人が教えるWebパフォーマンスチューニング",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12846-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12846-3",
+    "keywords": []
+  },
+  {
+    "id": 255,
+    "release_date": "2022/06/08",
+    "book_title": "Head Firstデザインパターン 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119762/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-976-2",
+    "keywords": []
+  },
+  {
+    "id": 256,
+    "release_date": "2022/06/14",
+    "book_title": "攻撃手法を学んで防御せよ! 押さえておくべきIoTハッキング",
+    "book_url": "https://book.impress.co.jp/books/1121101135",
+    "book_publisher": "impress",
+    "isbn": "9784295013938",
+    "keywords": []
+  },
+  {
+    "id": 257,
+    "release_date": "2022/06/21",
+    "book_title": "C言語［完全］入門",
+    "book_url": "https://www.sbcr.jp/product/4815611682/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1168-2",
+    "keywords": ["c"]
   }
 ]
