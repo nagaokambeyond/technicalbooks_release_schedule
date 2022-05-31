@@ -2302,5 +2302,41 @@
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1168-2",
     "keywords": ["c"]
+  },
+  {
+    "id": 258,
+    "release_date": "2022/06/21",
+    "book_title": "Rocky Linux & AlmaLinux実践ガイド",
+    "book_url": "https://book.impress.co.jp/books/1121101105",
+    "book_publisher": "impress",
+    "isbn": "9784295014195",
+    "keywords": ["linux"]
+  },
+  {
+    "id": 259,
+    "release_date": "2022/06/21",
+    "book_title": "基礎Visual Basic 2022",
+    "book_url": "https://book.impress.co.jp/books/1121101112",
+    "book_publisher": "impress",
+    "isbn": "9784295014324",
+    "keywords": ["vb"]
+  },
+  {
+    "id": 260,
+    "release_date": "2022/06/28",
+    "book_title": "アジャイルとスクラムによる開発手法",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=130128",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7877-8",
+    "keywords": []
+  },
+  {
+    "id": 261,
+    "release_date": "2022/07/09",
+    "book_title": "はじめてでもできる　GitとGitHubの教科書",
+    "book_url": "https://www.sbcr.jp/product/4815615390/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1539-0",
+    "keywords": ["git"]
   }
 ]
