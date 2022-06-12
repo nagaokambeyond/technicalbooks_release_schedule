@@ -2323,6 +2323,15 @@
   },
   {
     "id": 260,
+    "release_date": "2022/06/24",
+    "book_title": "WEB+DB PRESS Vol.129",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2022/vol129",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12890-6",
+    "keywords": []
+  },
+  {
+    "id": 261,
     "release_date": "2022/06/28",
     "book_title": "アジャイルとスクラムによる開発手法",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=130128",
@@ -2331,8 +2340,35 @@
     "keywords": []
   },
   {
-    "id": 261,
+    "id": 262,
     "release_date": "2022/07/09",
+    "book_title": "スラスラわかるHTML&CSSのきほん 第3版",
+    "book_url": "https://www.sbcr.jp/product/4815611651/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1165-1",
+    "keywords": ["html"]
+  },
+  {
+    "id": 263,
+    "release_date": "2022/07/19",
+    "book_title": "スラスラわかるC++ 第3版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798172941",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798172941",
+    "keywords": ["cpp"]
+  },
+  {
+    "id": 264,
+    "release_date": "2022/07/21",
+    "book_title": "独習C# 第5版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175560",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798175560",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 265,
+    "release_date": "2022/07/23",
     "book_title": "はじめてでもできる　GitとGitHubの教科書",
     "book_url": "https://www.sbcr.jp/product/4815615390/",
     "book_publisher": "SB Creative",
