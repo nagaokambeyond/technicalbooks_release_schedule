@@ -2341,6 +2341,24 @@
   },
   {
     "id": 262,
+    "release_date": "2022/06/29",
+    "book_title": "現場ですぐに使える！ Visual C# 2022逆引き大全 500の極意",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798066653.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798066653",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 263,
+    "release_date": "2022/06/29",
+    "book_title": "図解！ Dockerのツボとコツがゼッタイにわかる本",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798065915.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798065915",
+    "keywords": ["docker"]
+  },
+  {
+    "id": 264,
     "release_date": "2022/07/01",
     "book_title": "作って学ぶコンピュータアーキテクチャ",
     "book_url": "https://gihyo.jp/book/2022/978-4-297-12914-9",
@@ -2349,7 +2367,7 @@
     "keywords": []
   },
   {
-    "id": 263,
+    "id": 265,
     "release_date": "2022/07/09",
     "book_title": "スラスラわかるHTML&CSSのきほん 第3版",
     "book_url": "https://www.sbcr.jp/product/4815611651/",
@@ -2358,7 +2376,7 @@
     "keywords": ["html"]
   },
   {
-    "id": 264,
+    "id": 266,
     "release_date": "2022/07/13",
     "book_title": "スラスラわかるJavaScript 新版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798173269",
@@ -2367,7 +2385,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 265,
+    "id": 267,
     "release_date": "2022/07/19",
     "book_title": "スラスラわかるC++ 第3版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798172941",
@@ -2376,7 +2394,7 @@
     "keywords": ["cpp"]
   },
   {
-    "id": 266,
+    "id": 268,
     "release_date": "2022/07/21",
     "book_title": "独習C# 第5版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175560",
@@ -2385,12 +2403,21 @@
     "keywords": ["cs"]
   },
   {
-    "id": 267,
+    "id": 269,
     "release_date": "2022/07/23",
     "book_title": "はじめてでもできる　GitとGitHubの教科書",
     "book_url": "https://www.sbcr.jp/product/4815615390/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1539-0",
     "keywords": ["git"]
+  },
+  {
+    "id": 270,
+    "release_date": "2022/07/30",
+    "book_title": "作って学ぶ　Next.js/React　Webサイト構築",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=130848",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-8017-7",
+    "keywords": ["react"]
   }
 ]
