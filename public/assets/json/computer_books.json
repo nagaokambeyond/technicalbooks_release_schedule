@@ -2386,6 +2386,15 @@
   },
   {
     "id": 267,
+    "release_date": "2022/07/16",
+    "book_title": "［改訂2版］Oracleの基本",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12954-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12954-5",
+    "keywords": ["oracle"]
+  },
+  {
+    "id": 268,
     "release_date": "2022/07/19",
     "book_title": "スラスラわかるC++ 第3版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798172941",
@@ -2394,7 +2403,7 @@
     "keywords": ["cpp"]
   },
   {
-    "id": 268,
+    "id": 269,
     "release_date": "2022/07/21",
     "book_title": "独習C# 第5版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175560",
@@ -2403,7 +2412,16 @@
     "keywords": ["cs"]
   },
   {
-    "id": 269,
+    "id": 270,
+    "release_date": "2022/07/21",
+    "book_title": "Webサイト管理のきほん　業務と技術の知識が身につく",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12922-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12922-4",
+    "keywords": []
+  },
+  {
+    "id": 271,
     "release_date": "2022/07/23",
     "book_title": "はじめてでもできる　GitとGitHubの教科書",
     "book_url": "https://www.sbcr.jp/product/4815615390/",
@@ -2412,7 +2430,7 @@
     "keywords": ["git"]
   },
   {
-    "id": 270,
+    "id": 272,
     "release_date": "2022/07/30",
     "book_title": "作って学ぶ　Next.js/React　Webサイト構築",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=130848",
