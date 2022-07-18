@@ -2440,6 +2440,15 @@
   },
   {
     "id": 273,
+    "release_date": "2022/07/25",
+    "book_title": "TypeScriptとReact/Next.jsでつくる 実践Webアプリケーション開発",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-12916-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12916-3",
+    "keywords": ["react","ts"]
+  },
+  {
+    "id": 274,
     "release_date": "2022/07/30",
     "book_title": "作って学ぶ　Next.js/React　Webサイト構築",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=130848",
@@ -2448,12 +2457,30 @@
     "keywords": ["react"]
   },
   {
-    "id": 274,
+    "id": 275,
+    "release_date": "2022/08/03",
+    "book_title": "Go言語による分散サービス",
+    "book_url": "https://www.oreilly.co.jp/books/9784873119977/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-87311-997-7",
+    "keywords": ["go"]
+  },
+  {
+    "id": 276,
     "release_date": "2022/08/04",
     "book_title": "Python1年生 第2版 体験してわかる！会話でまなべる！プログラミングのしくみ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798170381",
     "book_publisher": "翔泳社",
     "isbn": "9784798170381",
     "keywords": ["python"]
+  },
+  {
+    "id": 277,
+    "release_date": "2022/08/19",
+    "book_title": "改善Excel　パフォーマンスを底上げする仕事改善・効率化テクニック",
+    "book_url": "https://www.sbcr.jp/product/4815613532/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1353-2",
+    "keywords": []
   }
 ]
