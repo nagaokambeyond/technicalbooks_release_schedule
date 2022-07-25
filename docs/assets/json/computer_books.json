@@ -2491,5 +2491,14 @@
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1353-2",
     "keywords": []
+  },
+  {
+    "id": 279,
+    "release_date": "2022/08/30",
+    "book_title": "テスト駆動Python 第2版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177458",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798177458",
+    "keywords": ["python"]
   }
 ]
