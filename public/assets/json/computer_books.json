@@ -2494,6 +2494,24 @@
   },
   {
     "id": 279,
+    "release_date": "2022/08/23",
+    "book_title": "スラスラ読める JavaScriptふりがなプログラミング 増補改訂版",
+    "book_url": "https://book.impress.co.jp/books/1122101025",
+    "book_publisher": "impress",
+    "isbn": "9784295015116",
+    "keywords": []
+  },
+  {
+    "id": 280,
+    "release_date": "2022/08/28",
+    "book_title": "APIデザイン・パターン",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=131252",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7939-3",
+    "keywords": []
+  },
+  {
+    "id": 281,
     "release_date": "2022/08/30",
     "book_title": "テスト駆動Python 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177458",
