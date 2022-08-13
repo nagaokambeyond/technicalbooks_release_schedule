@@ -2503,6 +2503,15 @@
   },
   {
     "id": 280,
+    "release_date": "2022/08/24",
+    "book_title": "WEB+DB PRESS Vol.130",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2022/vol130",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13000-8",
+    "keywords": []
+  },
+  {
+    "id": 281,
     "release_date": "2022/08/28",
     "book_title": "APIデザイン・パターン",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=131252",
@@ -2511,7 +2520,7 @@
     "keywords": []
   },
   {
-    "id": 281,
+    "id": 282,
     "release_date": "2022/08/30",
     "book_title": "テスト駆動Python 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177458",
