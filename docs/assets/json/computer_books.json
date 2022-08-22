@@ -2548,6 +2548,15 @@
   },
   {
     "id": 285,
+    "release_date": "2022/09/13",
+    "book_title": "新・明解C言語 中級編 第2版",
+    "book_url": "https://www.sbcr.jp/product/4815616335/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1633-5",
+    "keywords": ["c"]
+  },
+  {
+    "id": 286,
     "release_date": "2022/09/20",
     "book_title": "C言語 新版 ゼロからはじめるプログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174655",
@@ -2556,12 +2565,21 @@
     "keywords": ["c"]
   },
   {
-    "id": 286,
+    "id": 287,
     "release_date": "2022/09/20",
     "book_title": "失敗から学ぶ技術 新規事業開発を成功に導くプロトタイピングの教科書",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175003",
     "book_publisher": "翔泳社",
     "isbn": "9784798175003",
     "keywords": []
+  },
+  {
+    "id": 288,
+    "release_date": "2022/09/22",
+    "book_title": "確かな力が身につくPHP「超」入門 第2版",
+    "book_url": "https://www.sbcr.jp/product/4815617141/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1714-1",
+    "keywords": ["php"]
   }
 ]
