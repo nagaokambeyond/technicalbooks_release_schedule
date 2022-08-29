@@ -2557,6 +2557,15 @@
   },
   {
     "id": 286,
+    "release_date": "2022/09/16",
+    "book_title": "競技プログラミングの鉄則 アルゴリズム力と思考力を高める77の技術",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=131288",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7750-4",
+    "keywords": []
+  },
+  {
+    "id": 287,
     "release_date": "2022/09/20",
     "book_title": "C言語 新版 ゼロからはじめるプログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174655",
@@ -2565,7 +2574,7 @@
     "keywords": ["c"]
   },
   {
-    "id": 287,
+    "id": 288,
     "release_date": "2022/09/20",
     "book_title": "失敗から学ぶ技術 新規事業開発を成功に導くプロトタイピングの教科書",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175003",
@@ -2574,7 +2583,7 @@
     "keywords": []
   },
   {
-    "id": 288,
+    "id": 289,
     "release_date": "2022/09/22",
     "book_title": "確かな力が身につくPHP「超」入門 第2版",
     "book_url": "https://www.sbcr.jp/product/4815617141/",
