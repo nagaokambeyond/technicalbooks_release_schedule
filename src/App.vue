@@ -9,7 +9,6 @@
 import axios from "axios";
 import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
-import "devicon";
 import { Options, Vue } from 'vue-class-component';
 
 @Options({
