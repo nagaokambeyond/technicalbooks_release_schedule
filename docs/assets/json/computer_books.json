@@ -2590,5 +2590,23 @@
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1714-1",
     "keywords": ["php"]
+  },
+  {
+    "id": 290,
+    "release_date": "2022/09/22",
+    "book_title": "Docker&仮想サーバー完全入門 Webクリエイター＆エンジニアの作業がはかどる開発環境構築ガイド",
+    "book_url": "https://book.impress.co.jp/books/1121101138",
+    "book_publisher": "impress",
+    "isbn": "9784295015314",
+    "keywords": ["docker"]
+  },
+  {
+    "id": 291,
+    "release_date": "2022/09/28",
+    "book_title": "Rustプログラミング完全ガイド 他言語との比較で違いが分かる！",
+    "book_url": "https://book.impress.co.jp/books/1121101129",
+    "book_publisher": "impress",
+    "isbn": "9784295015291",
+    "keywords": ["rust"]
   }
 ]
