@@ -2626,5 +2626,41 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-13072-5",
     "keywords": ["vue"]
+  },
+  {
+    "id": 294,
+    "release_date": "2022/10/05",
+    "book_title": "Fluentd実践入門",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-13109-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13109-8",
+    "keywords": ["fluented"]
+  },
+  {
+    "id": 295,
+    "release_date": "2022/10/12",
+    "book_title": "ハンズオンWebAssembly",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400102/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0010-2",
+    "keywords": ["fluented"]
+  },
+  {
+    "id": 296,
+    "release_date": "2022/10/19",
+    "book_title": "AWSネットワーク入門 第2版",
+    "book_url": "https://book.impress.co.jp/books/1122101027",
+    "book_publisher": "impress",
+    "isbn": "9784295015420",
+    "keywords": ["aws"]
+  },
+  {
+    "id": 297,
+    "release_date": "2022/10/26",
+    "book_title": "アルゴリズムとプログラミングの図鑑【第２版】",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=132404",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-7709-2",
+    "keywords": []
   }
 ]
