@@ -2692,6 +2692,24 @@
   },
   {
     "id": 301,
+    "release_date": "2022/10/22",
+    "book_title": "読みやすいコードのガイドライン -持続可能なソフトウェア開発のために",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-13036-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13036-7",
+    "keywords": []
+  },
+  {
+    "id": 302,
+    "release_date": "2022/10/22",
+    "book_title": "WEB+DB PRESS Vol.131",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2022/vol131",
+    "book_publisher": "翔泳社",
+    "isbn": "978-4-297-13111-1",
+    "keywords": []
+  },
+  {
+    "id": 303,
     "release_date": "2022/10/24",
     "book_title": "Pythonによるあたらしいデータ分析の教科書 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798176611",
@@ -2700,12 +2718,30 @@
     "keywords": ["python"]
   },
   {
-    "id": 302,
+    "id": 304,
+    "release_date": "2022/10/25",
+    "book_title": "マイクロフロントエンド",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400027/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0002-7",
+    "keywords": []
+  },
+  {
+    "id": 305,
     "release_date": "2022/10/26",
     "book_title": "アルゴリズムとプログラミングの図鑑【第２版】",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=132404",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7709-2",
+    "keywords": []
+  },
+  {
+    "id": 306,
+    "release_date": "2022/10/27",
+    "book_title": "ソフトウェアアーキテクチャ・ハードパーツ",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400065/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0006-5",
     "keywords": []
   }
 ]
