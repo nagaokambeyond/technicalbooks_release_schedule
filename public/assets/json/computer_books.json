@@ -2743,5 +2743,50 @@
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0006-5",
     "keywords": []
+  },
+  {
+    "id": 307,
+    "release_date": "2022/11/04",
+    "book_title": "「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798171548",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798171548",
+    "keywords": []
+  },
+  {
+    "id": 308,
+    "release_date": "2022/11/08",
+    "book_title": "プロジェクトマネジメントの基本が全部わかる本 交渉・タスクマネジメント・計画立案から見積り・契約・要件定義・設計・テスト・保守改善まで",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177410",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798177410",
+    "keywords": []
+  },
+  {
+    "id": 309,
+    "release_date": "2022/11/14",
+    "book_title": "アジャイルメトリクス",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169415",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798169415",
+    "keywords": []
+  },
+  {
+    "id": 310,
+    "release_date": "2022/11/16",
+    "book_title": "行政情報システム受託・開発の教科書",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174976",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798174976",
+    "keywords": []
+  },
+  {
+    "id": 311,
+    "release_date": "2022/11/30",
+    "book_title": "ネットワーク超入門講座 第5版",
+    "book_url": "https://www.sbcr.jp/product/4815616199/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1619-9",
+    "keywords": []
   }
 ]
