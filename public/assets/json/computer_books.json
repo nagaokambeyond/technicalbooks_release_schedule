@@ -2774,6 +2774,15 @@
   {
     "id": 310,
     "release_date": "2022/11/16",
+    "book_title": "HTML/CSSブロックコーディング デザインをすらすら再現できる",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169040",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798169040",
+    "keywords": ["html","css"]
+  },
+  {
+    "id": 311,
+    "release_date": "2022/11/16",
     "book_title": "行政情報システム受託・開発の教科書",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174976",
     "book_publisher": "翔泳社",
@@ -2781,12 +2790,57 @@
     "keywords": []
   },
   {
-    "id": 311,
+    "id": 312,
+    "release_date": "2022/11/26",
+    "book_title": "［改訂3版］内部構造から学ぶPostgreSQL",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-13206-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13206-4",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 313,
+    "release_date": "2022/11/26",
+    "book_title": "武器になるHTML",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-13132-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13132-6",
+    "keywords": ["html"]
+  },
+  {
+    "id": 314,
+    "release_date": "2022/11/26",
+    "book_title": "かんたん　Visual C++",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-13126-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13126-5",
+    "keywords": ["cpp"]
+  },
+  {
+    "id": 315,
+    "release_date": "2022/11/26",
+    "book_title": "入門セキュリティコンテスト",
+    "book_url": "https://gihyo.jp/book/2022/978-4-297-13180-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13180-7",
+    "keywords": []
+  },
+  {
+    "id": 316,
     "release_date": "2022/11/30",
     "book_title": "ネットワーク超入門講座 第5版",
     "book_url": "https://www.sbcr.jp/product/4815616199/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1619-9",
+    "keywords": []
+  },
+  {
+    "id": 317,
+    "release_date": "2022/12/02",
+    "book_title": "大規模データ管理",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400089/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0008-9",
     "keywords": []
   }
 ]
