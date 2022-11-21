@@ -2791,6 +2791,24 @@
   },
   {
     "id": 312,
+    "release_date": "2022/11/18",
+    "book_title": "C#のプログラミングのツボとコツがゼッタイにわかる本",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798067780.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798067780",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 313,
+    "release_date": "2022/11/22",
+    "book_title": "マルチプラットフォーム対応 最新フレームワークFlutter3入門 ",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798068527.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798068527",
+    "keywords": []
+  },
+  {
+    "id": 314,
     "release_date": "2022/11/26",
     "book_title": "［改訂3版］内部構造から学ぶPostgreSQL",
     "book_url": "https://gihyo.jp/book/2022/978-4-297-13206-4",
@@ -2799,7 +2817,7 @@
     "keywords": ["sql"]
   },
   {
-    "id": 313,
+    "id": 315,
     "release_date": "2022/11/26",
     "book_title": "武器になるHTML",
     "book_url": "https://gihyo.jp/book/2022/978-4-297-13132-6",
@@ -2808,7 +2826,7 @@
     "keywords": ["html"]
   },
   {
-    "id": 314,
+    "id": 316,
     "release_date": "2022/11/26",
     "book_title": "かんたん　Visual C++",
     "book_url": "https://gihyo.jp/book/2022/978-4-297-13126-5",
@@ -2817,7 +2835,7 @@
     "keywords": ["cpp"]
   },
   {
-    "id": 315,
+    "id": 317,
     "release_date": "2022/11/26",
     "book_title": "入門セキュリティコンテスト",
     "book_url": "https://gihyo.jp/book/2022/978-4-297-13180-7",
@@ -2826,7 +2844,16 @@
     "keywords": []
   },
   {
-    "id": 316,
+    "id": 318,
+    "release_date": "2022/11/26",
+    "book_title": "作って覚えるVisual C# 2022 デスクトップアプリ超入門",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798068336.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798068336",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 319,
     "release_date": "2022/11/30",
     "book_title": "ネットワーク超入門講座 第5版",
     "book_url": "https://www.sbcr.jp/product/4815616199/",
@@ -2835,12 +2862,39 @@
     "keywords": []
   },
   {
-    "id": 317,
+    "id": 320,
     "release_date": "2022/12/02",
     "book_title": "大規模データ管理",
     "book_url": "https://www.oreilly.co.jp/books/9784814400089/",
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0008-9",
     "keywords": []
+  },
+  {
+    "id": 321,
+    "release_date": "2022/12/02",
+    "book_title": "マイクロサービスアーキテクチャ 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400010/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0001-0",
+    "keywords": []
+  },
+  {
+    "id": 322,
+    "release_date": "2022/12/02",
+    "book_title": "Python機械学習プログラミング PyTorch＆scikit-learn編",
+    "book_url": "https://book.impress.co.jp/books/1122101013",
+    "book_publisher": "impress",
+    "isbn": "9784295015581",
+    "keywords": ["python"]
+  },
+  {
+    "id": 323,
+    "release_date": "2022/12/20",
+    "book_title": "ゲームで学ぶJavaScript入門 増補改訂版～ブラウザゲームづくりでHTML＆CSSも身につく！",
+    "book_url": "https://book.impress.co.jp/books/1122101041",
+    "book_publisher": "impress",
+    "isbn": "9784295015680",
+    "keywords": ["js"]
   }
 ]
