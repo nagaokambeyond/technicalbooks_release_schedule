@@ -2979,12 +2979,39 @@
     "keywords": []
   },
   {
-    "id": 332,
+    "id": 333,
+    "release_date": "2022/12/23",
+    "book_title": "これからはじめる　Python入門講座",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13200-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13200-2",
+    "keywords": ["python"]
+  },
+  {
+    "id": 334,
+    "release_date": "2022/12/24",
+    "book_title": "WEB+DB PRESS Vol.132",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2023/vol132",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13245-3",
+    "keywords": []
+  },
+  {
+    "id": 335,
     "release_date": "2022/12/28",
     "book_title": "単体テストの考え方/使い方 プロジェクトの持続可能な成長を実現するための戦略",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=134252",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-8172-3",
     "keywords": []
+  },
+  {
+    "id": 336,
+    "release_date": "2023/01/04",
+    "book_title": "JavaエンジニアのためのEclipse パーフェクトガイド",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13204-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13204-0",
+    "keywords": ["java"]
   }
 ]
