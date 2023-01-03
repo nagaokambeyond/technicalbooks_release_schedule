@@ -3049,5 +3049,41 @@
     "book_publisher": "翔泳社",
     "isbn": "9784798178004",
     "keywords": ["aws"]
+  },
+  {
+    "id": 341,
+    "release_date": "2023/01/24",
+    "book_title": "詳解 システム・パフォーマンス 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400072/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0007-2",
+    "keywords": []
+  },
+  {
+    "id": 342,
+    "release_date": "2023/01/24",
+    "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第3版 Kotlin対応 なんちゃって開発者にならないための実践ハンズオン",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798176130",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798176130",
+    "keywords": ["kotlin"]
+  },
+  {
+    "id": 343,
+    "release_date": "2023/01/24",
+    "book_title": "基礎＆応用力をしっかり育成！Androidアプリ開発の教科書 第3版 Java対応 なんちゃって開発者にならないための実践ハンズオン",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798176314",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798176314",
+    "keywords": ["java"]
+  },
+  {
+    "id": 344,
+    "release_date": "2023/01/26",
+    "book_title": "ちゃんと使える力を身につける Webとプログラミングのきほんのきほん ［改訂2版］",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=134858",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-8035-1",
+    "keywords": []
   }
 ]
