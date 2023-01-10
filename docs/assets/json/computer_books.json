@@ -3085,5 +3085,41 @@
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-8035-1",
     "keywords": []
+  },
+  {
+    "id": 345,
+    "release_date": "2023/01/26",
+    "book_title": "実践Node.js入門",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-12956-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-12956-9",
+    "keywords": []
+  },
+  {
+    "id": 346,
+    "release_date": "2023/01/26",
+    "book_title": "SQLではじめるデータ分析",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400201/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0020-1",
+    "keywords": []
+  },
+  {
+    "id": 347,
+    "release_date": "2023/01/27",
+    "book_title": "Pythonでチャレンジするプログラミング入門",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13292-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13292-7",
+    "keywords": ["python"]
+  },
+  {
+    "id": 348,
+    "release_date": "2023/02/07",
+    "book_title": "スッキリわかるサーブレット＆JSP入門 第3版",
+    "book_url": "https://book.impress.co.jp/books/1122101114",
+    "book_publisher": "impress",
+    "isbn": "9784295015963",
+    "keywords": []
   }
 ]
