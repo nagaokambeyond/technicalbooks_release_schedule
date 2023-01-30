@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src"
   },
   "dependencies": {
     "@github/hotkey": "^2.0.1",
@@ -13,7 +14,6 @@
     "@vue/cli": "^5.0.8",
     "axios": "^1.2.6",
     "bootstrap": "^5.2.3",
-    "core-js": "^3.27.2",
     "joi": "^17.7.0",
     "vue": "^3.2.45",
     "vue-class-component": "^8.0.0-0"
@@ -21,19 +21,18 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.49.0",
     "@typescript-eslint/parser": "^5.49.0",
-    "@vue/cli-plugin-eslint": "~5.0.8",
-    "@vue/cli-plugin-typescript": "~5.0.8",
-    "@vue/cli-service": "~5.0.8",
     "@vue/compiler-sfc": "^3.2.45",
     "@vue/eslint-config-typescript": "^11.0.2",
     "eslint": "^8.33.0",
     "eslint-plugin-vue": "^9.9.0",
-    "typescript": "~4.9.4"
+    "typescript": "~4.9.4",
+    "@vitejs/plugin-vue": "^1.6.1",
+    "vite": "^2.5.4"
   },
   "eslintConfig": {
     "root": true,
     "env": {
-      "node": true
+      "es2021": true
     },
     "extends": [
       "plugin:vue/vue3-essential",
