@@ -12,7 +12,7 @@ export default defineConfig({
   build: {
     outDir: './docs',
   },
-  base: process.env.NODE_ENV === "production"? '/technicalbooks_release_schedule/': '/',
+  base: '/technicalbooks_release_schedule/',
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
