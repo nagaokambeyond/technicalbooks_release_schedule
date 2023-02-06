@@ -3124,6 +3124,42 @@
   },
   {
     "id": 349,
+    "release_date": "2023/01/31",
+    "book_title": "C#フレームワーク ASP.NET Core入門 .NET7対応",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798069012.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798069012",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 350,
+    "release_date": "2023/01/31",
+    "book_title": "PythonでExcelやメール操作を自動化するツボとコツがゼッタイにわかる本",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798067766.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798067766",
+    "keywords": ["python"]
+  },
+  {
+    "id": 351,
+    "release_date": "2023/01/31",
+    "book_title": "現場ですぐに使える！ Visual Basic 2022逆引き大全 500の極意",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798066660.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798066660",
+    "keywords": ["vb"]
+  },
+  {
+    "id": 352,
+    "release_date": "2023/02/01",
+    "book_title": "Visual Studio Codeパーフェクトマスター",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798067971.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798067971",
+    "keywords": []
+  },
+  {
+    "id": 353,
     "release_date": "2023/02/03",
     "book_title": "C#クックブック",
     "book_url": "https://www.oreilly.co.jp/books/9784814400188/",
@@ -3132,7 +3168,7 @@
     "keywords": ["cs"]
   },
   {
-    "id": 350,
+    "id": 354,
     "release_date": "2023/02/07",
     "book_title": "スッキリわかるサーブレット＆JSP入門 第3版",
     "book_url": "https://book.impress.co.jp/books/1122101114",
@@ -3141,7 +3177,16 @@
     "keywords": []
   },
   {
-    "id": 351,
+    "id": 355,
+    "release_date": "2023/02/15",
+    "book_title": "改訂新版 8ピンPICマイコンの使い方がよくわかる本",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13290-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13290-3",
+    "keywords": []
+  },
+  {
+    "id": 356,
     "release_date": "2023/02/17",
     "book_title": "改訂3版JavaScript本格入門",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13288-0",
@@ -3150,7 +3195,7 @@
     "keywords": ["js"]
   },
   {
-    "id": 352,
+    "id": 357,
     "release_date": "2023/02/21",
     "book_title": "Docker実践ガイド 第3版",
     "book_url": "https://book.impress.co.jp/books/1122101059",
@@ -3159,7 +3204,7 @@
     "keywords": ["c"]
   },
   {
-    "id": 353,
+    "id": 358,
     "release_date": "2023/02/22",
     "book_title": "いちばんやさしいPython機械学習の教本 第2版 人気講師が教える業務で役立つ実践ノウハウ",
     "book_url": "https://book.impress.co.jp/books/1122101123",
@@ -3168,7 +3213,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 354,
+    "id": 359,
     "release_date": "2023/02/24",
     "book_title": "Cプログラミング入門以前　[第3版]",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=135368",
