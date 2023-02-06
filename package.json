@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vite serve",
-    "build": "vite build",
+    "build": "vite build && npx license-report --only=prod --config license-report-config.json > ./public/assets/json/license.json",
     "lint": "eslint src"
   },
   "dependencies": {
