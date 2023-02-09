@@ -11,6 +11,15 @@ import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
 import { Options, Vue } from 'vue-class-component';
 
+interface Menu {
+  id: number;
+  menu_title_head: string;
+  menu_title: string;
+  menu_data_url: string;
+  menu_keyword_url: string;
+  menu_top_url: string;
+}
+
 @Options({
   components: {
     Head,
@@ -18,9 +27,9 @@ import { Options, Vue } from 'vue-class-component';
   },
   data() {
     return {
-      active_menu_id: 1,
-      menu: null,
-      active_menu: null
+      active_menu_id: 1 as number,
+      menu: [] as Menu[],
+      active_menu: null as unknown as Menu
     };
   },
   methods: {
@@ -34,14 +43,14 @@ import { Options, Vue } from 'vue-class-component';
   created: function() {
     let self = this;
     axios
-      .get(
+      .get<Menu>(
         "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/menu.json"
       )
-      .then(function(response) {
+      .then(function(response : any) {
         self.menu = response.data;
         self.setActiveMenu();
       })
-      .catch(response => console.log(response));
+      .catch(e => console.log(e.response));
   }
 })
 export default class App extends Vue {}
