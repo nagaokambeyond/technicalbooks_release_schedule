@@ -3187,6 +3187,24 @@
   },
   {
     "id": 356,
+    "release_date": "2023/02/16",
+    "book_title": "プログラマー脳 ～優れたプログラマーになるための認知科学に基づくアプローチ",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798068534.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798068534",
+    "keywords": []
+  },
+  {
+    "id": 357,
+    "release_date": "2023/02/17",
+    "book_title": "図解！ Git&GitHubのツボとコツがゼッタイにわかる本 ",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798068794.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798068794",
+    "keywords": []
+  },
+  {
+    "id": 358,
     "release_date": "2023/02/17",
     "book_title": "改訂3版JavaScript本格入門",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13288-0",
@@ -3195,7 +3213,25 @@
     "keywords": ["js"]
   },
   {
-    "id": 357,
+    "id": 359,
+    "release_date": "2023/02/18",
+    "book_title": "Pythonスクレイピング&クローリング データ収集マスタリングハンドブック",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798068046.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798068046",
+    "keywords": ["python"]
+  },
+  {
+    "id": 360,
+    "release_date": "2023/02/18",
+    "book_title": "ゲームで学ぶ探索アルゴリズム実践入門～木探索とメタヒューリスティクス",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13360-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13360-3",
+    "keywords": []
+  },
+  {
+    "id": 361,
     "release_date": "2023/02/21",
     "book_title": "Docker実践ガイド 第3版",
     "book_url": "https://book.impress.co.jp/books/1122101059",
@@ -3204,7 +3240,16 @@
     "keywords": ["c"]
   },
   {
-    "id": 358,
+    "id": 362,
+    "release_date": "2023/02/22",
+    "book_title": "パーフェクトRust",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13322-1",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13322-1",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 363,
     "release_date": "2023/02/22",
     "book_title": "いちばんやさしいPython機械学習の教本 第2版 人気講師が教える業務で役立つ実践ノウハウ",
     "book_url": "https://book.impress.co.jp/books/1122101123",
@@ -3213,12 +3258,39 @@
     "keywords": ["python"]
   },
   {
-    "id": 359,
+    "id": 364,
+    "release_date": "2023/02/24",
+    "book_title": "WEB+DB PRESS Vol.133",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2023/vol133",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13370-2",
+    "keywords": []
+  },
+  {
+    "id": 365,
     "release_date": "2023/02/24",
     "book_title": "Cプログラミング入門以前　[第3版]",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=135368",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-8255-3",
+    "keywords": ["c"]
+  },
+  {
+    "id": 366,
+    "release_date": "2023/02/27",
+    "book_title": "Webアプリケーションアクセシビリティ",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13366-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13366-5",
+    "keywords": []
+  },
+  {
+    "id": 367,
+    "release_date": "2023/03/01",
+    "book_title": "新・明解C言語 実践編 第2版",
+    "book_url": "https://www.sbcr.jp/product/4815617820/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1782-0",
     "keywords": ["c"]
   }
 ]
