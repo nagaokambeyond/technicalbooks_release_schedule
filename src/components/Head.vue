@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div href="#" class="container-fluid" v-if="this.child_active_menu !== null">
-      {{ this.child_active_menu[0].menu_title_head }}
+    <div href="#" class="container-fluid" v-if="child_active_menu !== null">
+      {{ child_active_menu[0].menu_title_head }}
     </div>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
@@ -20,12 +20,12 @@
   </nav>
 </template>
 
-<script>
+<script lang="ts">
 export default {
   name: "HeadItem",
   props: ["child_active_menu"],
   methods: {
-    share: function(sns) {
+    share: function(sns: string) {
       let href = "";
       const shareUrl =
         "https://nagaokambeyond.github.io/technicalbooks_release_schedule/";
