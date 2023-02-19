@@ -33,11 +33,12 @@ interface Menu {
     };
   },
   methods: {
-    setActiveMenu: function() {
-      if (this.menu === null) {
+    setActiveMenu(): void {
+      let self:any = this;
+      if (self.menu === null) {
         return;
       }
-      this.active_menu = this.menu.filter((r:any) => r.id === this.active_menu_id);
+      self.active_menu = self.menu.filter((r:any) => r.id === self.active_menu_id);
     }
   },
   created: function() {
