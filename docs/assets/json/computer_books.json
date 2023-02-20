@@ -3286,11 +3286,47 @@
   },
   {
     "id": 367,
+    "release_date": "2023/02/28",
+    "book_title": "Spring Boot 3 プログラミング入門",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798069166.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798069166",
+    "keywords": []
+  },
+  {
+    "id": 368,
     "release_date": "2023/03/01",
     "book_title": "新・明解C言語 実践編 第2版",
     "book_url": "https://www.sbcr.jp/product/4815617820/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1782-0",
     "keywords": ["c"]
+  },
+  {
+    "id": 369,
+    "release_date": "2023/03/01",
+    "book_title": "1冊ですべて身につくJavaScript入門講座",
+    "book_url": "https://www.sbcr.jp/product/4815615758/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1575-8",
+    "keywords": ["js"]
+  },
+  {
+    "id": 370,
+    "release_date": "2023/03/06",
+    "book_title": "今さら聞けない暗号技術＆認証・認可",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13354-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13354-2",
+    "keywords": []
+  },
+  {
+    "id": 371,
+    "release_date": "2023/03/06",
+    "book_title": "データベース速攻入門",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13362-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13362-7",
+    "keywords": []
   }
 ]
