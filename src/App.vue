@@ -10,15 +10,7 @@ import axios from "axios";
 import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
 import { Options, Vue } from 'vue-class-component';
-
-interface Menu {
-  id: number;
-  menu_title_head: string;
-  menu_title: string;
-  menu_data_url: string;
-  menu_keyword_url: string;
-  menu_top_url: string;
-}
+import {Menu} from './lib/interface'
 
 @Options({
   components: {
