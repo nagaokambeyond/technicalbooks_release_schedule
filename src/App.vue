@@ -7,12 +7,13 @@
 
 <script lang="ts">
 import axios from "axios";
+import { defineComponent } from "vue";
 import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
-import { Options, Vue } from 'vue-class-component';
-import {Menu} from './lib/interface'
+import {Menu} from './lib/interface';
 
-@Options({
+export default defineComponent({
+  name: "App",
   components: {
     Head,
     Books
@@ -45,6 +46,5 @@ import {Menu} from './lib/interface'
       })
       .catch(e => console.log(e.response));
   }
-})
-export default class App extends Vue {}
+});
 </script>
