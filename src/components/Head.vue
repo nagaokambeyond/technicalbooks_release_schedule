@@ -6,11 +6,21 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            id="navbarDropdownMenuLink"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
             SNS
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li class="dropdown-item devicon-facebook-plain colored" v-on:click="share('facebook')">
+            <li
+              class="dropdown-item devicon-facebook-plain colored"
+              v-on:click="share('facebook')"
+            >
               Facebookでシェアする
             </li>
           </ul>
@@ -21,18 +31,18 @@
 </template>
 
 <script lang="ts">
-import {Menu} from '../lib/interface';
-import { defineComponent, PropType } from 'vue'
+import { Menu } from "../lib/interface";
+import { defineComponent, PropType } from "vue";
 
 export default defineComponent({
   name: "HeadItem",
   props: {
     child_active_menu: {
-      type: Object as PropType<Menu>
-    }
+      type: Object as PropType<Menu>,
+    },
   },
   methods: {
-    share: function(sns: string) {
+    share: function (sns: string) {
       let href = "";
       const shareUrl =
         "https://nagaokambeyond.github.io/technicalbooks_release_schedule/";
@@ -51,7 +61,7 @@ export default defineComponent({
         return;
       }
       window.open(href, "_blank"); // 新規タブでSNSのシェアページを開く
-    }
-  }
+    },
+  },
 });
 </script>

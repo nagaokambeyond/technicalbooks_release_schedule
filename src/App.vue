@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <Head :child_active_menu="active_menu"></Head><br />
-    <Books :child_active_menu="active_menu" :child_menu_id="active_menu_id"> </Books>
+    <Books :child_active_menu="active_menu" :child_menu_id="active_menu_id">
+    </Books>
   </div>
 </template>
 
@@ -10,41 +11,43 @@ import axios from "axios";
 import { defineComponent } from "vue";
 import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
-import {Menu} from './lib/interface';
+import { Menu } from "./lib/interface";
 
 export default defineComponent({
   name: "App",
   components: {
     Head,
-    Books
+    Books,
   },
   data() {
     return {
       active_menu_id: 1 as number,
       menu: [] as Menu[],
-      active_menu: null as unknown as Menu
+      active_menu: null as unknown as Menu,
     };
   },
   methods: {
     setActiveMenu(): void {
-      let self:any = this;
+      let self: any = this;
       if (self.menu === null) {
         return;
       }
-      self.active_menu = self.menu.filter((r:any) => r.id === self.active_menu_id);
-    }
+      self.active_menu = self.menu.filter(
+        (r: any) => r.id === self.active_menu_id
+      );
+    },
   },
-  created: function() {
+  created: function () {
     let self = this;
     axios
       .get<Menu>(
         "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/menu.json"
       )
-      .then(function(response : any) {
+      .then(function (response: any) {
         self.menu = response.data;
         self.setActiveMenu();
       })
-      .catch(e => console.log(e.response));
-  }
+      .catch((e) => console.log(e.response));
+  },
 });
 </script>

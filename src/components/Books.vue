@@ -46,28 +46,28 @@ export default {
     return {
       books: [],
       book_keywords: [],
-      search_string: ""
+      search_string: "",
     };
   },
   methods: {
-    setKeyWords: function() {
+    setKeyWords: function () {
       let self = this;
       axios
         .get(self.child_active_menu[0].menu_keyword_url)
-        .then(function(response) {
+        .then(function (response) {
           self.book_keywords = response.data;
         })
-        .catch(response => console.log(response));
+        .catch((response) => console.log(response));
     },
-    setBooks: function(val) {
+    setBooks: function (val) {
       axios
         .get(this.child_active_menu[0].menu_data_url)
-        .then(response => {
-          let processed = response.data.slice().reverse();  // keyの降順
-          processed.forEach(book => {
+        .then((response) => {
+          let processed = response.data.slice().reverse(); // keyの降順
+          processed.forEach((book) => {
             let master = [];
-            book.keywords.forEach(word => {
-              const found = this.book_keywords.filter(x => x.id === word);
+            book.keywords.forEach((word) => {
+              const found = this.book_keywords.filter((x) => x.id === word);
               if (found.length > 0) {
                 master.push(found[0]);
               }
@@ -78,19 +78,19 @@ export default {
             this.books = processed;
           } else {
             this.books = processed.filter(
-              book =>
+              (book) =>
                 (book.book_title + book.book_publisher + book.release_date)
                   .toLowerCase()
                   .indexOf(val.toLowerCase()) > 0
             );
           }
         })
-        .catch(response => console.log(response));
-    }
+        .catch((response) => console.log(response));
+    },
   },
-  mounted: function() {
+  mounted: function () {
     let self = this;
-    setTimeout(function() {
+    setTimeout(function () {
       // app.createdより後に実行したいためsetTimeoutしている
       // いい方法がみつかり次第きりかえる
       self.setKeyWords();
@@ -100,7 +100,7 @@ export default {
       install(el);
     }
   },
-  onBeforeUnmount: function() {
+  onBeforeUnmount: function () {
     for (const el of document.querySelectorAll("[data-hotkey]")) {
       uninstall(el);
     }
@@ -112,8 +112,8 @@ export default {
       },
       set(value) {
         this.search_string = value;
-      }
-    }
+      },
+    },
   },
   watch: {
     search_string(val) {
@@ -122,8 +122,8 @@ export default {
     child_menu_id() {
       this.setKeyWords();
       this.setBooks("");
-    }
-  }
+    },
+  },
 };
 </script>
 
