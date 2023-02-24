@@ -21,9 +21,16 @@
 </template>
 
 <script lang="ts">
-export default {
+import {Menu} from '../lib/interface';
+import { defineComponent, PropType } from 'vue'
+
+export default defineComponent({
   name: "HeadItem",
-  props: ["child_active_menu"],
+  props: {
+    child_active_menu: {
+      type: Object as PropType<Menu>
+    }
+  },
   methods: {
     share: function(sns: string) {
       let href = "";
@@ -46,5 +53,5 @@ export default {
       window.open(href, "_blank"); // 新規タブでSNSのシェアページを開く
     }
   }
-};
+});
 </script>
