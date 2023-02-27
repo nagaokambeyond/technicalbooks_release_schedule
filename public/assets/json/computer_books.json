@@ -3328,5 +3328,23 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-13362-7",
     "keywords": []
+  },
+  {
+    "id": 372,
+    "release_date": "2023/03/08",
+    "book_title": "ゼロからわかる　Linuxコマンド200本ノック",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13425-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13425-9",
+    "keywords": ["linux"]
+  },
+  {
+    "id": 373,
+    "release_date": "2023/03/09",
+    "book_title": "Go言語プログラミングエッセンス",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13419-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13419-8",
+    "keywords": ["go"]
   }
 ]
