@@ -35,7 +35,7 @@
   </table>
 </template>
 
-<script>
+<script lang="ts">
 import axios from "axios";
 import { install, uninstall } from "@github/hotkey";
 
@@ -96,14 +96,16 @@ export default {
       self.setKeyWords();
       self.setBooks("");
     }, 500);
-    for (const el of document.querySelectorAll("[data-hotkey]")) {
+    const items = document.querySelectorAll<HTMLInputElement>("[data-hotkey]");
+    items.forEach((el: HTMLInputElement) => {
       install(el);
-    }
+    });
   },
   onBeforeUnmount: function () {
-    for (const el of document.querySelectorAll("[data-hotkey]")) {
+    const items = document.querySelectorAll<HTMLInputElement>("[data-hotkey]");
+    items.forEach((el: HTMLInputElement) => {
       uninstall(el);
-    }
+    });
   },
   computed: {
     searchString: {
