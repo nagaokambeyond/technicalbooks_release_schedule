@@ -38,15 +38,16 @@
 <script lang="ts">
 import axios from "axios";
 import { install, uninstall } from "@github/hotkey";
+import { Book } from '../lib/interface';
 
 export default {
   name: "BooksItem",
   props: ["child_menu_id", "child_active_menu"],
   data() {
     return {
-      books: [],
+      books: [] as Book[],
       book_keywords: [],
-      search_string: "",
+      search_string: "" as string,
     };
   },
   methods: {
@@ -59,7 +60,7 @@ export default {
         })
         .catch((response) => console.log(response));
     },
-    setBooks: function (val) {
+    setBooks: function (val: string) {
       axios
         .get(this.child_active_menu[0].menu_data_url)
         .then((response) => {
@@ -109,10 +110,10 @@ export default {
   },
   computed: {
     searchString: {
-      get() {
+      get(): string {
         return this.search_string;
       },
-      set(value) {
+      set(value: string) {
         this.search_string = value;
       },
     },
