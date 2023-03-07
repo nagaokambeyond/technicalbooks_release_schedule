@@ -7,7 +7,7 @@
 </template>
 
 <script lang="ts">
-import axios from "axios";
+import axios, {AxiosResponse, AxiosError} from "axios";
 import { defineComponent } from "vue";
 import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
@@ -40,14 +40,14 @@ export default defineComponent({
   created: function () {
     let self = this;
     axios
-      .get<Menu>(
+      .get(
         "https://nagaokambeyond.github.io/technicalbooks_release_schedule/assets/json/menu.json"
       )
-      .then(function (response: any) {
+      .then(function (response: AxiosResponse<Menu[]>) {
         self.menu = response.data;
         self.setActiveMenu();
       })
-      .catch((e) => console.log(e.response));
+      .catch((e: AxiosError<{ error: string }>) => console.log(e.message));
   },
 });
 </script>
