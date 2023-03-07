@@ -36,7 +36,7 @@
 </template>
 
 <script lang="ts">
-import axios from "axios";
+import axios,  { AxiosResponse, AxiosError } from "axios";
 import { install, uninstall } from "@github/hotkey";
 import { Book } from '../lib/interface';
 
@@ -63,7 +63,7 @@ export default {
     setBooks: function (val: string) {
       axios
         .get(this.child_active_menu[0].menu_data_url)
-        .then((response) => {
+        .then((response: AxiosResponse<Book[]>) => {
           let processed = response.data.slice().reverse(); // keyの降順
           processed.forEach((book) => {
             let master = [];
@@ -86,7 +86,7 @@ export default {
             );
           }
         })
-        .catch((response) => console.log(response));
+        .catch((e: AxiosError<{ error: string }>) => console.log(e.message));
     },
   },
   mounted: function () {

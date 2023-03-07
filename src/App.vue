@@ -7,7 +7,7 @@
 </template>
 
 <script lang="ts">
-import axios, {AxiosResponse, AxiosError} from "axios";
+import axios, { AxiosResponse, AxiosError } from "axios";
 import { defineComponent } from "vue";
 import Head from "./components/Head.vue";
 import Books from "./components/Books.vue";
