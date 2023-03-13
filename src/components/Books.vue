@@ -65,16 +65,6 @@ export default {
         .get(this.child_active_menu[0].menu_data_url)
         .then((response: AxiosResponse<Book[]>) => {
           let processed = response.data.slice().reverse(); // keyの降順
-          processed.forEach((book) => {
-            let master = [];
-            book.keywords.forEach((word) => {
-              const found = this.book_keywords.filter((x) => x.id === word);
-              if (found.length > 0) {
-                master.push(found[0]);
-              }
-            });
-            book.keyword_master = master;
-          });
           if (val.length === 0) {
             this.books = processed;
           } else {
