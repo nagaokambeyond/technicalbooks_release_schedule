@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Head :child_active_menu="active_menu"></Head><br />
+    <TheHead :child_active_menu="active_menu"></TheHead><br />
     <Books :child_active_menu="active_menu" :child_menu_id="active_menu_id">
     </Books>
   </div>
@@ -9,14 +9,14 @@
 <script lang="ts">
 import axios, { AxiosResponse, AxiosError } from "axios";
 import { defineComponent } from "vue";
-import Head from "./components/Head.vue";
+import TheHead from "./components/TheHead.vue";
 import Books from "./components/Books.vue";
 import { Menu } from "./lib/interface";
 
 export default defineComponent({
   name: "App",
   components: {
-    Head,
+    TheHead,
     Books,
   },
   data() {
