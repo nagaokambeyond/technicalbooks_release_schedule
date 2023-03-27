@@ -3448,6 +3448,15 @@
   },
   {
     "id": 385,
+    "release_date": "2023/04/07",
+    "book_title": "入門 モダンLinux",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400218/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0021-8",
+    "keywords": ["linux"]
+  },
+  {
+    "id": 386,
     "release_date": "2023/04/11",
     "book_title": "Knative実践ガイド",
     "book_url": "https://book.impress.co.jp/books/1122101070",
@@ -3456,7 +3465,7 @@
     "keywords": ["k8s"]
   },
   {
-    "id": 386,
+    "id": 387,
     "release_date": "2023/04/12",
     "book_title": "コンテナセキュリティ　コンテナ化されたアプリケーションを保護する要素技術",
     "book_url": "https://book.impress.co.jp/books/1122101051",
@@ -3465,7 +3474,16 @@
     "keywords": []
   },
   {
-    "id": 387,
+    "id": 388,
+    "release_date": "2023/04/13",
+    "book_title": "Python演習で初歩から学ぶ　実習統計学入門",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13411-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13411-2",
+    "keywords": ["python"]
+  },
+  {
+    "id": 389,
     "release_date": "2023/04/19",
     "book_title": "おかたいデザイン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175935",
@@ -3474,7 +3492,7 @@
     "keywords": []
   },
   {
-    "id": 388,
+    "id": 390,
     "release_date": "2023/04/19",
     "book_title": "データ指向プログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179797",
@@ -3483,12 +3501,22 @@
     "keywords": []
   },
   {
-    "id": 389,
+    "id": 391,
     "release_date": "2023/04/24",
     "book_title": "動かして学ぶ！Rust入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177236",
     "book_publisher": "翔泳社",
     "isbn": "9784798177236",
     "keywords": ["rust"]
+  },
+  {
+    "id": 392,
+    "release_date": "2023/04/24",
+    "book_title": "フロントエンド開発のためのテスト入門 今からでも知っておきたい自動テスト戦略の必須知識",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798178189",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798178189",
+    "keywords": []
   }
+
 ]
