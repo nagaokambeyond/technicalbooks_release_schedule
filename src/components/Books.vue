@@ -62,15 +62,16 @@ export default {
       axios
         .get(this.child_active_menu[0].menu_data_url)
         .then((response: AxiosResponse<Book[]>) => {
-          let processed = response.data.slice().reverse(); // keyの降順
+          const processed = response.data.slice().reverse(); // keyの降順
           if (val.length === 0) {
             this.books = processed;
           } else {
             this.books = processed.filter(
               (book) =>
-                (book.book_title + book.book_publisher + book.release_date)
+                [book.book_title, book.book_publisher, book.release_date]
+                  .join(" ")
                   .toLowerCase()
-                  .indexOf(val.toLowerCase()) > 0
+                  .includes(val.toLowerCase())
             );
           }
         })
