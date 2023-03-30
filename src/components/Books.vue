@@ -18,19 +18,17 @@
       </tr>
     </thead>
     <tbody>
-      <template v-for="book in books" :key="book.id">
-        <tr>
-          <td>{{ book.release_date }}</td>
-          <td>
-            <a
-              :href="book.book_url"
-              target="_blank"
-              rel="noopener noreferrer"
-              >{{ book.book_title }}</a
-            >
-          </td>
-        </tr>
-      </template>
+      <tr v-for="book in books" :key="book.id">
+        <td>{{ book.release_date }}</td>
+        <td>
+          <a
+            :href="book.book_url"
+            target="_blank"
+            rel="noopener noreferrer"
+            >{{ book.book_title }}</a
+          >
+        </td>
+      </tr>
     </tbody>
   </table>
 </template>
