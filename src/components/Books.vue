@@ -34,7 +34,7 @@
 </template>
 
 <script lang="ts">
-import axios,  { AxiosResponse, AxiosError } from "axios";
+import axios, { AxiosResponse, AxiosError } from "axios";
 import { install, uninstall } from "@github/hotkey";
 import { Book } from '../lib/interface';
 
@@ -44,7 +44,7 @@ export default {
   data() {
     return {
       books: [] as Book[],
-      book_keywords: [],
+      book_keywords: [] as string[],
       search_string: "" as string,
     };
   },
