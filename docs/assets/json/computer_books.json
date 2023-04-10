@@ -3502,6 +3502,15 @@
   },
   {
     "id": 391,
+    "release_date": "2023/04/15",
+    "book_title": "Pythonで学ぶはじめてのデータサイエンス",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13421-1",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13421-1",
+    "keywords": ["python"]
+  },
+  {
+    "id": 392,
     "release_date": "2023/04/19",
     "book_title": "おかたいデザイン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175935",
@@ -3510,7 +3519,7 @@
     "keywords": []
   },
   {
-    "id": 392,
+    "id": 393,
     "release_date": "2023/04/19",
     "book_title": "データ指向プログラミング",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179797",
@@ -3519,7 +3528,16 @@
     "keywords": []
   },
   {
-    "id": 393,
+    "id": 394,
+    "release_date": "2023/04/19",
+    "book_title": "Vue.jsポケットリファレンス",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13479-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13479-2",
+    "keywords": ["vue"]
+  },
+  {
+    "id": 395,
     "release_date": "2023/04/20",
     "book_title": "HTML&CSSポケットリファレンス",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13386-3",
@@ -3528,7 +3546,25 @@
     "keywords": ["html","css"]
   },
   {
-    "id": 394,
+    "id": 396,
+    "release_date": "2023/04/20",
+    "book_title": "はじめてつくるWebアプリケーション",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13468-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13468-6",
+    "keywords": ["ruby"]
+  },
+  {
+    "id": 397,
+    "release_date": "2023/04/22",
+    "book_title": "WEB+DB PRESS Vol.134",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2023/vol134",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13477-8",
+    "keywords": []
+  },
+  {
+    "id": 398,
     "release_date": "2023/04/24",
     "book_title": "動かして学ぶ！Rust入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177236",
@@ -3537,12 +3573,21 @@
     "keywords": ["rust"]
   },
   {
-    "id": 395,
+    "id": 399,
     "release_date": "2023/04/24",
     "book_title": "フロントエンド開発のためのテスト入門 今からでも知っておきたい自動テスト戦略の必須知識",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798178189",
     "book_publisher": "翔泳社",
     "isbn": "9784798178189",
     "keywords": []
+  },
+  {
+    "id": 400,
+    "release_date": "2023/04/24",
+    "book_title": "プログラミングPHP 第4版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400270/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0027-0",
+    "keywords": ["php"]
   }
 ]
