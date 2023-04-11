@@ -1,10 +1,14 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div href="#" class="container-fluid" v-if="child_active_menu !== null">
+  <nav
+    class="navbar navbar-expand-lg navbar-light bg-light"
+    role="navigation"
+    aria-label="main navigation"
+  >
+    <div class="container-fluid" v-show="child_active_menu !== null">
       {{ child_active_menu[0].menu_title_head }}
     </div>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav" role="list">
         <li class="nav-item dropdown">
           <a
             class="nav-link dropdown-toggle"
@@ -19,7 +23,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li
               class="dropdown-item devicon-facebook-plain colored"
-              v-on:click="share('facebook')"
+              @click="share('facebook')"
             >
               Facebookでシェアする
             </li>
@@ -34,8 +38,8 @@
 import { Menu } from "../lib/interface";
 
 defineProps<{
-  child_active_menu: Menu
-}>()
+  child_active_menu: Menu;
+}>();
 
 const share = (sns: string) => {
   let href = "";
@@ -56,5 +60,5 @@ const share = (sns: string) => {
     return;
   }
   window.open(href, "_blank"); // 新規タブでSNSのシェアページを開く
-}
+};
 </script>
