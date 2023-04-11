@@ -30,38 +30,31 @@
   </nav>
 </template>
 
-<script lang="ts">
+<script setup lang="ts">
 import { Menu } from "../lib/interface";
-import { defineComponent, PropType } from "vue";
 
-export default defineComponent({
-  name: "HeadItem",
-  props: {
-    child_active_menu: {
-      type: Object as PropType<Menu>,
-    },
-  },
-  methods: {
-    share: function (sns: string) {
-      let href = "";
-      const shareUrl =
-        "https://nagaokambeyond.github.io/technicalbooks_release_schedule/";
-      switch (sns) {
-        case "facebook":
-          href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
-          break;
-        // case "twitter":
-        //   href = `https://twitter.com/intent/tweet?url=${shareUrl}`;
-        //   break;
-        // case "line":
-        //   href = `https://social-plugins.line.me/lineit/share?url=${shareUrl}`;
-        //   break;
-      }
-      if (href === "") {
-        return;
-      }
-      window.open(href, "_blank"); // 新規タブでSNSのシェアページを開く
-    },
-  },
-});
+defineProps<{
+  child_active_menu: Menu
+}>()
+
+const share = (sns: string) => {
+  let href = "";
+  const shareUrl =
+    "https://nagaokambeyond.github.io/technicalbooks_release_schedule/";
+  switch (sns) {
+    case "facebook":
+      href = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
+      break;
+    // case "twitter":
+    //   href = `https://twitter.com/intent/tweet?url=${shareUrl}`;
+    //   break;
+    // case "line":
+    //   href = `https://social-plugins.line.me/lineit/share?url=${shareUrl}`;
+    //   break;
+  }
+  if (href === "") {
+    return;
+  }
+  window.open(href, "_blank"); // 新規タブでSNSのシェアページを開く
+}
 </script>
