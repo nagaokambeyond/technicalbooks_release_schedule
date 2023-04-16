@@ -3589,5 +3589,23 @@
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0027-0",
     "keywords": ["php"]
+  },
+  {
+    "id": 401,
+    "release_date": "2023/04/28",
+    "book_title": "実践 Svelte入門",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13495-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13495-2",
+    "keywords": []
+  },
+  {
+    "id": 402,
+    "release_date": "2023/05/15",
+    "book_title": "動かして学ぶ！Flutter開発入門",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177366",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798177366",
+    "keywords": []
   }
 ]
