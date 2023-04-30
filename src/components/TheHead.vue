@@ -4,8 +4,8 @@
     role="navigation"
     aria-label="main navigation"
   >
-    <div class="container-fluid" v-show="child_active_menu !== null">
-      {{ child_active_menu[0].menu_title_head }}
+    <div class="container-fluid">
+      {{ getMenuTitleHead() }}
     </div>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav" role="list">
@@ -37,9 +37,17 @@
 <script setup lang="ts">
 import { Menu } from "../lib/interface";
 
-defineProps<{
-  child_active_menu: Menu;
+const props = defineProps<{
+  child_active_menu: Menu[];
 }>();
+
+const getMenuTitleHead = () => {
+  if (props.child_active_menu != null && props.child_active_menu.length > 0) {
+    return props.child_active_menu.at(0)?.menu_title_head;
+  } else {
+    return null;
+  }
+};
 
 const share = (sns: string) => {
   let href = "";
