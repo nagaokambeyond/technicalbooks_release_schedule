@@ -118,7 +118,3 @@ export default {
   },
 };
 </script>
-
-<style>
-@import url("../assets/css/computer_books.css");
-</style>
