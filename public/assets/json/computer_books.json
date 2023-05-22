@@ -3655,11 +3655,29 @@
   },
   {
     "id": 408,
+    "release_date": "2023/06/06",
+    "book_title": "セキュアで信頼性のあるシステム構築",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400256/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0025-6",
+    "keywords": []
+  },
+  {
+    "id": 409,
     "release_date": "2023/06/14",
     "book_title": "動かして学ぶ！Python FastAPI開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177229",
     "book_publisher": "翔泳社",
     "isbn": "9784798177229",
+    "keywords": []
+  },
+  {
+    "id": 410,
+    "release_date": "2023/06/22",
+    "book_title": "Ansible実践ガイド 第4版［基礎編］",
+    "book_url": "https://book.impress.co.jp/books/1122101189",
+    "book_publisher": "impress",
+    "isbn": "9784295016816",
     "keywords": []
   }
 ]
