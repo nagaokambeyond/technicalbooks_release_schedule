@@ -3718,11 +3718,38 @@
   },
   {
     "id": 415,
+    "release_date": "2023/06/24",
+    "book_title": "WEB+DB PRESS Vol.135",
+    "book_url": "https://gihyo.jp/magazine/wdpress/archive/2023/vol135",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13571-3",
+    "keywords": []
+  },
+  {
+    "id": 416,
     "release_date": "2023/06/27",
     "book_title": "実践力をアップする Pythonによるアルゴリズムの教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=138749",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-81914",
     "keywords": ["python"]
+  },
+  {
+    "id": 417,
+    "release_date": "2023/06/27",
+    "book_title": "Pythonではじめるバイオインフォマティクス",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400379/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0037-9",
+    "keywords": ["python"]
+  },
+  {
+    "id": 418,
+    "release_date": "2023/06/29",
+    "book_title": "毎日使える！ Visual Studio Code",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13569-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13569-0",
+    "keywords": []
   }
 ]
