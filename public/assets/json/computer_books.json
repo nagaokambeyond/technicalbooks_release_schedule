@@ -3751,5 +3751,32 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-13569-0",
     "keywords": []
+  },
+  {
+    "id": 419,
+    "release_date": "2023/07/07",
+    "book_title": "オブジェクト設計スタイルガイド",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400331/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0033-1",
+    "keywords": []
+  },
+  {
+    "id": 420,
+    "release_date": "2023/07/20",
+    "book_title": "アジャイルプラクティスガイドブック チームで成果を出すための開発技術の実践知",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798176727",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798176727",
+    "keywords": []
+  },
+  {
+    "id": 421,
+    "release_date": "2023/07/20",
+    "book_title": "Web APIテスト技法",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179728",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798179728",
+    "keywords": []
   }
 ]
