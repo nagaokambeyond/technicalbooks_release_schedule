@@ -3754,6 +3754,15 @@
   },
   {
     "id": 419,
+    "release_date": "2023/07/06",
+    "book_title": "Node.js 超入門［第4版］",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798070285.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798070285",
+    "keywords": []
+  },
+  {
+    "id": 420,
     "release_date": "2023/07/07",
     "book_title": "オブジェクト設計スタイルガイド",
     "book_url": "https://www.oreilly.co.jp/books/9784814400331/",
@@ -3762,7 +3771,25 @@
     "keywords": []
   },
   {
-    "id": 420,
+    "id": 421,
+    "release_date": "2023/07/12",
+    "book_title": "プロになるためのSpring入門",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13613-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13613-0",
+    "keywords": ["java","spring"]
+  },
+  {
+    "id": 422,
+    "release_date": "2023/07/19",
+    "book_title": "RustとWebAssemblyによるゲーム開発",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400393/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0039-3",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 423,
     "release_date": "2023/07/20",
     "book_title": "アジャイルプラクティスガイドブック チームで成果を出すための開発技術の実践知",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798176727",
@@ -3771,7 +3798,7 @@
     "keywords": []
   },
   {
-    "id": 421,
+    "id": 424,
     "release_date": "2023/07/20",
     "book_title": "Web APIテスト技法",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179728",
