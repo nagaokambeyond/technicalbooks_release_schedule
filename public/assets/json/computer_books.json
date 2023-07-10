@@ -3805,5 +3805,23 @@
     "book_publisher": "翔泳社",
     "isbn": "9784798179728",
     "keywords": []
+  },
+  {
+    "id": 425,
+    "release_date": "2023/07/26",
+    "book_title": "AWS設計スキルアップガイド",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13649-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13649-9",
+    "keywords": ["aws"]
+  },
+  {
+    "id": 426,
+    "release_date": "2023/07/27",
+    "book_title": "基礎から学ぶコンテナセキュリティ",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13635-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13635-2",
+    "keywords": ["docker"]
   }
 ]
