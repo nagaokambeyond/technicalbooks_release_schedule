@@ -3844,6 +3844,15 @@
   },
   {
     "id": 429,
+    "release_date": "2023/08/18",
+    "book_title": "セキュアなソフトウェアの設計と開発 （単行本）",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798069753.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798069753",
+    "keywords": []
+  },
+  {
+    "id": 430,
     "release_date": "2023/08/23",
     "book_title": "Excelで`時短`システム構築術",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13617-8",
@@ -3852,7 +3861,7 @@
     "keywords": []
   },
   {
-    "id": 430,
+    "id": 431,
     "release_date": "2023/08/25",
     "book_title": "WEB+DB PRESS Vol.136",
     "book_url": "https://gihyo.jp/magazine/wdpress/archive/2023/vol136",
@@ -3861,7 +3870,25 @@
     "keywords": []
   },
   {
-    "id": 431,
+    "id": 432,
+    "release_date": "2023/08/26",
+    "book_title": "Flask本格入門",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13641-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13641-3",
+    "keywords": ["python"]
+  },
+  {
+    "id": 433,
+    "release_date": "2023/08/28",
+    "book_title": "運用設計の教科書【改訂新版】",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13657-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13657-4",
+    "keywords": []
+  },
+  {
+    "id": 434,
     "release_date": "2023/08/29",
     "book_title": "新・明解Python入門 第2版",
     "book_url": "https://www.sbcr.jp/product/4815617837/",
@@ -3870,7 +3897,7 @@
     "keywords": ["python"]
   },
   {
-    "id": 432,
+    "id": 435,
     "release_date": "2023/09/05",
     "book_title": "Pythonではじめるゲーム制作 超入門　知識ゼロからのプログラミング＆アルゴリズムと数学",
     "book_url": "https://book.impress.co.jp/books/1122101052",
