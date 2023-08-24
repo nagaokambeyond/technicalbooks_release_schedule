@@ -10,7 +10,7 @@
   "dependencies": {
     "@github/hotkey": "^2.0.1",
     "@popperjs/core": "^2.11.8",
-    "@tsconfig/node18": "^18.2.0",
+    "@tsconfig/node18": "^18.2.1",
     "axios": "^1.4.0",
     "bootstrap": "^5.3.1",
     "joi": "^17.9.2",
