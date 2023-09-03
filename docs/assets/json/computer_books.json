@@ -3922,5 +3922,14 @@
     "book_publisher": "impress",
     "isbn": "9784295017691",
     "keywords": ["python"]
+  },
+  {
+    "id": 438,
+    "release_date": "2023/09/28",
+    "book_title": "これからはじめるReact実践入門",
+    "book_url": "https://www.sbcr.jp/product/4815619480/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1948-0",
+    "keywords": ["react"]
   }
 ]
