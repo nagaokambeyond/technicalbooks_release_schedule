@@ -3943,6 +3943,15 @@
   },
   {
     "id": 440,
+    "release_date": "2023/09/16",
+    "book_title": "Podmanイン・アクション",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798070209.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798070209",
+    "keywords": []
+  },
+  {
+    "id": 441,
     "release_date": "2023/09/22",
     "book_title": "Nuxt 3　フロントエンド開発の教科書",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13685-7",
@@ -3951,7 +3960,16 @@
     "keywords": ["react"]
   },
   {
-    "id": 441,
+    "id": 442,
+    "release_date": "2023/09/22",
+    "book_title": "いきなりプログラミング Androidアプリ開発",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798178998",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798178998",
+    "keywords": []
+  },
+  {
+    "id": 443,
     "release_date": "2023/09/25",
     "book_title": "C言語によるはじめてのアルゴリズム入門　改訂第5版",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13673-4",
@@ -3960,7 +3978,7 @@
     "keywords": ["c"]
   },
   {
-    "id": 442,
+    "id": 444,
     "release_date": "2023/09/25",
     "book_title": "クラウドネイティブで実現する　マイクロサービス開発・運用 実践ガイド",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13783-0",
@@ -3969,12 +3987,39 @@
     "keywords": []
   },
   {
-    "id": 443,
+    "id": 445,
+    "release_date": "2023/09/26",
+    "book_title": "インタプリタの作り方 －言語設計／開発の基本と2つの方式による実装",
+    "book_url": "https://book.impress.co.jp/books/1122101087",
+    "book_publisher": "impress",
+    "isbn": "9784295017875",
+    "keywords": []
+  },
+  {
+    "id": 446,
     "release_date": "2023/09/28",
     "book_title": "これからはじめるReact実践入門",
     "book_url": "https://www.sbcr.jp/product/4815619480/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1948-0",
     "keywords": ["react"]
+  },
+  {
+    "id": 447,
+    "release_date": "2023/10/16",
+    "book_title": "SQL1年生 データベースのしくみ SQLiteで体験してわかる！会話でまなべる！",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179612",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798179612",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 448,
+    "release_date": "2023/10/18",
+    "book_title": "実践マイクロサービスAPI ",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179735",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798179735",
+    "keywords": []
   }
 ]
