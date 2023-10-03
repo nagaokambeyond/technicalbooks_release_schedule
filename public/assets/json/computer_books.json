@@ -4042,6 +4042,24 @@
   },
   {
     "id": 451,
+    "release_date": "2023/10/07",
+    "book_title": "図解！ TypeScriptのツボとコツがゼッタイにわかる本 プログラミング実践編",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798067803.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798067803",
+    "keywords": ["js"]
+  },
+  {
+    "id": 452,
+    "release_date": "2023/10/14",
+    "book_title": "C++ソフトウェア設計",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400454/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0045-4",
+    "keywords": ["cpp"]
+  },
+  {
+    "id": 453,
     "release_date": "2023/10/16",
     "book_title": "SQL1年生 データベースのしくみ SQLiteで体験してわかる！会話でまなべる！",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179612",
@@ -4050,7 +4068,7 @@
     "keywords": ["sql"]
   },
   {
-    "id": 452,
+    "id": 454,
     "release_date": "2023/10/18",
     "book_title": "実践マイクロサービスAPI ",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179735",
