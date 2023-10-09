@@ -4070,10 +4070,19 @@
   {
     "id": 454,
     "release_date": "2023/10/18",
-    "book_title": "実践マイクロサービスAPI ",
+    "book_title": "実践マイクロサービスAPI",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179735",
     "book_publisher": "翔泳社",
     "isbn": "9784798179735",
+    "keywords": []
+  },
+  {
+    "id": 455,
+    "release_date": "2023/10/26",
+    "book_title": "かんたん　TypeScript",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13739-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13739-7",
     "keywords": []
   }
 ]
