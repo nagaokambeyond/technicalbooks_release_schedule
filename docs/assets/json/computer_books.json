@@ -4078,11 +4078,56 @@
   },
   {
     "id": 455,
+    "release_date": "2023/10/24",
+    "book_title": "Pythonプログラミングパーフェクトマスター［最新Visual Studio Code対応 第4版］",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798070667.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798070667",
+    "keywords": ["python"]
+  },
+  {
+    "id": 456,
     "release_date": "2023/10/26",
     "book_title": "かんたん　TypeScript",
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13739-7",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-13739-7",
     "keywords": []
+  },
+  {
+    "id": 457,
+    "release_date": "2023/11/01",
+    "book_title": "確かな力が身につく C#「超」入門 第3版",
+    "book_url": "https://www.sbcr.jp/product/4815623173/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-2317-3",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 458,
+    "release_date": "2023/11/01",
+    "book_title": "基礎からのサーブレット/JSP 第5版",
+    "book_url": "https://www.sbcr.jp/product/4815621698/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-2169-8",
+    "keywords": ["java"]
+  },
+  {
+    "id": 459,
+    "release_date": "2023/11/06",
+    "book_title": "スッキリわかるPython入門 第2版",
+    "book_url": "https://book.impress.co.jp/books/1122101165",
+    "book_publisher": "impress",
+    "isbn": "9784295016366",
+    "keywords": ["python"]
+  },
+  {
+    "id": 460,
+    "release_date": "2023/11/06",
+    "book_title": "スッキリわかるJava入門 第4版",
+    "book_url": "https://book.impress.co.jp/books/1123101044",
+    "book_publisher": "impress",
+    "isbn": "9784295017936",
+    "keywords": ["java"]
   }
 ]
