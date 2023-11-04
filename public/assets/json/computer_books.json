@@ -4129,5 +4129,42 @@
     "book_publisher": "impress",
     "isbn": "9784295017936",
     "keywords": ["java"]
+  },
+  {
+    "id": 461,
+    "release_date": "2023/11/14",
+    "book_title": "詳解 Rustアトミック操作とロック",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400515/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0051-5",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 462,
+    "release_date": "2023/11/28",
+    "book_title": "サイバーセキュリティの教科書",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=141365",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-83925",
+    "keywords": []
+  },
+  {
+    "id": 463,
+    "release_date": "2023/11/29",
+    "book_title": "実践 メモリフォレンジック",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400478/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0047-8",
+    "keywords": []
+  },
+  {
+    "id": 464,
+    "release_date": "2023/12/01",
+    "book_title": "Pythonで学ぶ　はじめてのプログラミング入門教室",
+    "book_url": "https://www.sbcr.jp/product/4815613358/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1335-8",
+    "keywords": ["python"]
   }
+
 ]
