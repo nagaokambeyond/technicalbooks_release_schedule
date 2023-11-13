@@ -4141,6 +4141,24 @@
   },
   {
     "id": 462,
+    "release_date": "2023/11/16",
+    "book_title": "知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182438",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798182438",
+    "keywords": []
+  },
+  {
+    "id": 463,
+    "release_date": "2023/11/22",
+    "book_title": "ChatGPTと学ぶPython入門 「Python×AI」で誰でも最速でプログラミングを習得できる！",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182230",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798182230",
+    "keywords": ["python"]
+  },
+  {
+    "id": 464,
     "release_date": "2023/11/28",
     "book_title": "サイバーセキュリティの教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=141365",
@@ -4149,7 +4167,7 @@
     "keywords": []
   },
   {
-    "id": 463,
+    "id": 465,
     "release_date": "2023/11/29",
     "book_title": "実践 メモリフォレンジック",
     "book_url": "https://www.oreilly.co.jp/books/9784814400478/",
@@ -4158,7 +4176,16 @@
     "keywords": []
   },
   {
-    "id": 464,
+    "id": 466,
+    "release_date": "2023/12/01",
+    "book_title": "Efficient Linuxコマンドライン",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400485/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0048-5",
+    "keywords": []
+  },
+  {
+    "id": 467,
     "release_date": "2023/12/01",
     "book_title": "Pythonで学ぶ　はじめてのプログラミング入門教室",
     "book_url": "https://www.sbcr.jp/product/4815613358/",
