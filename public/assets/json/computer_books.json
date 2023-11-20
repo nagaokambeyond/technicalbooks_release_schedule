@@ -4159,6 +4159,15 @@
   },
   {
     "id": 464,
+    "release_date": "2023/11/24",
+    "book_title": "フロントエンドの知識地図",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13871-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13871-4",
+    "keywords": []
+  },
+  {
+    "id": 465,
     "release_date": "2023/11/28",
     "book_title": "サイバーセキュリティの教科書",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=141365",
@@ -4167,7 +4176,7 @@
     "keywords": []
   },
   {
-    "id": 465,
+    "id": 466,
     "release_date": "2023/11/29",
     "book_title": "実践 メモリフォレンジック",
     "book_url": "https://www.oreilly.co.jp/books/9784814400478/",
@@ -4176,7 +4185,7 @@
     "keywords": []
   },
   {
-    "id": 466,
+    "id": 467,
     "release_date": "2023/12/01",
     "book_title": "Efficient Linuxコマンドライン",
     "book_url": "https://www.oreilly.co.jp/books/9784814400485/",
@@ -4185,13 +4194,21 @@
     "keywords": []
   },
   {
-    "id": 467,
+    "id": 468,
     "release_date": "2023/12/01",
     "book_title": "Pythonで学ぶ　はじめてのプログラミング入門教室",
     "book_url": "https://www.sbcr.jp/product/4815613358/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1335-8",
     "keywords": ["python"]
+  },
+  {
+    "id": 469,
+    "release_date": "2023/12/02",
+    "book_title": "Access　実践マスターガイド～仕事の現場で即使える",
+    "book_url": "https://gihyo.jp/book/2023/978-4-297-13875-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13875-2",
+    "keywords": []
   }
-
 ]
