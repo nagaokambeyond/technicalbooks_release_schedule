@@ -4210,5 +4210,32 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-13875-2",
     "keywords": []
+  },
+  {
+    "id": 470,
+    "release_date": "2023/12/11",
+    "book_title": "New Relic実践入門 第2版 オブザーバビリティの基礎と実現",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184500",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798184500",
+    "keywords": []
+  },
+  {
+    "id": 471,
+    "release_date": "2023/12/18",
+    "book_title": "実装で学ぶフルスタックWeb開発 エンジニアの視野と知識を広げる「一気通貫」型ハンズオン",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179339",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798179339",
+    "keywords": []
+  },
+  {
+    "id": 472,
+    "release_date": "2023/12/19",
+    "book_title": "Kubernetesマイクロサービス開発の実践",
+    "book_url": "https://book.impress.co.jp/books/1123101061",
+    "book_publisher": "impress",
+    "isbn": "9784295018148",
+    "keywords": []
   }
 ]
