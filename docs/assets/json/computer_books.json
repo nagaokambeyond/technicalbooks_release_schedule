@@ -4222,6 +4222,15 @@
   },
   {
     "id": 471,
+    "release_date": "2023/12/12",
+    "book_title": "ゲーム作りで楽しく学ぶ　オブジェクト指向のきほん",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=141696",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-83017",
+    "keywords": []
+  },
+  {
+    "id": 472,
     "release_date": "2023/12/18",
     "book_title": "実装で学ぶフルスタックWeb開発 エンジニアの視野と知識を広げる「一気通貫」型ハンズオン",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798179339",
@@ -4230,12 +4239,30 @@
     "keywords": []
   },
   {
-    "id": 472,
+    "id": 473,
     "release_date": "2023/12/19",
     "book_title": "Kubernetesマイクロサービス開発の実践",
     "book_url": "https://book.impress.co.jp/books/1123101061",
     "book_publisher": "impress",
     "isbn": "9784295018148",
     "keywords": []
+  },
+  {
+    "id": 474,
+    "release_date": "2023/12/22",
+    "book_title": "systemdの思想と機能",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-13893-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13893-6",
+    "keywords": []
+  },
+  {
+    "id": 475,
+    "release_date": "2023/12/22",
+    "book_title": "Pythonによるはじめてのアルゴリズム入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-13887-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13887-5",
+    "keywords": ["python"]
   }
 ]
