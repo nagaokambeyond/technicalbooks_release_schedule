@@ -4294,11 +4294,29 @@
   },
   {
     "id": 479,
+    "release_date": "2023/12/24",
+    "book_title": "スラスラわかるネットワーク＆TCP/IPのきほん 第3版",
+    "book_url": "https://www.sbcr.jp/product/4815623333/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-2333-3",
+    "keywords": []
+  },
+  {
+    "id": 480,
     "release_date": "2024/01/13",
     "book_title": "体験しながら学ぶ ネットワーク技術入門",
     "book_url": "https://www.sbcr.jp/product/4815618599/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1859-9",
+    "keywords": []
+  },
+  {
+    "id": 481,
+    "release_date": "2024/01/18",
+    "book_title": "Rustの練習帳",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400584/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0058-4",
     "keywords": []
   }
 ]
