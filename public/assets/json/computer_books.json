@@ -4318,5 +4318,14 @@
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0058-4",
     "keywords": []
+  },
+  {
+    "id": 482,
+    "release_date": "2024/01/24",
+    "book_title": "ソフトウェアアーキテクチャメトリクス",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400607/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0060-7",
+    "keywords": []
   }
 ]
