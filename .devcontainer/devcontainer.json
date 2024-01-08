@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "build":{
+      "dockerfile": "./Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "Vue.vscode-typescript-vue-plugin",
+        "Vue.volar",
+        "dariofuzinato.vue-peek",
+        "shd101wyy.markdown-preview-enhanced",
+        "yzhang.markdown-all-in-one",
+        "oderwat.indent-rainbow",
+        "EditorConfig.EditorConfig",
+        "aaron-bond.better-comments",
+        "ms-vscode.js-debug-nightly",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  }
+}

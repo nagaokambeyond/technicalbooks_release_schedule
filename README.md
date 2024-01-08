@@ -2,6 +2,12 @@
 
 https://nagaokambeyond.github.io/technicalbooks_release_schedule/
 
+## devcontainer
+
+VSCode用でdevcontainerを用意しました
+- コンテナで再度開く
+- リモート接続を終了する
+
 ## Project setup
 ```
 npm install
@@ -21,20 +27,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-## TODO
-### 技術的なもの
-- ~~typescript化~~
-- ~~vue.js3化~~
-- ~~bootstrap5~~
-- ~~ショートカット→/→検索欄にフォーカス~~
-
-### デザイン的なもの
-- licensesページの追加
-- favicon
-
- ### 調査
-- json読み込みを相対パス化調査
