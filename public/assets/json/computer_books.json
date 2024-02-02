@@ -4375,6 +4375,15 @@
   },
   {
     "id": 488,
+    "release_date": "2024/02/01",
+    "book_title": "Next.js超入門",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798071299.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798071299",
+    "keywords": []
+  },
+  {
+    "id": 489,
     "release_date": "2024/02/05",
     "book_title": "スッキリわかるSQL入門 第4版 ドリル256問付き！",
     "book_url": "https://book.impress.co.jp/books/1123101107",
@@ -4383,12 +4392,57 @@
     "keywords": ["sql"]
   },
   {
-    "id": 489,
+    "id": 490,
     "release_date": "2024/02/05",
     "book_title": "スッキリわかるJava入門 実践編 第4版",
     "book_url": "https://book.impress.co.jp/books/1123101106",
     "book_publisher": "impress",
     "isbn": "9784295018452",
     "keywords": ["java"]
+  },
+  {
+    "id": 491,
+    "release_date": "2024/02/15",
+    "book_title": "独習Java 第6版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798180946",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798180946",
+    "keywords": ["java"]
+  },
+  {
+    "id": 492,
+    "release_date": "2024/02/20",
+    "book_title": "ハッキング・ラボのつくりかた 完全版 仮想環境におけるハッカー体験学習",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174570",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798174570",
+    "keywords": []
+  },
+  {
+    "id": 493,
+    "release_date": "2024/02/24",
+    "book_title": "効率的なGo",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400539/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0053-9",
+    "keywords": ["go"]
+  },
+  {
+    "id": 494,
+    "release_date": "2024/03/02",
+    "book_title": "Java［完全］入門",
+    "book_url": "https://www.sbcr.jp/product/4815619244/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-1924-4",
+    "keywords": ["java"]
+  },
+  {
+    "id": 495,
+    "release_date": "2024/03/02",
+    "book_title": "Webエンジニアを育てる学校",
+    "book_url": "https://www.sbcr.jp/product/4815619244/",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-82843",
+    "keywords": []
   }
 ]
