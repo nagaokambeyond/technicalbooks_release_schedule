@@ -4411,6 +4411,15 @@
   },
   {
     "id": 492,
+    "release_date": "2024/02/16",
+    "book_title": "Pythonプロフェッショナルプログラミング 第4版",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798070544.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798070544",
+    "keywords": ["python"]
+  },
+  {
+    "id": 493,
     "release_date": "2024/02/20",
     "book_title": "ハッキング・ラボのつくりかた 完全版 仮想環境におけるハッカー体験学習",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174570",
@@ -4419,7 +4428,7 @@
     "keywords": []
   },
   {
-    "id": 493,
+    "id": 494,
     "release_date": "2024/02/24",
     "book_title": "効率的なGo",
     "book_url": "https://www.oreilly.co.jp/books/9784814400539/",
@@ -4428,7 +4437,16 @@
     "keywords": ["go"]
   },
   {
-    "id": 494,
+    "id": 495,
+    "release_date": "2024/02/24",
+    "book_title": "データモデリングでドメインを駆動する",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14010-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14010-6",
+    "keywords": []
+  },
+  {
+    "id": 496,
     "release_date": "2024/03/02",
     "book_title": "Java［完全］入門",
     "book_url": "https://www.sbcr.jp/product/4815619244/",
@@ -4437,7 +4455,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 495,
+    "id": 497,
     "release_date": "2024/03/02",
     "book_title": "Webエンジニアを育てる学校",
     "book_url": "https://www.sbcr.jp/product/4815619244/",
