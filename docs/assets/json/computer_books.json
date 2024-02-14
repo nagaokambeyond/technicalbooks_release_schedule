@@ -4429,6 +4429,15 @@
   },
   {
     "id": 494,
+    "release_date": "2024/02/20",
+    "book_title": "リバーシを作りながら学ぶJavaScript AIの基本 対戦プログラムの開発に挑戦！",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798071695.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798071695",
+    "keywords": ["js"]
+  },
+  {
+    "id": 495,
     "release_date": "2024/02/24",
     "book_title": "効率的なGo",
     "book_url": "https://www.oreilly.co.jp/books/9784814400539/",
@@ -4437,7 +4446,7 @@
     "keywords": ["go"]
   },
   {
-    "id": 495,
+    "id": 496,
     "release_date": "2024/02/24",
     "book_title": "データモデリングでドメインを駆動する",
     "book_url": "https://gihyo.jp/book/2024/978-4-297-14010-6",
@@ -4446,7 +4455,16 @@
     "keywords": []
   },
   {
-    "id": 496,
+    "id": 497,
+    "release_date": "2024/02/24",
+    "book_title": "Docker/Kubernetes実践コンテナ開発入門 改訂新版",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14017-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14017-5",
+    "keywords": ["docker"]
+  },
+  {
+    "id": 498,
     "release_date": "2024/03/02",
     "book_title": "Java［完全］入門",
     "book_url": "https://www.sbcr.jp/product/4815619244/",
@@ -4455,12 +4473,21 @@
     "keywords": ["java"]
   },
   {
-    "id": 497,
+    "id": 499,
     "release_date": "2024/03/02",
     "book_title": "Webエンジニアを育てる学校",
     "book_url": "https://www.sbcr.jp/product/4815619244/",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-82843",
+    "keywords": []
+  },
+  {
+    "id": 500,
+    "release_date": "2024/03/07",
+    "book_title": "ゲーム開発で学ぶC言語入門 プロのクリエイターが教える基本文法と開発技法",
+    "book_url": "https://book.impress.co.jp/books/1122101108",
+    "book_publisher": "impress",
+    "isbn": "9784295017660",
     "keywords": []
   }
 ]
