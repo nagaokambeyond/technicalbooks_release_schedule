@@ -4465,6 +4465,24 @@
   },
   {
     "id": 498,
+    "release_date": "2024/02/24",
+    "book_title": "Elixir実践入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14014-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14014-4",
+    "keywords": ["java"]
+  },
+  {
+    "id": 499,
+    "release_date": "2024/03/01",
+    "book_title": "PC・IT図解 Pythonプログラミングの技術としくみ",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798066868.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798066868",
+    "keywords": ["python"]
+  },
+  {
+    "id": 500,
     "release_date": "2024/03/02",
     "book_title": "Java［完全］入門",
     "book_url": "https://www.sbcr.jp/product/4815619244/",
@@ -4473,7 +4491,7 @@
     "keywords": ["java"]
   },
   {
-    "id": 499,
+    "id": 501,
     "release_date": "2024/03/02",
     "book_title": "Webエンジニアを育てる学校",
     "book_url": "https://www.sbcr.jp/product/4815619244/",
@@ -4482,12 +4500,57 @@
     "keywords": []
   },
   {
-    "id": 500,
+    "id": 502,
+    "release_date": "2024/03/04",
+    "book_title": "［改訂新版］イラストでわかるDockerとKubernetes",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14055-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14055-7",
+    "keywords": ["docker"]
+  },
+  {
+    "id": 503,
+    "release_date": "2024/03/07",
+    "book_title": "Flutter実践開発",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-13993-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-13993-3",
+    "keywords": []
+  },
+  {
+    "id": 504,
     "release_date": "2024/03/07",
     "book_title": "ゲーム開発で学ぶC言語入門 プロのクリエイターが教える基本文法と開発技法",
     "book_url": "https://book.impress.co.jp/books/1122101108",
     "book_publisher": "impress",
     "isbn": "9784295017660",
     "keywords": []
+  },
+  {
+    "id": 505,
+    "release_date": "2024/03/08",
+    "book_title": "実用 Git 第3版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400614/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0061-4",
+    "keywords": ["git"]
+  },
+  {
+    "id": 506,
+    "release_date": "2024/03/12",
+    "book_title": "PHPクックブック",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400621/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0062-1",
+    "keywords": ["php"]
+  },
+  {
+    "id": 507,
+    "release_date": "2024/03/22",
+    "book_title": "現場で使えるTypeScript 詳解実践ガイド",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=142709",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-84274",
+    "keywords": ["ts"]
   }
 ]
