@@ -4555,11 +4555,47 @@
   },
   {
     "id": 508,
+    "release_date": "2024/03/16",
+    "book_title": "図解入門よくわかる 最新Oracleデータベースの基本と仕組み［第6版］",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798071794.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798071794",
+    "keywords": []
+  },
+  {
+    "id": 509,
     "release_date": "2024/03/22",
     "book_title": "現場で使えるTypeScript 詳解実践ガイド",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=142709",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-84274",
     "keywords": ["ts"]
+  },
+  {
+    "id": 510,
+    "release_date": "2024/04/03",
+    "book_title": "スッキリわかるサーブレット＆JSP入門 第4版",
+    "book_url": "https://book.impress.co.jp/books/1123101133",
+    "book_publisher": "impress",
+    "isbn": "9784295018780",
+    "keywords": ["java"]
+  },
+  {
+    "id": 511,
+    "release_date": "2024/04/15",
+    "book_title": "ゼロからはじめるLinuxサーバー構築・運用ガイド 第2版 動かしながら学ぶWebサーバーの作り方",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182995",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798182995",
+    "keywords": []
+  },
+  {
+    "id": 512,
+    "release_date": "2024/04/18",
+    "book_title": "ホワイトハッカー入門 第2版",
+    "book_url": "https://book.impress.co.jp/books/1123101143",
+    "book_publisher": "impress",
+    "isbn": "9784295018957",
+    "keywords": []
   }
 ]
