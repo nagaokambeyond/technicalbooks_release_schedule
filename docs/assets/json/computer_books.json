@@ -4597,5 +4597,14 @@
     "book_publisher": "impress",
     "isbn": "9784295018957",
     "keywords": []
+  },
+  {
+    "id": 513,
+    "release_date": "2024/04/21",
+    "book_title": "新しいLinuxの教科書　第２版",
+    "book_url": "https://www.sbcr.jp/product/4815624316/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-2431-6",
+    "keywords": ["linux"]
   }
 ]
