@@ -10,7 +10,7 @@
   "dependencies": {
     "@github/hotkey": "^3.1.0",
     "@popperjs/core": "^2.11.8",
-    "@tsconfig/node20": "^20.1.2",
+    "@tsconfig/node20": "^20.1.4",
     "axios": "^1.6.8",
     "bootstrap": "^5.3.3",
     "joi": "^17.12.2",
@@ -25,7 +25,7 @@
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.23.0",
     "typescript": "~5.4.3",
-    "vite": "^5.2.2"
+    "vite": "^5.2.7"
   },
   "eslintConfig": {
     "root": true,
