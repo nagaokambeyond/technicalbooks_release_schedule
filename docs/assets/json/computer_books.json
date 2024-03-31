@@ -4591,6 +4591,15 @@
   },
   {
     "id": 512,
+    "release_date": "2024/04/17",
+    "book_title": "改訂新版　Spring Framework超入門　やさしくわかるWebアプリ開発",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14049-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14049-6",
+    "keywords": ["java"]
+  },
+  {
+    "id": 513,
     "release_date": "2024/04/18",
     "book_title": "ホワイトハッカー入門 第2版",
     "book_url": "https://book.impress.co.jp/books/1123101143",
@@ -4599,12 +4608,21 @@
     "keywords": []
   },
   {
-    "id": 513,
+    "id": 514,
     "release_date": "2024/04/21",
     "book_title": "新しいLinuxの教科書　第２版",
     "book_url": "https://www.sbcr.jp/product/4815624316/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-2431-6",
     "keywords": ["linux"]
+  },
+  {
+    "id": 515,
+    "release_date": "2024/04/23",
+    "book_title": "Real World HTTP 第3版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400669/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0066-9",
+    "keywords": []
   }
 ]
