@@ -4609,6 +4609,33 @@
   },
   {
     "id": 514,
+    "release_date": "2024/04/18",
+    "book_title": "［改訂第4版］シェルスクリプト基本リファレンス",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14006-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14006-9",
+    "keywords": []
+  },
+  {
+    "id": 515,
+    "release_date": "2024/04/20",
+    "book_title": "ゼロからわかるAmazon Web Services超入門　はじめてのクラウド　改訂新版",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14089-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14089-2",
+    "keywords": []
+  },
+  {
+    "id": 516,
+    "release_date": "2024/04/20",
+    "book_title": "Pythonによる「プログラミング的思考」入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14047-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14047-2",
+    "keywords": ["python"]
+  },
+  {
+    "id": 517,
     "release_date": "2024/04/21",
     "book_title": "新しいLinuxの教科書　第２版",
     "book_url": "https://www.sbcr.jp/product/4815624316/",
@@ -4617,12 +4644,30 @@
     "keywords": ["linux"]
   },
   {
-    "id": 515,
+    "id": 518,
     "release_date": "2024/04/23",
     "book_title": "Real World HTTP 第3版",
     "book_url": "https://www.oreilly.co.jp/books/9784814400669/",
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0066-9",
+    "keywords": []
+  },
+  {
+    "id": 519,
+    "release_date": "2024/04/26",
+    "book_title": "入門 継続的デリバリー",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400690/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0069-0",
+    "keywords": []
+  },
+  {
+    "id": 520,
+    "release_date": "2024/05/15",
+    "book_title": "Spring徹底入門 第2版 Spring FrameworkによるJavaアプリケーション開発",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798181349",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798181349",
     "keywords": []
   }
 ]
