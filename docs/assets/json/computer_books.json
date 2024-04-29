@@ -4690,6 +4690,33 @@
   },
   {
     "id": 523,
+    "release_date": "2024/05/02",
+    "book_title": "TCP/IP＆ネットワークコマンド入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14132-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14132-5",
+    "keywords": []
+  },
+  {
+    "id": 524,
+    "release_date": "2024/05/10",
+    "book_title": "TCP/IP技術入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14157-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14157-8",
+    "keywords": []
+  },
+  {
+    "id": 525,
+    "release_date": "2024/05/13",
+    "book_title": "Juliaではじめる数値計算入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14128-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14128-8",
+    "keywords": []
+  },
+  {
+    "id": 526,
     "release_date": "2024/05/15",
     "book_title": "Spring徹底入門 第2版 Spring FrameworkによるJavaアプリケーション開発",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798181349",
@@ -4698,7 +4725,7 @@
     "keywords": []
   },
   {
-    "id": 524,
+    "id": 527,
     "release_date": "2024/05/17",
     "book_title": "なぜ依存を注入するのか　DIの原理・原則とパターン",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=143373",
@@ -4707,7 +4734,7 @@
     "keywords": []
   },
   {
-    "id": 525,
+    "id": 528,
     "release_date": "2024/05/20",
     "book_title": "C#ユーザーのためのWebアプリ開発パターン　ASP.NET Core Blazorによるエンタープライズアプリ開発",
     "book_url": "https://book.impress.co.jp/books/1122101173",
