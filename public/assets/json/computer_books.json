@@ -4741,5 +4741,32 @@
     "book_publisher": "impress",
     "isbn": "9784295019008",
     "keywords": []
+  },
+  {
+    "id": 529,
+    "release_date": "2024/05/20",
+    "book_title": "Python2年生 スクレイピングのしくみ 第2版 体験してわかる！会話でまなべる！",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182605",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798182605",
+    "keywords": ["python"]
+  },
+  {
+    "id": 530,
+    "release_date": "2024/05/20",
+    "book_title": "おうちで学べる Pythonのきほん",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184135",
+    "book_publisher": "技術評論社",
+    "isbn": "9784798184135",
+    "keywords": ["python"]
+  },
+  {
+    "id": 531,
+    "release_date": "2024/05/22",
+    "book_title": "MySQL運用・管理［実践］入門〜安全かつ高速にデータを扱う内部構造・動作原理を学ぶ",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14184-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14184-4",
+    "keywords": ["database"]
   }
 ]
