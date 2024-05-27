@@ -4768,5 +4768,32 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-14184-4",
     "keywords": ["database"]
+  },
+  {
+    "id": 532,
+    "release_date": "2024/05/28",
+    "book_title": "インフラの構成管理と自動化のための実践Ansible ",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798068725.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798068725",
+    "keywords": []
+  },
+  {
+    "id": 533,
+    "release_date": "2024/06/17",
+    "book_title": "Python2年生 データ分析のしくみ 第2版 体験してわかる！会話でまなべる！",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182629",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798182629",
+    "keywords": ["python"]
+  },
+  {
+    "id": 534,
+    "release_date": "2024/06/18",
+    "book_title": "脳に収まるコードの書き方",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400799/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0079-9",
+    "keywords": []
   }
 ]
