@@ -4780,6 +4780,15 @@
   },
   {
     "id": 533,
+    "release_date": "2024/06/12",
+    "book_title": "Rustで作るプログラミング言語",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14192-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14192-9",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 534,
     "release_date": "2024/06/17",
     "book_title": "Python2年生 データ分析のしくみ 第2版 体験してわかる！会話でまなべる！",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182629",
@@ -4788,12 +4797,66 @@
     "keywords": ["python"]
   },
   {
-    "id": 534,
+    "id": 535,
     "release_date": "2024/06/18",
     "book_title": "脳に収まるコードの書き方",
     "book_url": "https://www.oreilly.co.jp/books/9784814400799/",
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0079-9",
     "keywords": []
+  },
+  {
+    "id": 536,
+    "release_date": "2024/06/19",
+    "book_title": "［入門］Webフロントエンド E2E テスト",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14220-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14220-9",
+    "keywords": []
+  },
+  {
+    "id": 537,
+    "release_date": "2024/06/24",
+    "book_title": "プログラマーのためのVisual Studio Codeの教科書【改訂2版】",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=143648",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-85318",
+    "keywords": []
+  },
+  {
+    "id": 538,
+    "release_date": "2024/06/24",
+    "book_title": "爆速Python",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798183732",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798183732",
+    "keywords": []
+  },
+  {
+    "id": 539,
+    "release_date": "2024/06/25",
+    "book_title": "イラストでそこそこわかるLinux 第2版 コマンド入力からネットワークのきほんのきまで",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798181974",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798181974",
+    "keywords": ["linux"]
+  },
+  {
+    "id": 540,
+    "release_date": "2024/06/25",
+    "book_title": "いきなりプログラミング Python",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184869",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798184869",
+    "keywords": ["python"]
+  },
+  {
+    "id": 541,
+    "release_date": "2024/07/08",
+    "book_title": "Next.js＋ヘッドレスCMSではじめる！ かんたんモダンWebサイト制作入門 高速で、安全で、運用しやすいサイトのつくりかた",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798183664",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798183664",
+    "keywords": ["js"]
   }
 ]
