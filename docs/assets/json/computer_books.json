@@ -4816,6 +4816,15 @@
   },
   {
     "id": 537,
+    "release_date": "2024/06/21",
+    "book_title": "［改訂第3版］C#ポケットリファレンス",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14244-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14244-5",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 538,
     "release_date": "2024/06/24",
     "book_title": "プログラマーのためのVisual Studio Codeの教科書【改訂2版】",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=143648",
@@ -4824,7 +4833,7 @@
     "keywords": []
   },
   {
-    "id": 538,
+    "id": 539,
     "release_date": "2024/06/24",
     "book_title": "爆速Python",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798183732",
@@ -4833,7 +4842,7 @@
     "keywords": []
   },
   {
-    "id": 539,
+    "id": 540,
     "release_date": "2024/06/25",
     "book_title": "イラストでそこそこわかるLinux 第2版 コマンド入力からネットワークのきほんのきまで",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798181974",
@@ -4842,7 +4851,7 @@
     "keywords": ["linux"]
   },
   {
-    "id": 540,
+    "id": 541,
     "release_date": "2024/06/25",
     "book_title": "いきなりプログラミング Python",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184869",
@@ -4851,7 +4860,25 @@
     "keywords": ["python"]
   },
   {
-    "id": 541,
+    "id": 542,
+    "release_date": "2024/06/27",
+    "book_title": "Pythonクイックリファレンス 第4版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400812/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0081-2",
+    "keywords": ["python"]
+  },
+  {
+    "id": 543,
+    "release_date": "2024/07/02",
+    "book_title": "大規模データ管理 第2版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400713/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0071-3",
+    "keywords": []
+  }
+  {
+    "id": 544,
     "release_date": "2024/07/08",
     "book_title": "Next.js＋ヘッドレスCMSではじめる！ かんたんモダンWebサイト制作入門 高速で、安全で、運用しやすいサイトのつくりかた",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798183664",
