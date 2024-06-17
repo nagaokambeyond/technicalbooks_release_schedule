@@ -4870,20 +4870,56 @@
   },
   {
     "id": 543,
+    "release_date": "2024/06/27",
+    "book_title": "改訂新版　Visual Studio パーフェクトガイド",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14200-1",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14200-1",
+    "keywords": []
+  },
+  {
+    "id": 544,
     "release_date": "2024/07/02",
     "book_title": "大規模データ管理 第2版",
     "book_url": "https://www.oreilly.co.jp/books/9784814400713/",
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0071-3",
     "keywords": []
-  }
+  },
   {
     "id": 544,
+    "release_date": "2024/07/03",
+    "book_title": "［改訂第3版］Swiftポケットリファレンス",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14190-5",
+    "book_publisher": "impress",
+    "isbn": "978-4-297-14190-5",
+    "keywords": []
+  },
+  {
+    "id": 545,
+    "release_date": "2024/07/05",
+    "book_title": "SQLポケットガイド 第4版",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400805/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0080-5",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 545,
     "release_date": "2024/07/08",
     "book_title": "Next.js＋ヘッドレスCMSではじめる！ かんたんモダンWebサイト制作入門 高速で、安全で、運用しやすいサイトのつくりかた",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798183664",
     "book_publisher": "翔泳社",
     "isbn": "9784798183664",
     "keywords": ["js"]
+  },
+  {
+    "id": 546,
+    "release_date": "2024/07/16",
+    "book_title": "独習ASP.NET Core",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798180557",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798180557",
+    "keywords": []
   }
 ]
