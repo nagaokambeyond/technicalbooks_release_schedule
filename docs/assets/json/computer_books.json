@@ -4879,6 +4879,24 @@
   },
   {
     "id": 544,
+    "release_date": "2024/06/29",
+    "book_title": "クリエイティブプログラマー",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798072159.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798072159",
+    "keywords": []
+  },
+  {
+    "id": 545,
+    "release_date": "2024/07/01",
+    "book_title": "［入門］ドメイン駆動設計",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14317-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14317-6",
+    "keywords": []
+  },
+  {
+    "id": 546,
     "release_date": "2024/07/02",
     "book_title": "大規模データ管理 第2版",
     "book_url": "https://www.oreilly.co.jp/books/9784814400713/",
@@ -4887,7 +4905,7 @@
     "keywords": []
   },
   {
-    "id": 544,
+    "id": 547,
     "release_date": "2024/07/03",
     "book_title": "［改訂第3版］Swiftポケットリファレンス",
     "book_url": "https://gihyo.jp/book/2024/978-4-297-14190-5",
@@ -4896,7 +4914,7 @@
     "keywords": []
   },
   {
-    "id": 545,
+    "id": 548,
     "release_date": "2024/07/05",
     "book_title": "SQLポケットガイド 第4版",
     "book_url": "https://www.oreilly.co.jp/books/9784814400805/",
@@ -4905,7 +4923,7 @@
     "keywords": ["sql"]
   },
   {
-    "id": 545,
+    "id": 549,
     "release_date": "2024/07/08",
     "book_title": "Next.js＋ヘッドレスCMSではじめる！ かんたんモダンWebサイト制作入門 高速で、安全で、運用しやすいサイトのつくりかた",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798183664",
@@ -4914,12 +4932,30 @@
     "keywords": ["js"]
   },
   {
-    "id": 546,
+    "id": 550,
     "release_date": "2024/07/16",
     "book_title": "独習ASP.NET Core",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798180557",
     "book_publisher": "翔泳社",
     "isbn": "9784798180557",
+    "keywords": []
+  },
+  {
+    "id": 551,
+    "release_date": "2024/07/19",
+    "book_title": "手を動かしてわかるクリーンアーキテクチャ　ヘキサゴナルアーキテクチャによるクリーンなアプリケーション開発",
+    "book_url": "https://book.impress.co.jp/books/1123101096",
+    "book_publisher": "impress",
+    "isbn": "9784295019787",
+    "keywords": []
+  },
+  {
+    "id": 552,
+    "release_date": "2024/07/20",
+    "book_title": "ドメイン駆動設計をはじめよう",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400737/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0073-7",
     "keywords": []
   }
 ]
