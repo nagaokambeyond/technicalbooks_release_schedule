@@ -4957,5 +4957,59 @@
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0073-7",
     "keywords": []
+  },
+  {
+    "id": 553,
+    "release_date": "2024/07/22",
+    "book_title": "アジャイルチームによる目標づくりガイドブック OKRを機能させ成果に繋げるためのアプローチ",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184739",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798184739",
+    "keywords": []
+  },
+  {
+    "id": 554,
+    "release_date": "2024/07/25",
+    "book_title": "［改訂新版］実戦で役立つ C#プログラミングのイディオム/定石＆パターン",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14307-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14307-7",
+    "keywords": ["cs"]
+  },
+  {
+    "id": 555,
+    "release_date": "2024/07/25",
+    "book_title": "Web API設計実践入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14293-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14293-3",
+    "keywords": []
+  },
+  {
+    "id": 556,
+    "release_date": "2024/07/30",
+    "book_title": "テスト自動化実践ガイド 継続的にWebアプリケーションを改善するための知識と技法",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798172354",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798172354",
+    "keywords": []
+  },
+  {
+    "id": 557,
+    "release_date": "2024/08/05",
+    "book_title": "データ分析に強くなるSQLレシピ　小規模データの前処理・分析の書き方＆テクニック",
+    "book_url": "https://book.impress.co.jp/books/1123101037",
+    "book_publisher": "impress",
+    "isbn": "9784295019848",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 558,
+    "release_date": "2024/08/06",
+    "book_title": "マルチクラウドデータベースの教科書 クラウドロックインを乗り越えるデータベース構築ノウハウ",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798185170",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798185170",
+    "keywords": []
   }
 ]
