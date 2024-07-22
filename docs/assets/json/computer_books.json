@@ -5011,5 +5011,41 @@
     "book_publisher": "翔泳社",
     "isbn": "9784798185170",
     "keywords": []
+  },
+  {
+    "id": 559,
+    "release_date": "2024/08/09",
+    "book_title": "動かして学ぶ！Python Django開発入門 第3版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798186214",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798186214",
+    "keywords": ["python"]
+  },
+  {
+    "id": 560,
+    "release_date": "2024/08/26",
+    "book_title": "おうちで学べるデータベースのきほん 第2版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798185330",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798185330",
+    "keywords": []
+  },
+  {
+    "id": 561,
+    "release_date": "2024/08/28",
+    "book_title": "7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798181578",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798181578",
+    "keywords": []
+  },
+  {
+    "id": 562,
+    "release_date": "2024/08/28",
+    "book_title": "達人に学ぶDB設計徹底指南書 第2版",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798186627",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798186627",
+    "keywords": []
   }
 ]
