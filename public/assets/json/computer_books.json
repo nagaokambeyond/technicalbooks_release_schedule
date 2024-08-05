@@ -5023,6 +5023,15 @@
   },
   {
     "id": 560,
+    "release_date": "2024/08/13",
+    "book_title": "図解即戦力SQLのしくみと書き方がこれ1冊でしっかりわかる本",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14299-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14299-5",
+    "keywords": []
+  },
+  {
+    "id": 561,
     "release_date": "2024/08/26",
     "book_title": "おうちで学べるデータベースのきほん 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798185330",
@@ -5031,7 +5040,7 @@
     "keywords": []
   },
   {
-    "id": 561,
+    "id": 562,
     "release_date": "2024/08/28",
     "book_title": "7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798181578",
@@ -5040,7 +5049,7 @@
     "keywords": []
   },
   {
-    "id": 562,
+    "id": 563,
     "release_date": "2024/08/28",
     "book_title": "達人に学ぶDB設計徹底指南書 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798186627",
