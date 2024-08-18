@@ -5041,6 +5041,24 @@
   },
   {
     "id": 562,
+    "release_date": "2024/08/26",
+    "book_title": "C言語 プログラミングの初歩の初歩",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14333-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14333-6",
+    "keywords": ["c"]
+  },
+  {
+    "id": 563,
+    "release_date": "2024/08/26",
+    "book_title": "Ruby コードレシピ集",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14403-6",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14403-6",
+    "keywords": ["ruby"]
+  },
+  {
+    "id": 564,
     "release_date": "2024/08/28",
     "book_title": "7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798181578",
@@ -5049,12 +5067,30 @@
     "keywords": []
   },
   {
-    "id": 563,
+    "id": 565,
     "release_date": "2024/08/28",
     "book_title": "達人に学ぶDB設計徹底指南書 第2版",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798186627",
     "book_publisher": "翔泳社",
     "isbn": "9784798186627",
+    "keywords": []
+  },
+  {
+    "id": 566,
+    "release_date": "2024/09/19",
+    "book_title": "リスクから学ぶ Kubernetesコンテナセキュリティ コンテナ開発者がおさえておくべき基礎知識",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182780",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798182780",
+    "keywords": []
+  },
+  {
+    "id": 567,
+    "release_date": "2024/09/19",
+    "book_title": "動かして学ぶ！Next.js/React開発入門",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184678",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798184678",
     "keywords": []
   }
 ]
