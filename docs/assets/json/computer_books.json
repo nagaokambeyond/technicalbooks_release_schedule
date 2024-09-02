@@ -5077,6 +5077,42 @@
   },
   {
     "id": 566,
+    "release_date": "2024/09/06",
+    "book_title": "ChatGPTで学ぶNode.js & Webアプリ開発",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798073194.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798073194",
+    "keywords": ["nodejs"]
+  },
+  {
+    "id": 567,
+    "release_date": "2024/09/12",
+    "book_title": "現場のPython",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14401-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14401-2",
+    "keywords": ["python"]
+  },
+  {
+    "id": 568,
+    "release_date": "2024/09/13",
+    "book_title": "実践力を身につける Pythonの教科書 第2版",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=144583",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-83949",
+    "keywords": ["python"]
+  },
+  {
+    "id": 569,
+    "release_date": "2024/09/14",
+    "book_title": "SQL緊急救命室",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14405-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14405-0",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 570,
     "release_date": "2024/09/19",
     "book_title": "リスクから学ぶ Kubernetesコンテナセキュリティ コンテナ開発者がおさえておくべき基礎知識",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798182780",
@@ -5085,7 +5121,7 @@
     "keywords": []
   },
   {
-    "id": 567,
+    "id": 571,
     "release_date": "2024/09/19",
     "book_title": "動かして学ぶ！Next.js/React開発入門",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184678",
