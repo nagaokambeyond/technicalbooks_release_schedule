@@ -5128,5 +5128,32 @@
     "book_publisher": "翔泳社",
     "isbn": "9784798184678",
     "keywords": []
+  },
+  {
+    "id": 572,
+    "release_date": "2024/09/24",
+    "book_title": "標準SQL＋データベース入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14469-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14469-2",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 573,
+    "release_date": "2024/09/27",
+    "book_title": "3ステップでしっかり学ぶJavaScript入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14427-2",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14427-2",
+    "keywords": ["js"]
+  },
+  {
+    "id": 574,
+    "release_date": "2024/09/27",
+    "book_title": "ハイパーモダンPython",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400928/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0092-8",
+    "keywords": ["python"]
   }
 ]
