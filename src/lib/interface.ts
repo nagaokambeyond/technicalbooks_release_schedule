@@ -12,7 +12,7 @@ export interface Book {
   "release_date": Date;
   "book_title": string;
   "book_url": URL;
-  "book_publisher": String;
-  "isbn": String;
-  "keywords": Array<String>;
+  "book_publisher": string;
+  "isbn": string;
+  "keywords": Array<string>;
 }
