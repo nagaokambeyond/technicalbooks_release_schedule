@@ -22,7 +22,7 @@
         <td>{{ book.release_date }}</td>
         <td>
           <a
-            :href="book.book_url"
+            :href="book.book_url.toString()"
             target="_blank"
             rel="noopener noreferrer"
             >{{ book.book_title }}</a
