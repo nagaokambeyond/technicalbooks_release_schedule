@@ -5140,6 +5140,15 @@
   },
   {
     "id": 573,
+    "release_date": "2024/09/25",
+    "book_title": "図解！ Git&GitHubのツボとコツがゼッタイにわかる本［第2版］",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798073477.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798073477",
+    "keywords": ["git"]
+  },
+  {
+    "id": 574,
     "release_date": "2024/09/27",
     "book_title": "3ステップでしっかり学ぶJavaScript入門",
     "book_url": "https://gihyo.jp/book/2024/978-4-297-14427-2",
@@ -5148,12 +5157,21 @@
     "keywords": ["js"]
   },
   {
-    "id": 574,
+    "id": 575,
     "release_date": "2024/09/27",
     "book_title": "ハイパーモダンPython",
     "book_url": "https://www.oreilly.co.jp/books/9784814400928/",
     "book_publisher": "オライリー",
     "isbn": "978-4-8144-0092-8",
     "keywords": ["python"]
+  },
+  {
+    "id": 576,
+    "release_date": "2024/10/03",
+    "book_title": "Javaエンジニアのための ソフトウェアテスト実践入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14435-7",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14435-7",
+    "keywords": ["java"]
   }
 ]
