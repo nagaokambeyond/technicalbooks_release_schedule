@@ -5167,6 +5167,15 @@
   },
   {
     "id": 576,
+    "release_date": "2024/09/27",
+    "book_title": "犯罪捜査技術を活用したソフトウェア開発手法",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798071756.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798071756",
+    "keywords": []
+  },
+  {
+    "id": 577,
     "release_date": "2024/10/03",
     "book_title": "Javaエンジニアのための ソフトウェアテスト実践入門",
     "book_url": "https://gihyo.jp/book/2024/978-4-297-14435-7",
