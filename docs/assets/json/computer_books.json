@@ -5182,5 +5182,14 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-14435-7",
     "keywords": ["java"]
+  },
+  {
+    "id": 578,
+    "release_date": "2024/10/10",
+    "book_title": "Rustで学ぶWebAssembly",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14413-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14413-5",
+    "keywords": ["rust"]
   }
 ]
