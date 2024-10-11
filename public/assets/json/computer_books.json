@@ -5191,5 +5191,50 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-14413-5",
     "keywords": ["rust"]
+  },
+  {
+    "id": 579,
+    "release_date": "2024/10/12",
+    "book_title": "React.js 超入門",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798073767.html",
+    "book_publisher": "秀和システム",
+    "isbn": "9784798073767",
+    "keywords": ["react"]
+  },
+  {
+    "id": 580,
+    "release_date": "2024/10/19",
+    "book_title": "マスタリングAPIアーキテクチャ",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400898/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0089-8",
+    "keywords": []
+  },
+  {
+    "id": 581,
+    "release_date": "2024/10/23",
+    "book_title": "絵で見てわかるLinuxカーネルの仕組み",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798177847",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798177847",
+    "keywords": []
+  },
+  {
+    "id": 582,
+    "release_date": "2024/10/25",
+    "book_title": "バックエンドエンジニアを目指す人のためのRust",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798186016",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798186016",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 583,
+    "release_date": "2024/10/26",
+    "book_title": "Python FastAPI本格入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14447-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14447-0",
+    "keywords": ["python"]
   }
 ]
