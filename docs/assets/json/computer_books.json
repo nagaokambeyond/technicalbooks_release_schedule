@@ -5254,5 +5254,32 @@
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-14528-6",
     "keywords": ["python"]
+  },
+  {
+    "id": 586,
+    "release_date": "2024/11/05",
+    "book_title": "JavaScriptによるはじめてのアルゴリズム入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14494-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14494-4",
+    "keywords": ["js"]
+  },
+  {
+    "id": 587,
+    "release_date": "2024/11/09",
+    "book_title": "［作って学ぶ］ブラウザのしくみ",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14546-0",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14546-0",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 588,
+    "release_date": "2024/11/19",
+    "book_title": "スッキリわかるC言語入門 第3版",
+    "book_url": "https://book.impress.co.jp/books/1124101052",
+    "book_publisher": "impress",
+    "isbn": "9784295020295",
+    "keywords": ["c"]
   }
 ]
