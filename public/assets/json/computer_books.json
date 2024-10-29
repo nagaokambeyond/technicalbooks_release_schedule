@@ -5275,11 +5275,47 @@
   },
   {
     "id": 588,
+    "release_date": "2024/11/09",
+    "book_title": "JavaScriptプログラマーのためのTypeScript厳選ガイド〜JavaScriptプロジェクトを型安全で堅牢にする書き方を理解する",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14577-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14577-4",
+    "keywords": ["ts"]
+  },
+  {
+    "id": 589,
+    "release_date": "2024/11/11",
+    "book_title": "VPythonで見て学ぶ 物理シミュレーション入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14558-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14558-3",
+    "keywords": ["python"]
+  },
+  {
+    "id": 590,
+    "release_date": "2024/11/15",
+    "book_title": "Effective Rust",
+    "book_url": "https://www.oreilly.co.jp/books/9784814400942/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0094-2",
+    "keywords": ["rust"]
+  },
+  {
+    "id": 591,
     "release_date": "2024/11/19",
     "book_title": "スッキリわかるC言語入門 第3版",
     "book_url": "https://book.impress.co.jp/books/1124101052",
     "book_publisher": "impress",
     "isbn": "9784295020295",
     "keywords": ["c"]
+  },
+  {
+    "id": 592,
+    "release_date": "2024/11/27",
+    "book_title": "作りながら学ぶWebプログラミング実践入門 改訂版",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=146110",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-87954",
+    "keywords": []
   }
 ]
