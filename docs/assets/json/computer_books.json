@@ -5293,6 +5293,15 @@
   },
   {
     "id": 590,
+    "release_date": "2024/11/11",
+    "book_title": "なっとく！並行処理プログラミング",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798186900",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798186900",
+    "keywords": []
+  },
+  {
+    "id": 591,
     "release_date": "2024/11/15",
     "book_title": "Effective Rust",
     "book_url": "https://www.oreilly.co.jp/books/9784814400942/",
@@ -5301,7 +5310,7 @@
     "keywords": ["rust"]
   },
   {
-    "id": 591,
+    "id": 592,
     "release_date": "2024/11/19",
     "book_title": "スッキリわかるC言語入門 第3版",
     "book_url": "https://book.impress.co.jp/books/1124101052",
@@ -5310,7 +5319,7 @@
     "keywords": ["c"]
   },
   {
-    "id": 592,
+    "id": 593,
     "release_date": "2024/11/27",
     "book_title": "作りながら学ぶWebプログラミング実践入門 改訂版",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=146110",
