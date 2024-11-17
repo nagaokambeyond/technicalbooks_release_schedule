@@ -5320,11 +5320,65 @@
   },
   {
     "id": 593,
+    "release_date": "2024/11/21",
+    "book_title": "TECHNICAL MASTER はじめてのPython エンジニア入門編 Python3対応 第2版 （単行本）",
+    "book_url": "https://www.shuwasystem.co.jp/book/9784798073064.html",
+    "book_publisher": "impress",
+    "isbn": "9784798073064",
+    "keywords": []
+  },
+  {
+    "id": 594,
     "release_date": "2024/11/27",
     "book_title": "作りながら学ぶWebプログラミング実践入門 改訂版",
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=146110",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-87954",
+    "keywords": []
+  },
+  {
+    "id": 595,
+    "release_date": "2024/11/28",
+    "book_title": "生成AIによるサイバーセキュリティ実践ガイド",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=146171",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-87312",
+    "keywords": []
+  },
+  {
+    "id": 596,
+    "release_date": "2024/12/04",
+    "book_title": "Go言語で学ぶ並行プログラミング　他言語にも適用できる原則とベストプラクティス",
+    "book_url": "https://book.impress.co.jp/books/1123101144",
+    "book_publisher": "impress",
+    "isbn": "9784295020660",
+    "keywords": ["go"]
+  },
+  {
+    "id": 597,
+    "release_date": "2024/12/04",
+    "book_title": "スッキリわかるPythonによる機械学習入門 第2版",
+    "book_url": "https://book.impress.co.jp/books/1124101073",
+    "book_publisher": "impress",
+    "isbn": "9784295020608",
+    "keywords": ["python"]
+  },
+  {
+    "id": 598,
+    "release_date": "2024/12/09",
+    "book_title": "GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション技術 数千ページにもわたるハンドブックを活用したテキストコミュニケーションの作法",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798185705",
+    "book_publisher": "impress",
+    "isbn": "9784798185705",
+    "keywords": []
+  },
+  {
+    "id": 599,
+    "release_date": "2024/12/23",
+    "book_title": "ソフトウェア透明性 攻撃ベクトルを知り、脆弱性と戦うための最新知識",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798187969",
+    "book_publisher": "impress",
+    "isbn": "9784798187969",
     "keywords": []
   }
 ]
