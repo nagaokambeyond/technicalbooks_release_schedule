@@ -5383,6 +5383,24 @@
   },
   {
     "id": 600,
+    "release_date": "2024/12/04",
+    "book_title": "めもりーちゃんのPHPでプログラミング入門",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14587-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14587-3",
+    "keywords": ["php"]
+  },
+  {
+    "id": 601,
+    "release_date": "2024/12/07",
+    "book_title": "Ruby on Rails アプリケーションプログラミング",
+    "book_url": "https://gihyo.jp/book/2024/978-4-297-14598-9",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14598-9",
+    "keywords": ["ruby"]
+  },
+  {
+    "id": 602,
     "release_date": "2024/12/09",
     "book_title": "GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション技術 数千ページにもわたるハンドブックを活用したテキストコミュニケーションの作法",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798185705",
@@ -5391,12 +5409,39 @@
     "keywords": []
   },
   {
-    "id": 601,
+    "id": 603,
+    "release_date": "2024/12/20",
+    "book_title": "動かしながら学ぶ Python",
+    "book_url": "https://www.sbcr.jp/product/4815625825/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-2582-5",
+    "keywords": ["python"]
+  },
+  {
+    "id": 604,
     "release_date": "2024/12/23",
     "book_title": "ソフトウェア透明性 攻撃ベクトルを知り、脆弱性と戦うための最新知識",
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798187969",
     "book_publisher": "impress",
     "isbn": "9784798187969",
+    "keywords": []
+  },
+  {
+    "id": 605,
+    "release_date": "2024/12/25",
+    "book_title": "探索的テストの考え方 ソフトウェア開発のテスト設計とテクニック",
+    "book_url": "https://book.mynavi.jp/ec/products/detail/id=146407",
+    "book_publisher": "マイナビ",
+    "isbn": "978-4-8399-86032",
+    "keywords": []
+  },
+  {
+    "id": 606,
+    "release_date": "2024/12/25",
+    "book_title": "図解入門TCP/IP 第2版",
+    "book_url": "https://www.sbcr.jp/product/4815627058/",
+    "book_publisher": "SB Creative",
+    "isbn": "978-4-8156-2705-8",
     "keywords": []
   }
 ]
