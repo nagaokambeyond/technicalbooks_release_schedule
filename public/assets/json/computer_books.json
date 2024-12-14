@@ -5443,5 +5443,32 @@
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-2705-8",
     "keywords": []
+  },
+  {
+    "id": 607,
+    "release_date": "2024/12/25",
+    "book_title": "改訂新版　良いコード／悪いコードで学ぶ設計入門",
+    "book_url": "https://gihyo.jp/book/2025/978-4-297-14622-1",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14622-1",
+    "keywords": []
+  },
+  {
+    "id": 608,
+    "release_date": "2025/01/08",
+    "book_title": "【改訂新版】C言語ではじめるRaspberry Pi徹底入門",
+    "book_url": "https://gihyo.jp/book/2025/978-4-297-14647-4",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14647-4",
+    "keywords": []
+  },
+  {
+    "id": 609,
+    "release_date": "2025/01/24",
+    "book_title": "いきなりプログラミング JavaScript",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798184395",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798184395",
+    "keywords": ["js"]
   }
 ]
