@@ -11,6 +11,8 @@ VSCode用でdevcontainerを用意しました
 ## Project setup
 ```
 npm install
+npm install -g license-report
+npm install -g npm-check-updates
 ```
 
 ### Compiles and hot-reloads for development
