@@ -5518,11 +5518,65 @@
   },
   {
     "id": 615,
+    "release_date": "2025/01/24",
+    "book_title": "改訂第4版 すらすらと手が動くようになる SQL書き方ドリル",
+    "book_url": "https://gihyo.jp/book/2025/978-4-297-14673-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14673-3",
+    "keywords": ["sql"]
+  },
+  {
+    "id": 616,
+    "release_date": "2025/01/27",
+    "book_title": "ゲームで学ぶPython！ Pyxelではじめるレトロゲームプログラミング",
+    "book_url": "https://gihyo.jp/book/2025/978-4-297-14657-3",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14657-3",
+    "keywords": ["python"]
+  },
+  {
+    "id": 617,
+    "release_date": "2025/01/28",
+    "book_title": "パスキーのすべて",
+    "book_url": "https://gihyo.jp/book/2025/978-4-297-14653-5",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14653-5",
+    "keywords": []
+  },
+  {
+    "id": 618,
+    "release_date": "2025/01/28",
+    "book_title": "28日で即戦力！　サーバ技術者養成講座",
+    "book_url": "https://gihyo.jp/book/2025/978-4-297-14706-8",
+    "book_publisher": "技術評論社",
+    "isbn": "978-4-297-14706-8",
+    "keywords": []
+  },
+  {
+    "id": 619,
     "release_date": "2025/02/05",
     "book_title": "KubernetesとOSSではじめるコンテナ開発実践入門　クラウドネイティブな開発・運用環境のつくり方",
     "book_url": "https://book.impress.co.jp/books/1122101022",
     "book_publisher": "impress",
     "isbn": "9784295020400",
+    "keywords": []
+  },
+  {
+    "id": 620,
+    "release_date": "2025/02/05",
+    "book_title": "Gitハンズオンラーニング",
+    "book_url": "https://www.oreilly.co.jp/books/9784814401048/",
+    "book_publisher": "オライリー",
+    "isbn": "978-4-8144-0104-8",
+    "keywords": ["git"]
+  },
+  {
+    "id": 621,
+    "release_date": "2025/02/18",
+    "book_title": "Excel VBAのエラーを直す本",
+    "book_url": "https://book.impress.co.jp/books/1124101063",
+    "book_publisher": "impress",
+    "isbn": "9784295020226",
     "keywords": []
   }
 ]
