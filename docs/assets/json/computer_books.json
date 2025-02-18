@@ -1041,7 +1041,7 @@
     "book_url": "https://www.shuwasystem.co.jp/book/9784798055459.html",
     "book_publisher": "秀和システム",
     "isbn": "9784798055459",
-    "keywords": ["python","django"]
+    "keywords": ["python", "django"]
   },
   {
     "id": 118,
@@ -1104,7 +1104,7 @@
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12138-9",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12138-9",
-    "keywords": ["android","java"]
+    "keywords": ["android", "java"]
   },
   {
     "id": 125,
@@ -1176,7 +1176,7 @@
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12193-8",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12193-8",
-    "keywords": ["css","html"]
+    "keywords": ["css", "html"]
   },
   {
     "id": 133,
@@ -1185,7 +1185,7 @@
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798153957",
     "book_publisher": "翔泳社",
     "isbn": "9784798153957",
-    "keywords": ["python","django"]
+    "keywords": ["python", "django"]
   },
   {
     "id": 134,
@@ -1266,7 +1266,7 @@
     "book_url": "https://www.oreilly.co.jp/books/9784873119380/",
     "book_publisher": "オライリー",
     "isbn": "978-4-87311-938-0",
-    "keywords": ["js","react"]
+    "keywords": ["js", "react"]
   },
   {
     "id": 143,
@@ -1320,7 +1320,7 @@
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=123747",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7600-2",
-    "keywords": ["html","css"]
+    "keywords": ["html", "css"]
   },
   {
     "id": 149,
@@ -1383,7 +1383,7 @@
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=124054",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7711-5",
-    "keywords": ["html","js"]
+    "keywords": ["html", "js"]
   },
   {
     "id": 156,
@@ -1392,7 +1392,7 @@
     "book_url": "https://www.sbcr.jp/product/4815610722/",
     "book_publisher": "SB Creative",
     "isbn": "978-4-8156-1072-2",
-    "keywords": ["js","react"]
+    "keywords": ["js", "react"]
   },
   {
     "id": 157,
@@ -1581,7 +1581,7 @@
     "book_url": "https://gihyo.jp/book/2021/978-4-297-12429-8",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12429-8",
-    "keywords": ["java","spring"]
+    "keywords": ["java", "spring"]
   },
   {
     "id": 178,
@@ -1752,7 +1752,7 @@
     "book_url": "https://gihyo.jp/book/2022/978-4-297-12510-3",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12510-3",
-    "keywords": ["js","html"]
+    "keywords": ["js", "html"]
   },
   {
     "id": 197,
@@ -1761,7 +1761,7 @@
     "book_url": "https://gihyo.jp/book/2022/978-4-297-12490-8",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12490-8",
-    "keywords": ["js","html"]
+    "keywords": ["js", "html"]
   },
   {
     "id": 198,
@@ -1833,7 +1833,7 @@
     "book_url": "https://gihyo.jp/book/2022/978-4-297-12547-9",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12547-9",
-    "keywords": ["html","css"]
+    "keywords": ["html", "css"]
   },
   {
     "id": 206,
@@ -1851,7 +1851,7 @@
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127341",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7275-2",
-    "keywords": ["aws","azore","gcp"]
+    "keywords": ["aws", "azore", "gcp"]
   },
   {
     "id": 208,
@@ -1869,7 +1869,7 @@
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=127396",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7735-1",
-    "keywords": ["html","css"]
+    "keywords": ["html", "css"]
   },
   {
     "id": 210,
@@ -1887,7 +1887,7 @@
     "book_url": "https://www.shuwasystem.co.jp/book/9784798065113.html",
     "book_publisher": "秀和システム",
     "isbn": "9784798065113",
-    "keywords": ["java","android"]
+    "keywords": ["java", "android"]
   },
   {
     "id": 212,
@@ -2031,7 +2031,7 @@
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798174198",
     "book_publisher": "翔泳社",
     "isbn": "9784798174198",
-    "keywords": ["python","django"]
+    "keywords": ["python", "django"]
   },
   {
     "id": 228,
@@ -2067,7 +2067,7 @@
     "book_url": "https://www.shuwasystem.co.jp/book/9784798066059.html",
     "book_publisher": "秀和システム",
     "isbn": "9784798066059",
-    "keywords": ["python","django"]
+    "keywords": ["python", "django"]
   },
   {
     "id": 232,
@@ -2184,7 +2184,7 @@
     "book_url": "https://www.shuwasystem.co.jp/book/9784798067179.html",
     "book_publisher": "秀和システム",
     "isbn": "9784798067179",
-    "keywords": ["python","django"]
+    "keywords": ["python", "django"]
   },
   {
     "id": 245,
@@ -2247,7 +2247,7 @@
     "book_url": "https://book.mynavi.jp/ec/products/detail/id=129697",
     "book_publisher": "マイナビ",
     "isbn": "978-4-8399-7938-6",
-    "keywords": ["html","css"]
+    "keywords": ["html", "css"]
   },
   {
     "id": 252,
@@ -2445,7 +2445,7 @@
     "book_url": "https://gihyo.jp/book/2022/978-4-297-12916-3",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-12916-3",
-    "keywords": ["react","ts"]
+    "keywords": ["react", "ts"]
   },
   {
     "id": 274,
@@ -2778,7 +2778,7 @@
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798169040",
     "book_publisher": "翔泳社",
     "isbn": "9784798169040",
-    "keywords": ["html","css"]
+    "keywords": ["html", "css"]
   },
   {
     "id": 311,
@@ -3390,7 +3390,7 @@
     "book_url": "https://www.shoeisha.co.jp/book/detail/9784798175836",
     "book_publisher": "翔泳社",
     "isbn": "9784798175836",
-    "keywords": ["html","css"]
+    "keywords": ["html", "css"]
   },
   {
     "id": 379,
@@ -3543,7 +3543,7 @@
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13386-3",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-13386-3",
-    "keywords": ["html","css"]
+    "keywords": ["html", "css"]
   },
   {
     "id": 396,
@@ -3777,7 +3777,7 @@
     "book_url": "https://gihyo.jp/book/2023/978-4-297-13613-0",
     "book_publisher": "技術評論社",
     "isbn": "978-4-297-13613-0",
-    "keywords": ["java","spring"]
+    "keywords": ["java", "spring"]
   },
   {
     "id": 422,
@@ -5577,6 +5577,15 @@
     "book_url": "https://book.impress.co.jp/books/1124101063",
     "book_publisher": "impress",
     "isbn": "9784295020226",
+    "keywords": []
+  },
+  {
+    "id": 622,
+    "release_date": "2025/02/19",
+    "book_title": "Kubernetesで実践する Platform Engineering",
+    "book_url": "https://www.shoeisha.co.jp/book/detail/9784798188379",
+    "book_publisher": "翔泳社",
+    "isbn": "9784798188379",
     "keywords": []
   }
 ]
